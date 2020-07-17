@@ -2,8 +2,6 @@
 
 ## I am Siddhant Khare.
 
-<img align="right" src="https://github.com/Siddhant-K-code/Siddhant-K-code/blob/master/coding.gif" width="40%"/>
-
 
 - 🔭 I’m currently working on flutter Applications
 - 🌱 I’m currently learning JavaScript
