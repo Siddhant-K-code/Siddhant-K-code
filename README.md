@@ -12,8 +12,8 @@
 - 💬 Ask me about Web Development, UI/UX Designs, Technical Writing
 
 
-<br>
-<img src="https://github-readme-stats.vercel.app/api?username=Siddhant-K-code&&show_icons=true&title_color=08fdd8&icon_color=bb2acf&text_color=ffffff&bg_color=242424" width="100%"/>
+
+![Siddhant's github stats](https://github-readme-stats.vercel.app/api?username=Siddhant-K-code&show_icons=true&line_height=30)<br>
 
 
 ##
