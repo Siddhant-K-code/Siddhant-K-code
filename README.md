@@ -8,6 +8,8 @@
 <a href="mailto:Siddhantkhare2694@gmail.com"> <img src="https://img.icons8.com/fluent/48/000000/gmail.png" width="3.5%"/> </a>
 
 
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I've%20written-1266686%20Lines%20of%20code-blue)
+
 #### 🤔 Who Am I!?
 
 - 🏫 I am a Junior pursuing a Bachelor’s degree in Computer Sciences from the Global Engineering College, Jabalpur (M.P.) [2023].
@@ -26,6 +28,5 @@
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></code>
 
 
+<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=Siddhant-K-code&show_icons=true&theme=tokyonight" alt="Siddhant-Khare" /> </p>
 
-
-<img src="https://github-readme-stats.vercel.app/api?username=Siddhant-K-code&show_icons=true&hide_border=true" alt="Siddhant's GitHub Stats">
