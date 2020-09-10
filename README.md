@@ -40,10 +40,18 @@
 
 
 
+<p align="center"><img width="60%" src="https://github-readme-stats.vercel.app/api?username=Siddhant-K-code&show_icons=true&theme=tokyonight" /></p>
+<p align="center"><img height="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Siddhant-K-code&theme=tokyonight" /></p>
 
-<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=Siddhant-K-code&show_icons=true&theme=tokyonight" alt="Siddhant-Khare" /> </p>
+ 
 
-<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Siddhant-K-code&theme=tokyonight" alt="Siddhant-Khare" /> </p>
-
+<p align="center">
+<a href="https://github.com/Siddhant-K-code?tab=followers">
+    <img src="https://img.shields.io/github/followers/Siddhant-K-code?label=Followers&logo=GitHub&style=for-the-badge" alt="GitHub badge" />
+  </a>
+  <a href="http://twitter.com/Siddhant_K_code">
+    <img src="https://img.shields.io/twitter/follow/Siddhant_K_code?label=Twitter&logo=twitter&style=for-the-badge" />
+  </a>
+ </p>
 
 
