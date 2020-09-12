@@ -41,7 +41,7 @@
 
 
 <p align="center"><img width="75%" src="https://github-readme-stats.vercel.app/api?username=Siddhant-K-code&show_icons=true&theme=tokyonight" /></p>
-<p align="center"><img height="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Siddhant-K-code&theme=tokyonight" /></p>
+<p align="center"><img height="75%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Siddhant-K-code&theme=tokyonight" /></p>
 
  
 
