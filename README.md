@@ -8,7 +8,7 @@
 <a href="mailto:Siddhantkhare2694@gmail.com"> <img src="https://img.icons8.com/fluent/48/000000/gmail.png" width="3.5%"/> </a>
 
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I've%20written-1266686%20Lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I've%20written-4124786%20Lines%20of%20code-blue)
 
 #### 🤔 Who Am I!?
 
