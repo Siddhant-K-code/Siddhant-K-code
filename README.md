@@ -40,11 +40,9 @@
 
 
 
-<p align="center"><img width="75%" src="https://github-readme-stats.vercel.app/api?username=Siddhant-K-code&show_icons=true&theme=tokyonight" /></p>
 
-<p align="center"><img height="75%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Siddhant-K-code&theme=tokyonight" /></p>
-
- 
+![Siddhant's github stats](https://github-readme-stats.vercel.app/api?username=Siddhant-K-code&show_icons=true&hide_border=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Siddhant-K-code&layout=compact)
 
 <p align="center">
 <a href="https://github.com/Siddhant-K-code?tab=followers">
