@@ -13,7 +13,7 @@
 #### 🤔 Who Am I!?
 
 - 🏫 I am a Junior pursuing a Bachelor’s degree in Computer Sciences from the Global Engineering College, Jabalpur (M.P.) [2023].
-- ⚡️ My expertise primarily revolves around Web Developemnt, UI/UX Designs.
+- ⚡️ My expertise primarily revolves around Web Development, UI/UX Designs.
 - 🔭 I’m currently working on JavaScript, i.e., React.js, Node.js.
 - ♥️ I am an open-source lover and that's why I occasionally build open-source products.
 
