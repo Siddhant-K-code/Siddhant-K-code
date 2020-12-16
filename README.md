@@ -1,11 +1,11 @@
 ### Hello!  <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">
 
 
-[<img src="https://img.icons8.com/color/48/000000/twitter.png" width="3.5%"/>](https://twitter.com/Siddhant_K_code)
-[<img src="https://img.icons8.com/color/48/000000/linkedin.png" width="3.5%"/>](https://www.linkedin.com/in/siddhantkhare24/)
-[<img src="https://img.icons8.com/fluent/48/000000/facebook-new.png" width="3.5%"/>](https://www.facebook.com/SIDDHANTKHARE2407/)
-[<img src="https://img.icons8.com/fluent/48/000000/instagram-new.png" width="3.5%"/>](https://www.instagram.com/siddhant_says/)
+<a href="https://twitter.com/Siddhant_K_code"><img src="https://www.flaticon.com/svg/static/icons/svg/174/174876.svg" width="30" height="30"></a>
+<a href="https://www.linkedin.com/in/siddhantkhare24/"><img src="https://www.flaticon.com/svg/static/icons/svg/174/174857.svg" width="30" height="30"></a>
 <a href="mailto:Siddhantkhare2694@gmail.com"> <img src="https://img.icons8.com/fluent/48/000000/gmail.png" width="3.5%"/> </a>
+<a href="https://t.me/siddhant_khare"><img src="https://www.flaticon.com/svg/static/icons/svg/1532/1532545.svg" width="30" height="30"></a>
+<a href="https://www.instagram.com/siddhant_says/"><img src="https://www.flaticon.com/svg/static/icons/svg/174/174855.svg" width="30" height="30" /></a>
 
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I've%20written-4124786%20Lines%20of%20code-blue)
@@ -41,7 +41,7 @@
 <img src="https://github-profile-trophy.vercel.app/?username=Siddhant-K-code&theme=onedark&column=3&margin-w=15&margin-h=15">
 
 
-![Siddhant's github stats](https://github-readme-stats.vercel.app/api?username=Siddhant-K-code&show_icons=true&hide_border=true&theme=onedark)
+![Siddhant's github stats](https://github-readme-stats.vercel.app/api?username=Siddhant-K-code&show_icons=true&hide_border=true&theme=onedark) 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Siddhant-K-code&layout=compact&theme=onedark)
 
 <p align="center">
