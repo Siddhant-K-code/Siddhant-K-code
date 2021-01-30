@@ -14,9 +14,9 @@
 #### 🤔 Who Am I!?
 
 - 🏫 I am a Junior pursuing a Bachelor’s degree in Computer Sciences from the Global Engineering College, Jabalpur (M.P.) [2023].
-- ⚡️ My expertise primarily revolves around Web Development, UI/UX Designs.
-- 🔭 I’m currently working on JavaScript, i.e., React.js, Node.js.
-- ♥️ I am an open-source lover and that's why I occasionally build open-source products.
+- ⚡️ My expertise primarily revolves around JavaScript, React, MERN,Web Development, UI/UX Designs, and little bit about in Flutter.
+- 🔭 I’m currently working on Machine Learning.
+- ♥️ I am an open-source lover and that's why I regularly contribute to open-source products.
 
 #### 👨🏻‍💻 Mostly Used Languages and Tools :
 
