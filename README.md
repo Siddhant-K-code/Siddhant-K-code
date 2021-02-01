@@ -14,22 +14,16 @@
 #### 🤔 Who Am I!?
 
 - 🏫 I am a Junior pursuing a Bachelor’s degree in Computer Sciences from the Global Engineering College, Jabalpur (M.P.) [2023].
-- ⚡️ My expertise primarily revolves around JavaScript, React, MERN,Web Development, UI/UX Designs, and little bit about in Flutter.
+- ⚡️ My expertise primarily revolves around JavaScript, React, MERN, Web Development, UI/UX Designs, and little bit about in Flutter.
 - 🔭 I’m currently working on Machine Learning.
 - ♥️ I am an open-source lover and that's why I regularly contribute to open-source products.
+- 🐱‍💻 Competitive Programmer 
 
-#### 👨🏻‍💻 Mostly Used Languages and Tools :
+[![Codechef](https://cp-logo.vercel.app/codechef/siddhant_k)](https://www.codechef.com/users/siddhant_k)&nbsp;&nbsp;&nbsp;[![Codeforces](https://cp-logo.vercel.app/codeforces/siddhant_k)](https://codeforces.com/profile/siddhant_k)&nbsp;&nbsp;&nbsp;[![Atcoder](https://cp-logo.vercel.app/atcoder/Siddhant_Khare)](https://atcoder.jp/users/Siddhant_Khare)
 
-<code><img height="24" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/c/c.png"></code>
-<code><img height="24" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
-<code><img height="24" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
-<code><img height="24" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="24" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
-<code><img height="24" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
-<code><img height="24" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
-<code><img height="24" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
-<code><img height="24" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/jupyter-notebook/jupyter-notebook.png"></code>
-<code><img height="24" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/electron/electron.png"></code>
+#### 👨🏻‍💻 Mostly Used Languages, Frameworks :
+
+<img height="24" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/c/c.png">&nbsp;&nbsp;<img height="24" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png">&nbsp;&nbsp;<img height="24" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png">&nbsp;&nbsp;<img height="24" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png">&nbsp;&nbsp;<img height="24" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png">&nbsp;&nbsp;<img height="24" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png">&nbsp;&nbsp;<img height="24" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"><img height="24" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png">&nbsp;&nbsp;<img height="24" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/jupyter-notebook/jupyter-notebook.png">&nbsp;&nbsp;<img height="24" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/electron/electron.png">
 
 
 #### 👨🏻‍💻 Familiar With :
@@ -45,6 +39,7 @@
 
 ![Siddhant's github stats](https://github-readme-stats.vercel.app/api?username=Siddhant-K-code&show_icons=true&hide_border=true&theme=onedark) 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Siddhant-K-code&layout=compact&theme=onedark)
+
 
 <p align="center">
 <a href="https://github.com/Siddhant-K-code?tab=followers">
