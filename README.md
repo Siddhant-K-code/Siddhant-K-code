@@ -37,6 +37,9 @@
 ![Siddhant's github stats](https://github-readme-stats.vercel.app/api?username=Siddhant-K-code&show_icons=true&hide_border=true&theme=onedark) 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Siddhant-K-code&layout=compact&theme=onedark)
 
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Siddhant-K-code)  
+
+![GitHub metrics](https://metrics.lecoq.io/Siddhant-K-code)
 
 <p align="center">
 <a href="https://github.com/Siddhant-K-code?tab=followers">
