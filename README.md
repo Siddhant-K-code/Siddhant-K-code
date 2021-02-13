@@ -39,7 +39,6 @@
 
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Siddhant-K-code)  
 
-![Metrics](https://metrics.lecoq.io/Siddhant-K-code?template=classic&stars=1&tweets=1&followup=1&activity=1&activity.limit=5&activity.days=14&activity.filter=all&stars.limit=4&tweets.limit=2&tweets.user=.user.twitter&config.timezone=Asia%2FCalcutta&config.animated=true)
 
 <p align="center">
 <a href="https://github.com/Siddhant-K-code?tab=followers">
