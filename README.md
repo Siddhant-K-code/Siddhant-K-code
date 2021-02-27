@@ -37,7 +37,9 @@
 ![Siddhant's github stats](https://github-readme-stats.vercel.app/api?username=Siddhant-K-code&show_icons=true&hide_border=true&theme=onedark) 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Siddhant-K-code&layout=compact&theme=onedark)
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Siddhant-K-code)  
+![Siddhant's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=siddhant_k_code&layout=compact)
+
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=siddhant_k_code)  
 
 
 <p align="center">
