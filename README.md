@@ -39,7 +39,7 @@
 
 ![Siddhant's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=siddhant_k_code&layout=compact)
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=siddhant_k_code)  
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Siddhant-K-code)  
 
 
 <p align="center">
