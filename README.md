@@ -32,11 +32,13 @@
 
 <img src="https://github-profile-trophy.vercel.app/?username=Siddhant-K-code&theme=onedark&column=3&margin-w=15&margin-h=15">
 
+
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Siddhant-K-code&theme=tokyonight)
 
-![Siddhant's github stats](https://github-readme-stats.vercel.app/api?username=Siddhant-K-code&show_icons=true&hide_border=true&theme=onedark) 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Siddhant-K-code&layout=compact&theme=onedark)
+![Siddhant's github stats](https://github-readme-stats.vercel.app/api?username=Siddhant-K-code&show_icons=true&hide_border=true&theme=tokyonight) 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Siddhant-K-code&layout=compact&theme=tokyonight)
 
+![Siddhant's Contribution Stats](https://github-contribution-stats.vercel.app/api/?username=Siddhant-k-code)
 ![Siddhant's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=siddhant_k_code&layout=compact)
 
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Siddhant-K-code)  
