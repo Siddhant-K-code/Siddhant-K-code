@@ -1,7 +1,7 @@
 ### Hello!  <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">
 
 
-<a href="https://twitter.com/Siddhant_K_code"><img src="https://www.flaticon.com/svg/static/icons/svg/174/174876.svg" width="30" height="30"></a>
+<a href="https://twitter.com/intent/follow?screen_name=Siddhant_k_code"><img src="https://www.flaticon.com/svg/static/icons/svg/174/174876.svg" width="30" height="30"></a>
 <a href="https://www.linkedin.com/in/siddhantkhare24/"><img src="https://www.flaticon.com/svg/static/icons/svg/174/174857.svg" width="30" height="30"></a>
 <a href="mailto:Siddhantkhare2694@gmail.com"><img src="https://www.flaticon.com/svg/static/icons/svg/646/646187.svg" width="30" height="30"></a>
 <a href="https://www.facebook.com/SIDDHANTKHARE2407/"><img src="https://www.flaticon.com/svg/static/icons/svg/733/733547.svg" width="30" height="30"></a>
@@ -48,7 +48,7 @@
 <a href="https://github.com/Siddhant-K-code?tab=followers">
     <img src="https://img.shields.io/github/followers/Siddhant-K-code?label=Followers&logo=GitHub&style=for-the-badge" alt="GitHub badge" />
   </a>
-  <a href="http://twitter.com/Siddhant_K_code">
+  <a href="https://twitter.com/intent/follow?screen_name=Siddhant_k_code">
     <img src="https://img.shields.io/twitter/follow/Siddhant_K_code?label=Twitter&logo=twitter&style=for-the-badge" />
   </a>
  </p>
