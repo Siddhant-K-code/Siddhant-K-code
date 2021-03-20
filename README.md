@@ -15,7 +15,7 @@
 
 - 🏫 I am a Junior pursuing a Bachelor’s degree in Computer Sciences from the Global Engineering College, Jabalpur (M.P.) [2023].
 - ⚡️ My expertise primarily revolves around JavaScript, React, MERN, Web Development, UI/UX Designs, and little bit about in Flutter.
-- 🔭 I’m currently working on Machine Learning.
+- 🔭 I’m currently working with Multiple Open Source Projects & Startups.
 - ♥️ I am an open-source lover and that's why I regularly contribute to open-source products.
 > 🐱‍💻 Not very active in Competitive Programming anymore, but if i get time or feeling, i do :)
 
