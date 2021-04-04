@@ -7,7 +7,12 @@
 <a href="https://www.facebook.com/SIDDHANTKHARE2407/"><img src="https://www.flaticon.com/svg/static/icons/svg/733/733547.svg" width="30" height="30"></a>
 <a href="https://t.me/siddhant_khare"><img src="https://www.flaticon.com/svg/static/icons/svg/1532/1532545.svg" width="30" height="30"></a>
 <a href="https://www.instagram.com/siddhant_says/"><img src="https://www.flaticon.com/svg/static/icons/svg/174/174855.svg" width="30" height="30" /></a>
+<br>
 
+### My Blogs: 
+
+![https://medium.com/@siddhantkhare2694](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)
+![https://dev.to/siddhantkcode](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I've%20written-4124786%20Lines%20of%20code-blue)
 
