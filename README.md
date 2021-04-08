@@ -60,7 +60,6 @@
     
  </p>
  
- ![Keybase PGP](https://img.shields.io/keybase/pgp/siddhant_khare)
 
 
 <details>
