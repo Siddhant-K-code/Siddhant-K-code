@@ -57,7 +57,10 @@
   <a href="https://twitter.com/intent/follow?screen_name=Siddhant_k_code">
     <img src="https://img.shields.io/twitter/follow/Siddhant_K_code?label=Twitter&logo=twitter&style=for-the-badge" />
   </a>
+    
  </p>
+ 
+ ![Keybase PGP](https://img.shields.io/keybase/pgp/siddhant_khare)
 
 
 <details>
