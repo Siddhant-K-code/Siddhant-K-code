@@ -4,6 +4,7 @@
 <a href="https://twitter.com/intent/follow?screen_name=Siddhant_k_code"><img src="https://www.flaticon.com/svg/static/icons/svg/174/174876.svg" width="30" height="30"></a>
 <a href="https://www.linkedin.com/in/siddhantkhare24/"><img src="https://www.flaticon.com/svg/static/icons/svg/174/174857.svg" width="30" height="30"></a>
 <a href="mailto:Siddhantkhare2694@gmail.com"><img src="https://www.flaticon.com/svg/static/icons/svg/646/646187.svg" width="30" height="30"></a>
+<a href="https://keybase.io/siddhant_khare" rel="noopener" target="_blank"><img src="https://d33wubrfki0l68.cloudfront.net/d08c2ccfafc20d43b613da394cb5e94f49c66e9e/74733/assets/img/networks/keybase.svg" width="30" height="30" alt="Keybase Logo" draggable="false"></a>
 <a href="https://www.facebook.com/SIDDHANTKHARE2407/"><img src="https://www.flaticon.com/svg/static/icons/svg/733/733547.svg" width="30" height="30"></a>
 <a href="https://t.me/siddhant_khare"><img src="https://www.flaticon.com/svg/static/icons/svg/1532/1532545.svg" width="30" height="30"></a>
 <a href="https://www.instagram.com/siddhant_says/"><img src="https://www.flaticon.com/svg/static/icons/svg/174/174855.svg" width="30" height="30" /></a>
