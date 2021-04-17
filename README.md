@@ -48,7 +48,7 @@
 ![Siddhant's Contribution Stats](https://github-contribution-stats.vercel.app/api/?username=Siddhant-k-code)
 ![Siddhant's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=siddhant_k_code&layout=compact)
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Siddhant-K-code)  
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Siddhant-K-code&theme=github)  
 
 
 <p align="center">
