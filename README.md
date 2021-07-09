@@ -20,7 +20,7 @@
 
 #### 🤔 Who Is Siddhant Khare ?
 
-- 🏫 He is a Sophomore pursuing a Bachelor’s degree in Computer Sciences from the Global Engineering College, Jabalpur (M.P.).
+- 🏫 He is a Junior pursuing a Bachelor’s degree in Computer Sciences from the Global Engineering College, Jabalpur (M.P.).
 - ⚡️ His expertise primarily revolves around JavaScript, React, MERN, Web Development, UI/UX Designs, and a little bit about Flutter.
 - 🔭 He is currently working with Multiple Open Source Projects & Startups ( [Bread](https://github.com/trybread) & [TechVault](https://github.com/TechDiscussion) ).
 - ♥️ He is an open-source lover and that's why he regularly contributes to open-source products.
