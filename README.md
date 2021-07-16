@@ -21,8 +21,8 @@
 #### 🤔 Who Is Siddhant Khare ?
 
 - 🏫 He is a Junior pursuing a Bachelor’s degree in Computer Sciences from the Global Engineering College, Jabalpur (M.P.).
-- ⚡️ His expertise primarily revolves around JavaScript, React, MERN, Web Development, UI/UX Designs, and a little bit about Flutter.
-- 🔭 He is currently working with Multiple Open Source Projects & Startups ( [Bread](https://github.com/trybread) & [TechVault](https://github.com/TechDiscussion) ).
+- ⚡️ His expertise primarily revolves around JavaScript, React, MERN, Web Development, NestJS, Docker, AWS, and a little bit about Flutter & UI/UX Designs.
+- 🔭 He is currently working with Multiple Open Source Projects ( [MetaCall](https://github.com/metacall), [moja-global](https://github.com/moja-global), [Go Students](https://github.com/gostudent) & [Indian Open Source Foundation](https://github.com/IndianOpenSourceFoundation) ) & Startups ( [Bread](https://github.com/trybread) & [TechVault](https://github.com/TechDiscussion) ).
 - ♥️ He is an open-source lover and that's why he regularly contributes to open-source products.
 > 🐱‍💻 Not very active in Competitive Programming anymore, but if he get time or feeling, I do :)
 
