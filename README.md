@@ -15,12 +15,13 @@
 <a href="https://medium.com/@siddhantkhare2694"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" /></a>
 <a href="https://dev.to/siddhantkcode"><img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white"  /></a>
 
+### Resume:
+<a href="https://bit.ly/resumesiddhant"><img src="https://image.flaticon.com/icons/png/512/1503/1503161.png" width="60" height="60" /></a>
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I've%20written-4124786%20Lines%20of%20code-blue)
 
 #### 🤔 Who Is Siddhant Khare ?
 
-- 🏫 He is a Junior pursuing a Bachelor’s degree in Computer Sciences from the Global Engineering College, Jabalpur (M.P.).
+- 🏫 He is a Junior pursuing a Bachelor’s degree in Computer Science from the Global Engineering College, Jabalpur (M.P.).
 - ⚡️ His expertise primarily revolves around JavaScript, React, MERN, Web Development, NestJS, Docker, AWS, and a little bit about Flutter & UI/UX Designs.
 - 🔭 He is currently working with Multiple Open Source Projects ( [MetaCall](https://github.com/metacall), [moja-global](https://github.com/moja-global), [Go Students](https://github.com/gostudent) & [Indian Open Source Foundation](https://github.com/IndianOpenSourceFoundation) ) & Startups ( [Bread](https://github.com/trybread) & [TechVault](https://github.com/TechDiscussion) ).
 - ♥️ He is an open-source lover and that's why he regularly contributes to open-source products.
