@@ -10,15 +10,6 @@
 <a href="https://www.instagram.com/siddhant_says/"><img src="https://www.flaticon.com/svg/static/icons/svg/174/174855.svg" width="30" height="30" /></a>
 <br>
 
-### My Blogs:
-
-<a href="https://medium.com/@siddhantkhare2694"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" /></a>
-<a href="https://dev.to/siddhantkcode"><img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white"  /></a>
-
-### Resume:
-<a href="https://bit.ly/resumesiddhant"><img src="https://image.flaticon.com/icons/png/512/1503/1503161.png" width="60" height="60" /></a>
-
-
 #### 🤔 Who Is Siddhant Khare ?
 
 - 🏫 He is a Junior pursuing a Bachelor’s degree in Computer Science from the Global Engineering College, Jabalpur (M.P.).
@@ -28,6 +19,18 @@
 > 🐱‍💻 Not very active in Competitive Programming anymore, but if he get time or feeling, I do :)
 
 [![Leetcode](https://img.shields.io/badge/Leetcode-2063-orange)](https://leetcode.com/Siddhant_Khare/)&nbsp;&nbsp;&nbsp;&nbsp;[![Codechef](https://cp-logo.vercel.app/codechef/siddhant_k)](https://www.codechef.com/users/siddhant_k)&nbsp;&nbsp;&nbsp;[![Codeforces](https://cp-logo.vercel.app/codeforces/siddhant_k)](https://codeforces.com/profile/siddhant_k)&nbsp;&nbsp;&nbsp;[![Atcoder](https://cp-logo.vercel.app/atcoder/Siddhant_Khare)](https://atcoder.jp/users/Siddhant_Khare)
+
+
+### My Blogs:
+
+<a href="https://medium.com/@siddhantkhare2694"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" /></a>
+<a href="https://dev.to/siddhantkcode"><img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white"  /></a>
+
+### Resume:
+<a href="https://bit.ly/resumesiddhant"><img src="https://image.flaticon.com/icons/png/512/1503/1503161.png" width="60" height="60" /></a>
+
+
+
 #### 👨🏻‍💻 Mostly Used Languages, Frameworks :
 
 <img height=26 src="https://cdn.iconscout.com/icon/free/png-256/c-programming-569564.png">&nbsp;&nbsp;<img height=26 src="https://raw.githubusercontent.com/isocpp/logos/master/cpp_logo.png">&nbsp;&nbsp;<img height=26 src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png">&nbsp;&nbsp;<img height=26 src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png">&nbsp;&nbsp;<img height=26 src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png">&nbsp;&nbsp;<img height=26 src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png">&nbsp;&nbsp;<img height=26 src="https://camo.githubusercontent.com/5f54c0817521724a2deae8dedf0c280a589fd0aa9bffd7f19fa6254bb52e996a/68747470733a2f2f6e6573746a732e636f6d2f696d672f6c6f676f2d736d616c6c2e737667">&nbsp;&nbsp;<img height=26 src="https://camo.githubusercontent.com/92ec9eb7eeab7db4f5919e3205918918c42e6772562afb4112a2909c1aaaa875/68747470733a2f2f6173736574732e76657263656c2e636f6d2f696d6167652f75706c6f61642f76313630373535343338352f7265706f7369746f726965732f6e6578742d6a732f6e6578742d6c6f676f2e706e67">&nbsp;&nbsp;<img height=26 src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png">&nbsp;&nbsp;<img height=26 src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"><img height=26 src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png">&nbsp;&nbsp;<img height=26 src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/jupyter-notebook/jupyter-notebook.png">&nbsp;&nbsp;
