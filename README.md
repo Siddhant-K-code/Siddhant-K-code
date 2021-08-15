@@ -16,7 +16,7 @@
 - ⚡️ His expertise primarily revolves around JavaScript, React, MERN, Web Development, NestJS, Docker, AWS, and a little bit about Flutter & UI/UX Designs.
 - 🔭 He is currently working with Multiple Open Source Projects ( [MetaCall](https://github.com/metacall), [hikaya-io](https://github.com/hikaya-io), [moja-global](https://github.com/moja-global), [Go Students](https://github.com/gostudent) & [Indian Open Source Foundation](https://github.com/IndianOpenSourceFoundation) ) & Startups ( [Bread](https://github.com/trybread) & [TechVault](https://github.com/TechDiscussion) ).
 - ♥️ He is an open-source lover and that's why he regularly contributes to open-source products.
-> 🐱‍💻 Not very active in Competitive Programming anymore, but if he get time or feeling, I do :)
+> 🐱‍💻 Not very active in Competitive Programming anymore, but if he get time or feeling, he do :)
 
 [![Leetcode](https://img.shields.io/badge/Leetcode-2063-orange)](https://leetcode.com/Siddhant_Khare/)&nbsp;&nbsp;&nbsp;&nbsp;[![Codechef](https://cp-logo.vercel.app/codechef/siddhant_k)](https://www.codechef.com/users/siddhant_k)&nbsp;&nbsp;&nbsp;[![Codeforces](https://cp-logo.vercel.app/codeforces/siddhant_k)](https://codeforces.com/profile/siddhant_k)&nbsp;&nbsp;&nbsp;[![Atcoder](https://cp-logo.vercel.app/atcoder/Siddhant_Khare)](https://atcoder.jp/users/Siddhant_Khare)
 
@@ -27,9 +27,10 @@
 <a href="https://dev.to/siddhantkcode"><img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white"  /></a>
 
 ### Resume:
-<a href="https://bit.ly/resumesiddhant"><img src="https://image.flaticon.com/icons/png/512/1503/1503161.png" width="60" height="60" /></a>
+<a href="https://siddhant-k-code.github.io/resume.pdf"><img src="https://image.flaticon.com/icons/png/512/1503/1503161.png" width="60" height="60" /></a>
 
-### [@Portfolio](https://siddhant-k-code.github.io/)
+### Portfolio
+<a href="https://siddhant-k-code.github.io/"><img src="https://image.flaticon.com/icons/png/512/5175/5175273.png" width="60" height="60" /></a>
 
 #### 👨🏻‍💻 Mostly Used Languages, Frameworks :
 
