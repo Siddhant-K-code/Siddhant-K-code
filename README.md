@@ -1,4 +1,4 @@
-### Hello!  <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">
+### Hello!
 
 
 <a href="https://twitter.com/intent/follow?screen_name=Siddhant_k_code"><img src="https://www.flaticon.com/svg/static/icons/svg/174/174876.svg" width="30" height="30"></a>
@@ -20,6 +20,7 @@
 
 [![Leetcode](https://img.shields.io/badge/Leetcode-2063-orange)](https://leetcode.com/Siddhant_Khare/)&nbsp;&nbsp;&nbsp;&nbsp;[![Codechef](https://cp-logo.vercel.app/codechef/siddhant_k)](https://www.codechef.com/users/siddhant_k)&nbsp;&nbsp;&nbsp;[![Codeforces](https://cp-logo.vercel.app/codeforces/siddhant_k)](https://codeforces.com/profile/siddhant_k)&nbsp;&nbsp;&nbsp;[![Atcoder](https://cp-logo.vercel.app/atcoder/Siddhant_Khare)](https://atcoder.jp/users/Siddhant_Khare)
 
+### [**My Open Source Contributions**](https://github.com/search?q=is%3Aissue+is%3Apr+author%3ASiddhant-K-code)
 
 ### My Blogs:
 
