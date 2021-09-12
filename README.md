@@ -15,7 +15,7 @@
 
 - 🏫 He is a Junior pursuing a Bachelor’s degree in Computer Science from the Global Engineering College, Jabalpur, India.
 - ⚡️ His expertise primarily revolves around JavaScript, React, MERN, Web Development, NestJS, Docker, AWS, and a little bit about Flutter & UI/UX Designs.
-- 🔭 He is currently working with Multiple Open Source Projects ( [MetaCall](https://github.com/metacall), [moja-global](https://github.com/moja-global), [Go Students](https://github.com/gostudent) & [Indian Open Source Foundation](https://github.com/IndianOpenSourceFoundation) ) & Startups ( [hikaya-io](https://github.com/hikaya-io) & [TechVault](https://github.com/TechDiscussion) ).
+- 🔭 He is currently working with Multiple Open Source Projects ( [MetaCall](https://github.com/metacall), [moja-global](https://github.com/moja-global), [Go Students](https://github.com/gostudent) & [Indian Open Source Foundation](https://github.com/IndianOpenSourceFoundation) ) & worked with these Startups in past ( [hikaya-io](https://github.com/hikaya-io) & [TechVault](https://github.com/TechDiscussion) ).
 - ♥️ He is an open-source lover and that's why he regularly contributes to open-source products.
 
   > 🐱‍💻 Not very active in Competitive Programming anymore, but if he get time or feeling, he do :)
@@ -71,9 +71,6 @@
 
 <img height=23 src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white">&nbsp;&nbsp;<img height=23 src="https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white">&nbsp;&nbsp;<img height=23 src="https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white">&nbsp;&nbsp;<img height=23 src="https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white">&nbsp;&nbsp;<img height=23 src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white">
 
-### 📈 Github Statistics
-
-![Siddhant's github stats](https://github-readme-stats.vercel.app/api?username=Siddhant-K-code&show_icons=true&hide_border=true&theme=tokyonight&count_private=true)
 
 ### 👨🏻‍💻 Programming Statistics
 
