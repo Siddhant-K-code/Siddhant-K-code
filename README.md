@@ -2,12 +2,18 @@
 
 <br>
 
+#### All my work life at one place:
+<a href="https://peerlist.io/siddhant"><img height=44 src="https://github.com/Siddhant-K-code/Siddhant-K-code/blob/master/PL%20Logo%20-%20Primary.svg"/></a>
+
+<br>
+
 <a href="https://twitter.com/intent/follow?screen_name=Siddhant_k_code"><img src="https://img.shields.io/badge/Siddhant_k_code-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white"></a>
 <a href="https://www.linkedin.com/in/siddhantkhare24/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 <a href="mailto:Siddhantkhare2694@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
 <a href="https://www.facebook.com/SIDDHANTKHARE2407/"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white"></a>
 <a href="https://t.me/siddhant_khare"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"></a>
 <a href="https://www.instagram.com/siddhant_says/"><img src="https://img.shields.io/badge/siddhant_says-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"/></a>
+
 
 <br>
 
