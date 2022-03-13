@@ -21,7 +21,7 @@
 
 - 🏫 He is a Junior pursuing a Bachelor’s degree in Computer Science from the Global Engineering College, Jabalpur, India.
 - ⚡️ His expertise primarily revolves around JavaScript, React, MERN, Web Development, NestJS, Docker, AWS, and a little bit about Flutter & UI/UX Designs.
-- 🔭 He is currently working with Multiple Open Source Projects ( [MetaCall](https://github.com/metacall), [moja-global](https://github.com/moja-global), [Go Students](https://github.com/gostudent) & [Indian Open Source Foundation](https://github.com/IndianOpenSourceFoundation) ) & worked with these Startups in past ( [hikaya-io](https://github.com/hikaya-io) & [TechVault](https://github.com/TechDiscussion) ).
+- 🔭 He is currently working Working in GitHub as an Engineering Extern and also collaborating with Multiple Open Source Projects ( [MetaCall](https://github.com/metacall), [Go Students](https://github.com/gostudent) & [Indian Open Source Foundation](https://github.com/IndianOpenSourceFoundation) ) & worked with these Startups in past ( [hikaya-io](https://github.com/hikaya-io) & [TechVault](https://github.com/TechDiscussion) ).
 - ♥️ He is an open-source lover and that's why he regularly contributes to open-source products.
 
   > 🐱‍💻 Not very active in Competitive Programming anymore, but if he get time or feeling, he do :)
