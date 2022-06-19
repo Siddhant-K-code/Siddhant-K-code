@@ -7,12 +7,12 @@
 
 <br>
 
-<a href="https://twitter.com/intent/follow?screen_name=Siddhant_k_code"><img src="https://img.shields.io/badge/Siddhant_k_code-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white"></a>
-<a href="https://www.linkedin.com/in/siddhantkhare24/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-<a href="mailto:Siddhantkhare2694@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
-<a href="https://www.facebook.com/SIDDHANTKHARE2407/"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white"></a>
-<a href="https://t.me/siddhant_khare"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"></a>
-<a href="https://www.instagram.com/siddhant_says/"><img src="https://img.shields.io/badge/siddhant_says-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"/></a>
+<a href="https://twitter.com/intent/follow?screen_name=Siddhant_k_code"><img src="https://img.shields.io/badge/Siddhant_k_code-%231DA1F2.svg?style=for-the-badge&logo=Twitter&style=flat&logoColor=white"></a>
+<a href="https://www.linkedin.com/in/siddhantkhare24/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&style=flat&logoColor=white"></a>
+<a href="mailto:Siddhantkhare2694@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&style=flat&logoColor=white"></a>
+<a href="https://www.facebook.com/SIDDHANTKHARE2407/"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&style=flat&logoColor=white"></a>
+<a href="https://t.me/siddhant_khare"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&style=flat&logoColor=white"></a>
+<a href="https://www.instagram.com/siddhant_says/"><img src="https://img.shields.io/badge/siddhant_says-%23E4405F.svg?style=for-the-badge&logo=Instagram&style=flat&logoColor=white"/></a>
 
 
 <br>
@@ -21,7 +21,7 @@
 
 - 🏫 He is a Senior pursuing a Bachelor’s degree in Computer Science from the Global Engineering College, Jabalpur, India & will be graduating in 2023
 - ⚡️ His expertise primarily revolves around JavaScript, React, MERN, Web Development, NestJS, Docker, AWS, and a little bit about Flutter & UI/UX Designs.
-- 🔭 He is currently Working in Gitpod as SWE Intern, he previously worked with GitHub as an Engineering Extern and also collaborating with Multiple Open Source Projects ( [MetaCall](https://github.com/metacall), [Go Students](https://github.com/gostudent) & [Indian Open Source Foundation](https://github.com/IndianOpenSourceFoundation) ) & worked with these Startups in past ( [hikaya-io](https://github.com/hikaya-io) & [TechVault](https://github.com/TechDiscussion) ).
+- 🔭 He is currently Working in [**Gitpod**](https://www.gitpod.io/) as SWE Intern, he previously worked with [**GitHub**](https://github.com/) as an Engineering Extern, He is the maintainer of [**github1s**](https://github.com/conwnet/github1s) and also collaborating with Multiple Open Source Projects ( [MetaCall](https://github.com/metacall), [Go Students](https://github.com/gostudent) & [Indian Open Source Foundation](https://github.com/IndianOpenSourceFoundation) ) & worked with these Startups in past ( [hikaya-io](https://github.com/hikaya-io) & [TechVault](https://github.com/TechDiscussion) ).
 - ♥️ He is an open-source lover and that's why he regularly contributes to open-source products.
 
   > 🐱‍💻 Not very active in Competitive Programming anymore, but if he get time or feeling, he do :)
@@ -32,7 +32,7 @@
 
 ### **My Portfolio**:
 
-<a href="https://siddhant-k-code.github.io/"><img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139"/></a>
+<a href="https://siddhant-k-code.github.io/"><img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=Firefox&style=flat&logoColor=#FF7139"/></a>
 
 ### _**My Blogs**_:
 
