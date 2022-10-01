@@ -2,7 +2,7 @@
 
 <br>
 
-#### All my work life at one place:
+#### All my work life at one place
 <a href="https://peerlist.io/siddhant"><img height=44 src="https://github.com/Siddhant-K-code/Siddhant-K-code/blob/master/PL%20Logo%20-%20Primary.svg"/></a>
 
 <br>
