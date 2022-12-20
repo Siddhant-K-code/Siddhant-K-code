@@ -19,14 +19,14 @@
 
 #### 🤔 Who Is Siddhant Khare ?
 
-- 🏫 He is a Senior pursuing a Bachelor’s degree in Computer Science from the Global Engineering College, Jabalpur, India & will be graduating in 2023
-- ⚡️ His expertise primarily revolves around JavaScript, React, MERN, Web Development, NestJS, Docker, AWS, and a little bit about Flutter & UI/UX Designs.
-- 🔭 He is currently Working in [**Gitpod**](https://www.gitpod.io/) as SWE Intern, he previously worked with [**GitHub**](https://github.com/) as an Engineering Extern, He is the maintainer of [**github1s**](https://github.com/conwnet/github1s) and also collaborating with Multiple Open Source Projects ( [MetaCall](https://github.com/metacall), [Go Students](https://github.com/gostudent) & [Indian Open Source Foundation](https://github.com/IndianOpenSourceFoundation) ) & worked with these Startups in past ( [hikaya-io](https://github.com/hikaya-io) & [TechVault](https://github.com/TechDiscussion) ).
+<!-- - 🏫 He is a Senior pursuing a Bachelor’s degree in Computer Science from the Global Engineering College, Jabalpur, India & will be graduating in 2023
+- ⚡️ His expertise primarily revolves around JavaScript, React, MERN, Web Development, NestJS, Docker, AWS, and a little bit about Flutter & UI/UX Designs. -->
+- 🔭 He is currently Working in [**Gitpod**](https://www.gitpod.io/) as SWE, he previously worked with [**GitHub**](https://github.com/) as an Engineering Extern, He is the maintainer of [**github1s**](https://github.com/conwnet/github1s) and also collaborating with Multiple Open Source Projects ( [MetaCall](https://github.com/metacall), [Go Students](https://github.com/gostudent) & [Indian Open Source Foundation](https://github.com/IndianOpenSourceFoundation) ) & worked with these Startups in past ( [hikaya-io](https://github.com/hikaya-io) & [TechVault](https://github.com/TechDiscussion) ).
 - ♥️ He is an open-source lover and that's why he regularly contributes to open-source products.
 
-  > 🐱‍💻 Not very active in Competitive Programming anymore, but if he get time or feeling, he do :)
+<!--   > 🐱‍💻 Not very active in Competitive Programming anymore, but if he get time or feeling, he do :)
 
-  > [![Leetcode](https://img.shields.io/badge/Leetcode-2063-orange)](https://leetcode.com/Siddhant_Khare/)&nbsp;&nbsp;&nbsp;[![Codechef](https://cp-logo.vercel.app/codechef/siddhant_k)](https://www.codechef.com/users/siddhant_k)&nbsp;&nbsp;&nbsp;[![Codeforces](https://cp-logo.vercel.app/codeforces/siddhant_k)](https://codeforces.com/profile/siddhant_k)&nbsp;&nbsp;&nbsp;[![Atcoder](https://cp-logo.vercel.app/atcoder/Siddhant_Khare)](https://atcoder.jp/users/Siddhant_Khare)
+  > [![Leetcode](https://img.shields.io/badge/Leetcode-2063-orange)](https://leetcode.com/Siddhant_Khare/)&nbsp;&nbsp;&nbsp;[![Codechef](https://cp-logo.vercel.app/codechef/siddhant_k)](https://www.codechef.com/users/siddhant_k)&nbsp;&nbsp;&nbsp;[![Codeforces](https://cp-logo.vercel.app/codeforces/siddhant_k)](https://codeforces.com/profile/siddhant_k)&nbsp;&nbsp;&nbsp;[![Atcoder](https://cp-logo.vercel.app/atcoder/Siddhant_Khare)](https://atcoder.jp/users/Siddhant_Khare) -->
 
 <br>
 
