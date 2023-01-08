@@ -47,23 +47,18 @@
 ---
 
 ### Repositories that I've contributed to 🌟
-
-[![conwnet/github1s - GitHub](https://gh-card.dev/repos/conwnet/github1s.svg?fullname=)](https://github.com/conwnet/github1s)
-[![Greenstand/treetracker-wallet-web - GitHub](https://gh-card.dev/repos/Greenstand/treetracker-wallet-web.svg?fullname=)](https://github.com/Greenstand/treetracker-wallet-web)
-[![calcom/cal.com - GitHub](https://gh-card.dev/repos/calcom/cal.com.svg?fullname=)](https://github.com/calcom/cal.com)
-[![easyCZ/connect-go-prometheus - GitHub](https://gh-card.dev/repos/easyCZ/connect-go-prometheus.svg?fullname=)](https://github.com/easyCZ/connect-go-prometheus)
-[![znck/grammarly - GitHub](https://gh-card.dev/repos/znck/grammarly.svg?fullname=)](https://github.com/znck/grammarly)
-[![metacall/core - GitHub](https://gh-card.dev/repos/metacall/core.svg?fullname=)](https://github.com/metacall/core)
-[![metacall/deploy - GitHub](https://gh-card.dev/repos/metacall/deploy.svg?fullname=)](https://github.com/metacall/deploy)
-[![metacall/landing-page - GitHub](https://gh-card.dev/repos/metacall/landing-page.svg?fullname=)](https://github.com/metacall/landing-page)
+|||
+|:---:|:---:|
+|[![conwnet/github1s - GitHub](https://gh-card.dev/repos/conwnet/github1s.svg?fullname=)](https://github.com/conwnet/github1s)|[![Greenstand/treetracker-wallet-web - GitHub](https://gh-card.dev/repos/Greenstand/treetracker-wallet-web.svg?fullname=)](https://github.com/Greenstand/treetracker-wallet-web)|
+|[![calcom/cal.com - GitHub](https://gh-card.dev/repos/calcom/cal.com.svg?fullname=)](https://github.com/calcom/cal.com)|[![easyCZ/connect-go-prometheus - GitHub](https://gh-card.dev/repos/easyCZ/connect-go-prometheus.svg?fullname=)](https://github.com/easyCZ/connect-go-prometheus)
+|[![znck/grammarly - GitHub](https://gh-card.dev/repos/znck/grammarly.svg?fullname=)](https://github.com/znck/grammarly)|[![metacall/core - GitHub](https://gh-card.dev/repos/metacall/core.svg?fullname=)](https://github.com/metacall/core)|[![metacall/deploy - GitHub](https://gh-card.dev/repos/metacall/deploy.svg?fullname=)](https://github.com/metacall/deploy)|[![metacall/landing-page - GitHub](https://gh-card.dev/repos/metacall/landing-page.svg?fullname=)](https://github.com/metacall/landing-page)|
 
 ### Other Contributions 
 
-[![openupthecloud/open-cloud-dev-box - GitHub](https://gh-card.dev/repos/openupthecloud/open-cloud-dev-box.svg?fullname=)](https://github.com/openupthecloud/open-cloud-dev-box)
-[![jasonraimondi/ts-oauth2-server - GitHub](https://gh-card.dev/repos/jasonraimondi/ts-oauth2-server.svg?fullname=)](https://github.com/jasonraimondi/ts-oauth2-server)
-[![IndianOpenSourceFoundation/dynamic-cli - GitHub](https://gh-card.dev/repos/IndianOpenSourceFoundation/dynamic-cli.svg?fullname=)](https://github.com/IndianOpenSourceFoundation/dynamic-cli)
-[![oss-review-toolkit/ort - GitHub](https://gh-card.dev/repos/oss-review-toolkit/ort.svg?fullname=)](https://github.com/oss-review-toolkit/ort)
-[![tattle-made/OGBV - GitHub](https://gh-card.dev/repos/tattle-made/OGBV.svg?fullname=)](https://github.com/tattle-made/OGBV)
-[![sourcegraph/sourcegraph - GitHub](https://gh-card.dev/repos/sourcegraph/sourcegraph.svg?fullname=)](https://github.com/sourcegraph/sourcegraph)
-[![google/lyra - GitHub](https://gh-card.dev/repos/google/lyra.svg?fullname=)](https://github.com/google/lyra)
-[![jackyzha0/ctrl-v - GitHub](https://gh-card.dev/repos/jackyzha0/ctrl-v.svg?fullname=)](https://github.com/jackyzha0/ctrl-v) & [some more...](https://github.com/search?q=author%3ASiddhant-K-code&type=pullrequests&s=created&o=desc)
+|||
+|:---:|:---:|
+|[![openupthecloud/open-cloud-dev-box - GitHub](https://gh-card.dev/repos/openupthecloud/open-cloud-dev-box.svg?fullname=)](https://github.com/openupthecloud/open-cloud-dev-box)|[![jasonraimondi/ts-oauth2-server - GitHub](https://gh-card.dev/repos/jasonraimondi/ts-oauth2-server.svg?fullname=)](https://github.com/jasonraimondi/ts-oauth2-server)|
+|[![IndianOpenSourceFoundation/dynamic-cli - GitHub](https://gh-card.dev/repos/IndianOpenSourceFoundation/dynamic-cli.svg?fullname=)](https://github.com/IndianOpenSourceFoundation/dynamic-cli)|[![oss-review-toolkit/ort - GitHub](https://gh-card.dev/repos/oss-review-toolkit/ort.svg?fullname=)](https://github.com/oss-review-toolkit/ort)|
+|[![tattle-made/OGBV - GitHub](https://gh-card.dev/repos/tattle-made/OGBV.svg?fullname=)](https://github.com/tattle-made/OGBV)|[![sourcegraph/sourcegraph - GitHub](https://gh-card.dev/repos/sourcegraph/sourcegraph.svg?fullname=)](https://github.com/sourcegraph/sourcegraph)|
+|[![google/lyra - GitHub](https://gh-card.dev/repos/google/lyra.svg?fullname=)](https://github.com/google/lyra)|[![jackyzha0/ctrl-v - GitHub](https://gh-card.dev/repos/jackyzha0/ctrl-v.svg?fullname=)](https://github.com/jackyzha0/ctrl-v) 
+| [some more...](https://github.com/search?q=author%3ASiddhant-K-code&type=pullrequests&s=created&o=desc)|
