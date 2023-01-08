@@ -7,26 +7,31 @@
 
 <br>
 
+[![wakatime](https://wakatime.com/badge/user/58573df6-0225-498a-8fdc-fefd0c13bb75.svg)](https://wakatime.com/@58573df6-0225-498a-8fdc-fefd0c13bb75)
 <a href="https://twitter.com/intent/follow?screen_name=Siddhant_k_code"><img src="https://img.shields.io/badge/Siddhant_k_code-%231DA1F2.svg?style=for-the-badge&logo=Twitter&style=flat&logoColor=white"></a>
 <a href="https://www.linkedin.com/in/siddhantkhare24/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&style=flat&logoColor=white"></a>
 <a href="mailto:Siddhantkhare2694@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&style=flat&logoColor=white"></a>
-<a href="https://www.facebook.com/SIDDHANTKHARE2407/"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&style=flat&logoColor=white"></a>
 <a href="https://t.me/siddhant_khare"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&style=flat&logoColor=white"></a>
 <a href="https://www.instagram.com/siddhant_says/"><img src="https://img.shields.io/badge/siddhant_says-%23E4405F.svg?style=for-the-badge&logo=Instagram&style=flat&logoColor=white"/></a>
 
 
 <br>
 
-#### 🤔 Who Is Siddhant Khare ?
+#### About Me
 
-<!-- - 🏫 He is a Senior pursuing a Bachelor’s degree in Computer Science from the Global Engineering College, Jabalpur, India & will be graduating in 2023
-- ⚡️ His expertise primarily revolves around JavaScript, React, MERN, Web Development, NestJS, Docker, AWS, and a little bit about Flutter & UI/UX Designs. -->
-- 🔭 He is currently Working in [**Gitpod**](https://www.gitpod.io/) as SWE, he previously worked with [**GitHub**](https://github.com/) as an Engineering Extern, He is the maintainer of [**github1s**](https://github.com/conwnet/github1s) and also collaborating with Multiple Open Source Projects ( [MetaCall](https://github.com/metacall), [Go Students](https://github.com/gostudent) & [Indian Open Source Foundation](https://github.com/IndianOpenSourceFoundation) ) & worked with these Startups in past ( [hikaya-io](https://github.com/hikaya-io) & [TechVault](https://github.com/TechDiscussion) ).
-- ♥️ He is an open-source lover and that's why he regularly contributes to open-source products.
+- I am a 20 y.o. Software Engineer from India.
+- I am currently Working in [**Gitpod**](https://www.gitpod.io/) as Software Engineer.
+- I previously worked with [**GitHub**](https://github.com/) as an Engineering Extern.
+- I am a maintainer of [**github1s**](https://github.com/conwnet/github1s) & [Greenstand](https://github.com/Greenstand).
+- I am a open-source lover and that's why I regularly contributes to open-source softwares based on features i can create or bugs i can resolve for them to be it the better version of it.
 
-<!--   > 🐱‍💻 Not very active in Competitive Programming anymore, but if he get time or feeling, he do :)
+<details>
+<summary>My Open Source Contribution Detailed Insights</summary>
+<br>
 
-  > [![Leetcode](https://img.shields.io/badge/Leetcode-2063-orange)](https://leetcode.com/Siddhant_Khare/)&nbsp;&nbsp;&nbsp;[![Codechef](https://cp-logo.vercel.app/codechef/siddhant_k)](https://www.codechef.com/users/siddhant_k)&nbsp;&nbsp;&nbsp;[![Codeforces](https://cp-logo.vercel.app/codeforces/siddhant_k)](https://codeforces.com/profile/siddhant_k)&nbsp;&nbsp;&nbsp;[![Atcoder](https://cp-logo.vercel.app/atcoder/Siddhant_Khare)](https://atcoder.jp/users/Siddhant_Khare) -->
+![Metrics](https://metrics.lecoq.io/Siddhant-K-code?template=classic&languages=1&introduction=1&isocalendar=1&people=1&gists=1&followup=1&lines=1&notable=1&achievements=1&activity=1&isocalendar.duration=half-year&languages.limit=8&languages.sections=most-used&languages.colors=github&languages.threshold=0%25&languages.indepth=false&languages.recent.load=300&languages.recent.days=14&introduction.title=true&people.limit=24&people.size=28&people.types=followers%2C%20following&people.identicons=false&people.shuffle=false&followup.sections=repositories&activity.limit=5&activity.load=300&activity.days=14&activity.filter=all&activity.visibility=all&activity.timestamps=false&achievements.threshold=C&achievements.secrets=true&achievements.limit=0&notable.repositories=false&config.timezone=Asia%2FCalcutta)
+
+</details>
 
 <br>
 
@@ -41,16 +46,22 @@
 
 ---
 
-[![wakatime](https://wakatime.com/badge/user/58573df6-0225-498a-8fdc-fefd0c13bb75.svg)](https://wakatime.com/@58573df6-0225-498a-8fdc-fefd0c13bb75)
+### My Proud Contributions
 
+[![conwnet/github1s - GitHub](https://gh-card.dev/repos/conwnet/github1s.svg?fullname=)](https://github.com/conwnet/github1s)
+[![calcom/cal.com - GitHub](https://gh-card.dev/repos/calcom/cal.com.svg?fullname=)](https://github.com/calcom/cal.com)
+[![easyCZ/connect-go-prometheus - GitHub](https://gh-card.dev/repos/easyCZ/connect-go-prometheus.svg?fullname=)](https://github.com/easyCZ/connect-go-prometheus)
+[![znck/grammarly - GitHub](https://gh-card.dev/repos/znck/grammarly.svg?fullname=)](https://github.com/znck/grammarly)
+[![metacall/core - GitHub](https://gh-card.dev/repos/metacall/core.svg?fullname=)](https://github.com/metacall/core)
+[![metacall/deploy - GitHub](https://gh-card.dev/repos/metacall/deploy.svg?fullname=)](https://github.com/metacall/deploy)
+[![metacall/landing-page - GitHub](https://gh-card.dev/repos/metacall/landing-page.svg?fullname=)](https://github.com/metacall/landing-page)
 
-<details>
-<summary>More Details</summary>
-<br>
+### Other Contributions
 
-![Metrics](https://metrics.lecoq.io/Siddhant-K-code?template=classic&languages=1&introduction=1&isocalendar=1&people=1&gists=1&followup=1&lines=1&notable=1&achievements=1&activity=1&isocalendar.duration=half-year&languages.limit=8&languages.sections=most-used&languages.colors=github&languages.threshold=0%25&languages.indepth=false&languages.recent.load=300&languages.recent.days=14&introduction.title=true&people.limit=24&people.size=28&people.types=followers%2C%20following&people.identicons=false&people.shuffle=false&followup.sections=repositories&activity.limit=5&activity.load=300&activity.days=14&activity.filter=all&activity.visibility=all&activity.timestamps=false&achievements.threshold=C&achievements.secrets=true&achievements.limit=0&notable.repositories=false&config.timezone=Asia%2FCalcutta)
-
-</details>
-
-
-## 
+[![jasonraimondi/ts-oauth2-server - GitHub](https://gh-card.dev/repos/jasonraimondi/ts-oauth2-server.svg?fullname=)](https://github.com/jasonraimondi/ts-oauth2-server)
+[![IndianOpenSourceFoundation/dynamic-cli - GitHub](https://gh-card.dev/repos/IndianOpenSourceFoundation/dynamic-cli.svg?fullname=)](https://github.com/IndianOpenSourceFoundation/dynamic-cli)
+[![oss-review-toolkit/ort - GitHub](https://gh-card.dev/repos/oss-review-toolkit/ort.svg?fullname=)](https://github.com/oss-review-toolkit/ort)
+[![tattle-made/OGBV - GitHub](https://gh-card.dev/repos/tattle-made/OGBV.svg?fullname=)](https://github.com/tattle-made/OGBV)
+[![sourcegraph/sourcegraph - GitHub](https://gh-card.dev/repos/sourcegraph/sourcegraph.svg?fullname=)](https://github.com/sourcegraph/sourcegraph)
+[![google/lyra - GitHub](https://gh-card.dev/repos/google/lyra.svg?fullname=)](https://github.com/google/lyra)
+[![jackyzha0/ctrl-v - GitHub](https://gh-card.dev/repos/jackyzha0/ctrl-v.svg?fullname=)](https://github.com/jackyzha0/ctrl-v) & [some more...](https://github.com/search?q=author%3ASiddhant-K-code&type=pullrequests&s=created&o=desc)
