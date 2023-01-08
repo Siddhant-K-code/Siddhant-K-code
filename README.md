@@ -51,7 +51,8 @@
 |:---:|:---:|
 |[![conwnet/github1s - GitHub](https://gh-card.dev/repos/conwnet/github1s.svg?fullname=)](https://github.com/conwnet/github1s)|[![Greenstand/treetracker-wallet-web - GitHub](https://gh-card.dev/repos/Greenstand/treetracker-wallet-web.svg?fullname=)](https://github.com/Greenstand/treetracker-wallet-web)|
 |[![calcom/cal.com - GitHub](https://gh-card.dev/repos/calcom/cal.com.svg?fullname=)](https://github.com/calcom/cal.com)|[![easyCZ/connect-go-prometheus - GitHub](https://gh-card.dev/repos/easyCZ/connect-go-prometheus.svg?fullname=)](https://github.com/easyCZ/connect-go-prometheus)
-|[![znck/grammarly - GitHub](https://gh-card.dev/repos/znck/grammarly.svg?fullname=)](https://github.com/znck/grammarly)|[![metacall/core - GitHub](https://gh-card.dev/repos/metacall/core.svg?fullname=)](https://github.com/metacall/core)|[![metacall/deploy - GitHub](https://gh-card.dev/repos/metacall/deploy.svg?fullname=)](https://github.com/metacall/deploy)|[![metacall/landing-page - GitHub](https://gh-card.dev/repos/metacall/landing-page.svg?fullname=)](https://github.com/metacall/landing-page)|
+|[![znck/grammarly - GitHub](https://gh-card.dev/repos/znck/grammarly.svg?fullname=)](https://github.com/znck/grammarly)|[![metacall/core - GitHub](https://gh-card.dev/repos/metacall/core.svg?fullname=)](https://github.com/metacall/core)|
+|[![metacall/deploy - GitHub](https://gh-card.dev/repos/metacall/deploy.svg?fullname=)](https://github.com/metacall/deploy)|[![metacall/landing-page - GitHub](https://gh-card.dev/repos/metacall/landing-page.svg?fullname=)](https://github.com/metacall/landing-page)|
 
 ### Other Contributions 
 
