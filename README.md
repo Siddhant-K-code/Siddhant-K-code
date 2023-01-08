@@ -46,7 +46,7 @@
 
 ---
 
-### My Proud Contributions
+### Repositories that I've contributed to 🌟
 
 [![conwnet/github1s - GitHub](https://gh-card.dev/repos/conwnet/github1s.svg?fullname=)](https://github.com/conwnet/github1s)
 [![Greenstand/treetracker-wallet-web - GitHub](https://gh-card.dev/repos/Greenstand/treetracker-wallet-web.svg?fullname=)](https://github.com/Greenstand/treetracker-wallet-web)
@@ -57,7 +57,7 @@
 [![metacall/deploy - GitHub](https://gh-card.dev/repos/metacall/deploy.svg?fullname=)](https://github.com/metacall/deploy)
 [![metacall/landing-page - GitHub](https://gh-card.dev/repos/metacall/landing-page.svg?fullname=)](https://github.com/metacall/landing-page)
 
-### Other Contributions
+### Other Contributions 
 
 [![openupthecloud/open-cloud-dev-box - GitHub](https://gh-card.dev/repos/openupthecloud/open-cloud-dev-box.svg?fullname=)](https://github.com/openupthecloud/open-cloud-dev-box)
 [![jasonraimondi/ts-oauth2-server - GitHub](https://gh-card.dev/repos/jasonraimondi/ts-oauth2-server.svg?fullname=)](https://github.com/jasonraimondi/ts-oauth2-server)
