@@ -19,11 +19,11 @@
 
 #### About Me
 
-- I am a 20 y.o. Software Engineer from India.
+- I am a 21 y.o. Software Engineer from India.
 - I am currently Working in [**Gitpod**](https://www.gitpod.io/) as Software Engineer.
 - I previously worked with [**GitHub**](https://github.com/) as an Engineering Extern.
 - I am a maintainer of [**github1s**](https://github.com/conwnet/github1s) & [**Greenstand**](https://github.com/Greenstand).
-- I am a open-source lover and that's why I regularly contributes to open-source softwares based on features i can create or bugs i can resolve for them to be it the better version of it.
+- I am an open-source lover and that's why I regularly contribute to open-source software based on features I can create or bugs I can resolve for them to be the better version of it.
 
 <details>
 <summary>My Open Source Contribution Detailed Insights</summary>
