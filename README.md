@@ -20,8 +20,8 @@
 #### About Me
 
 - I am a 21 y.o. Software Engineer from India.
-- I am currently Working in [**Gitpod**](https://www.gitpod.io/) as Software Engineer.
-- I previously worked with [**GitHub**](https://github.com/) as an Engineering Extern.
+- I am currently Working at [**Gitpod**](https://www.gitpod.io/) as Software Engineer.
+- I previously worked with [**GitHub**](https://github.com/) as an Engineering Intern.
 - I am a maintainer of [**github1s**](https://github.com/conwnet/github1s) & [**Greenstand**](https://github.com/Greenstand).
 - I am an open-source lover and that's why I regularly contribute to open-source software based on features I can create or bugs I can resolve for them to be the better version of it.
 
@@ -53,6 +53,8 @@
 |[![calcom/cal.com - GitHub](https://gh-card.dev/repos/calcom/cal.com.svg?fullname=)](https://github.com/calcom/cal.com)|[![easyCZ/connect-go-prometheus - GitHub](https://gh-card.dev/repos/easyCZ/connect-go-prometheus.svg?fullname=)](https://github.com/easyCZ/connect-go-prometheus)
 |[![znck/grammarly - GitHub](https://gh-card.dev/repos/znck/grammarly.svg?fullname=)](https://github.com/znck/grammarly)|[![metacall/core - GitHub](https://gh-card.dev/repos/metacall/core.svg?fullname=)](https://github.com/metacall/core)|
 |[![metacall/deploy - GitHub](https://gh-card.dev/repos/metacall/deploy.svg?fullname=)](https://github.com/metacall/deploy)|[![metacall/landing-page - GitHub](https://gh-card.dev/repos/metacall/landing-page.svg?fullname=)](https://github.com/metacall/landing-page)|
+[![sourcegraph/sourcegraph - GitHub](https://gh-card.dev/repos/sourcegraph/sourcegraph.svg?fullname=)](https://github.com/sourcegraph/sourcegraph)|[![openfga/openfga - GitHub](https://gh-card.dev/repos/openfga/openfga.svg?fullname=)](https://github.com/openfga/openfga)|
+|[![signoz/signoz - GitHub](https://gh-card.dev/repos/signoz/signoz.svg?fullname=)](https://github.com/signoz/signoz)|[![nexB/scancode-toolkit - GitHub](https://gh-card.dev/repos/nexB/scancode-toolkit.svg?fullname=)](https://github.com/nexB/scancode-toolkit)|
 
 ### Other Contributions 
 
