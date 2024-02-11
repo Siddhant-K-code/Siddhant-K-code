@@ -3,7 +3,8 @@
 <br>
 
 #### All my work life at one place:
-<a href="https://peerlist.io/siddhant"><img height=44 src="https://github.com/Siddhant-K-code/Siddhant-K-code/blob/master/PL%20Logo%20-%20Primary.svg"/></a>
+
+[![Peerlist](https://github-readme-badge.peerlist.io/api/siddhant)](https://peerlist.io/siddhant)
 
 <br>
 
