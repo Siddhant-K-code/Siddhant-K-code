@@ -4,7 +4,7 @@
 
 #### All my work life at one place:
 
-[![Peerlist](https://github-readme-badge.peerlist.io/api/siddhant)](https://peerlist.io/siddhant)
+[![committers.top badge](https://user-badge.committers.top/india_private/Siddhant-K-code.svg)](https://user-badge.committers.top/india_private/Siddhant-K-code) [![Peerlist](https://github-readme-badge.peerlist.io/api/siddhant)](https://peerlist.io/siddhant)
 
 <br>
 
