@@ -15,4 +15,4 @@ jobs:
           feed-url: https://dev.to/feed/siddhantkcode
           readme-section: feed
           empty-commits: "false"
-          path: "profile/README.md"
+          path: "README.md"
