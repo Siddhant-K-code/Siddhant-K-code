@@ -34,7 +34,12 @@
 
 <a href="https://medium.com/@siddhantkhare2694"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" /></a>
 
+### Recent Technical blogs
 
+<!--START_SECTION:feed-->
+
+
+<!--END_SECTION:feed-->
 
 ---
 
