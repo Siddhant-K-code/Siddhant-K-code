@@ -4,11 +4,9 @@
 
 ## Mentorship & consulting services
 
-Explore my consulting offerings tailored for diverse needs:
-
-| 🌐 **Global services for Organizations** | 🌍 **For International Individuals** | 🇮🇳 **For Individuals in India** |
-|:----------------------------------------:|:------------------------------------:|:--------------------------------:|
-| [**Paid consulting**](https://superpeer.com/siddhantkhare/) | [**Mentoring on MentorCruise**](https://mentorcruise.com/mentor/siddhantkhare/)  | [**Consultation via TopMate**](https://topmate.io/siddhant_khare/) |
+| 🌐 **Global services for Organizations** |
+|:----------------------------------------:|
+| [**Paid consulting**](https://superpeer.com/siddhantkhare/) |
 
 <br/>
 
