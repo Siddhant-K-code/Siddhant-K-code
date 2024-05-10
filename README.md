@@ -2,7 +2,17 @@
 
 <br>
 
-#### All my work life at one place:
+## Mentorship & consulting services
+
+Explore my consulting offerings tailored for diverse needs:
+
+| 🌐 **Global services for Organizations** | 🌍 **For International Individuals** | 🇮🇳 **For Individuals in India** |
+|:----------------------------------------:|:------------------------------------:|:--------------------------------:|
+| [**Paid consulting**](https://superpeer.com/siddhantkhare/) | [**Consultation via TopMate**](https://topmate.io/siddhant_khare/) | [**Mentoring on MentorCruise**](https://mentorcruise.com/mentor/siddhantkhare/) |
+
+<br/>
+
+#### All my work life in one place:
 
 [![committers.top badge](https://user-badge.committers.top/india_private/Siddhant-K-code.svg)](https://user-badge.committers.top/india_private/Siddhant-K-code) [![wakatime](https://wakatime.com/badge/user/58573df6-0225-498a-8fdc-fefd0c13bb75.svg)](https://wakatime.com/@58573df6-0225-498a-8fdc-fefd0c13bb75) [![Peerlist](https://github-readme-badge.peerlist.io/api/siddhant)](https://peerlist.io/siddhant)
 
