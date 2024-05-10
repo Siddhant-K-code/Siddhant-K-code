@@ -2,7 +2,7 @@
 
 <br>
 
-## Mentorship & consulting services
+## Consulting services
 
 | 🌐 **Global services for Organizations** |
 |:----------------------------------------:|
