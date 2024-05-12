@@ -45,11 +45,11 @@
 ### Recent Technical blogs
 
 <!--START_SECTION:feed-->
+* [Executing C Code with JavaScript](https://dev.to/siddhantkcode/executing-c-code-with-javascript-3063)
+* [Implementing Concurrency in Shell Scripts](https://dev.to/siddhantkcode/implementing-concurrency-in-shell-scripts-521o)
 * [DynamoDB Query Evaluation Order Differs from SQL](https://dev.to/siddhantkcode/dynamodb-query-evaluation-order-differs-from-sql-33i5)
 * [From Stage to Snapshot: Unpacking Git's Index, Blob, & Commit Operations](https://dev.to/siddhantkcode/from-stage-to-snapshot-unpacking-gits-index-blob-commit-operations-3683)
 * [Unlocking the Mysteries of the Clipboard: Your Computer's Unsung Hero](https://dev.to/siddhantkcode/unlocking-the-mysteries-of-the-clipboard-your-computers-unsung-hero-m59)
-* [A Light-hearted Look at Pagination Optimization](https://dev.to/siddhantkcode/a-light-hearted-look-at-pagination-optimization-4f1o)
-* [Solving GitHub API "Unrecognized Encoding: None" Error: A Journey to Understanding Media Types](https://dev.to/siddhantkcode/solving-github-api-unrecognized-encoding-none-error-a-journey-to-understanding-media-types-cp4)
 <!--END_SECTION:feed-->
 
 ---
