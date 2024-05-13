@@ -45,11 +45,11 @@
 ### Recent Technical blogs
 
 <!--START_SECTION:feed-->
+* [Bypass AWS API Gateway limits: Upload large files using AWS S3 presigned URLs](https://dev.to/siddhantkcode/uploading-large-files-securely-with-aws-s3-presigned-urls-518i)
 * [Executing C Code with JavaScript](https://dev.to/siddhantkcode/executing-c-code-with-javascript-3063)
 * [Implementing Concurrency in Shell Scripts](https://dev.to/siddhantkcode/implementing-concurrency-in-shell-scripts-521o)
 * [DynamoDB Query Evaluation Order Differs from SQL](https://dev.to/siddhantkcode/dynamodb-query-evaluation-order-differs-from-sql-33i5)
 * [From Stage to Snapshot: Unpacking Git's Index, Blob, & Commit Operations](https://dev.to/siddhantkcode/from-stage-to-snapshot-unpacking-gits-index-blob-commit-operations-3683)
-* [Unlocking the Mysteries of the Clipboard: Your Computer's Unsung Hero](https://dev.to/siddhantkcode/unlocking-the-mysteries-of-the-clipboard-your-computers-unsung-hero-m59)
 <!--END_SECTION:feed-->
 
 ---
