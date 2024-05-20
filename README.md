@@ -45,11 +45,11 @@
 ### Recent Technical blogs
 
 <!--START_SECTION:feed-->
+* [Understanding KeyConditionExpression and FilterExpression in DynamoDB](https://dev.to/siddhantkcode/understanding-keyconditionexpression-and-filterexpression-in-dynamodb-3kmk)
+* [Syncing AWS Secrets Manager across accounts](https://dev.to/siddhantkcode/syncing-aws-secrets-manager-across-accounts-247h)
 * [Bypass AWS API Gateway limits: Upload large files using AWS S3 presigned URLs](https://dev.to/siddhantkcode/uploading-large-files-securely-with-aws-s3-presigned-urls-518i)
-* [Executing C Code with JavaScript](https://dev.to/siddhantkcode/executing-c-code-with-javascript-3063)
+* [Executing C code with JS -- using Node’s exec() function](https://dev.to/siddhantkcode/executing-c-code-with-javascript-3063)
 * [Implementing Concurrency in Shell Scripts](https://dev.to/siddhantkcode/implementing-concurrency-in-shell-scripts-521o)
-* [DynamoDB Query Evaluation Order Differs from SQL](https://dev.to/siddhantkcode/dynamodb-query-evaluation-order-differs-from-sql-33i5)
-* [From Stage to Snapshot: Unpacking Git's Index, Blob, & Commit Operations](https://dev.to/siddhantkcode/from-stage-to-snapshot-unpacking-gits-index-blob-commit-operations-3683)
 <!--END_SECTION:feed-->
 
 ---
