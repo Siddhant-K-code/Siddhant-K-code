@@ -16,3 +16,4 @@ jobs:
           readme-section: feed
           empty-commits: "false"
           path: "README.md"
+          max: 10
