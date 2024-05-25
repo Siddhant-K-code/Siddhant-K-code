@@ -45,6 +45,7 @@
 ### Recent Technical blogs
 
 <!--START_SECTION:feed-->
+* [AWS Athena for GitHub - Eliminating the default Security blind spots](https://dev.to/siddhantkcode/aws-athena-for-github-eliminating-the-default-security-blind-spots-4dm)
 * [How to Set Up a MySQL Master-Slave Replication in Docker](https://dev.to/siddhantkcode/how-to-set-up-a-mysql-master-slave-replication-in-docker-4n0a)
 * [Mastering the Art of Invisible Indexes in MySQL](https://dev.to/siddhantkcode/mastering-the-art-of-invisible-indexes-in-mysql-862)
 * [Understanding KeyConditionExpression and FilterExpression in DynamoDB](https://dev.to/siddhantkcode/understanding-keyconditionexpression-and-filterexpression-in-dynamodb-3kmk)
@@ -54,7 +55,6 @@
 * [Implementing Concurrency in Shell Scripts](https://dev.to/siddhantkcode/implementing-concurrency-in-shell-scripts-521o)
 * [DynamoDB Query Evaluation Order Differs from SQL](https://dev.to/siddhantkcode/dynamodb-query-evaluation-order-differs-from-sql-33i5)
 * [From Stage to Snapshot: Unpacking Git's Index, Blob, & Commit Operations](https://dev.to/siddhantkcode/from-stage-to-snapshot-unpacking-gits-index-blob-commit-operations-3683)
-* [Unlocking the Mysteries of the Clipboard: Your Computer's Unsung Hero](https://dev.to/siddhantkcode/unlocking-the-mysteries-of-the-clipboard-your-computers-unsung-hero-m59)
 <!--END_SECTION:feed-->
 
 ---
