@@ -45,6 +45,7 @@
 ### Recent Technical blogs
 
 <!--START_SECTION:feed-->
+* [The Mechanics of Distributed Tracing in OpenTelemetry](https://dev.to/siddhantkcode/the-mechanics-of-distributed-tracing-in-opentelemetry-1ohk)
 * [How to inject simple dummy data at a large scale in MySQL](https://dev.to/siddhantkcode/how-to-inject-simple-dummy-data-at-a-large-scale-in-mysql-eci)
 * [AWS Athena for GitHub - Eliminating the default Security blind spots](https://dev.to/siddhantkcode/aws-athena-for-github-eliminating-the-default-security-blind-spots-4dm)
 * [How to Set Up a MySQL Master-Slave Replication in Docker](https://dev.to/siddhantkcode/how-to-set-up-a-mysql-master-slave-replication-in-docker-4n0a)
@@ -54,7 +55,6 @@
 * [Bypass AWS API Gateway limits: Upload large files using AWS S3 presigned URLs](https://dev.to/siddhantkcode/uploading-large-files-securely-with-aws-s3-presigned-urls-518i)
 * [Executing C code with JS -- using Node’s exec() function](https://dev.to/siddhantkcode/executing-c-code-with-javascript-3063)
 * [Implementing Concurrency in Shell Scripts](https://dev.to/siddhantkcode/implementing-concurrency-in-shell-scripts-521o)
-* [DynamoDB Query Evaluation Order Differs from SQL](https://dev.to/siddhantkcode/dynamodb-query-evaluation-order-differs-from-sql-33i5)
 <!--END_SECTION:feed-->
 
 ---
