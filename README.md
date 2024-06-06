@@ -45,6 +45,7 @@
 ### Recent Technical blogs
 
 <!--START_SECTION:feed-->
+* [How to Recover an Entire Folder in S3 After Accidental Deletion](https://dev.to/siddhantkcode/how-to-recover-an-entire-folder-in-s3-after-accidental-deletion-173f)
 * [The Mechanics of Distributed Tracing in OpenTelemetry](https://dev.to/siddhantkcode/the-mechanics-of-distributed-tracing-in-opentelemetry-1ohk)
 * [How to inject simple dummy data at a large scale in MySQL](https://dev.to/siddhantkcode/how-to-inject-simple-dummy-data-at-a-large-scale-in-mysql-eci)
 * [AWS Athena for GitHub - Eliminating the default Security blind spots](https://dev.to/siddhantkcode/aws-athena-for-github-eliminating-the-default-security-blind-spots-4dm)
@@ -54,7 +55,6 @@
 * [Syncing AWS Secrets Manager across accounts](https://dev.to/siddhantkcode/syncing-aws-secrets-manager-across-accounts-247h)
 * [Bypass AWS API Gateway limits: Upload large files using AWS S3 presigned URLs](https://dev.to/siddhantkcode/uploading-large-files-securely-with-aws-s3-presigned-urls-518i)
 * [Executing C code with JS -- using Node’s exec() function](https://dev.to/siddhantkcode/executing-c-code-with-javascript-3063)
-* [Implementing Concurrency in Shell Scripts](https://dev.to/siddhantkcode/implementing-concurrency-in-shell-scripts-521o)
 <!--END_SECTION:feed-->
 
 ---
