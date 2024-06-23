@@ -45,6 +45,7 @@
 ### Recent Technical blogs
 
 <!--START_SECTION:feed-->
+* [Enable Touch ID Authentication for sudo on macOS Sonoma 14.x](https://dev.to/siddhantkcode/enable-touch-id-authentication-for-sudo-on-macos-sonoma-14x-4d28)
 * [Identifiers 101: Understanding and Implementing UUIDs and ULIDs](https://dev.to/siddhantkcode/identifiers-101-understanding-and-implementing-uuids-and-ulids-2kc6)
 * [How to configure Server-Side Encryption (SSE-S3) in Amazon S3?](https://dev.to/siddhantkcode/how-to-configure-server-side-encryption-sse-s3-in-amazon-s3-3nlk)
 * [Optimizing Matplotlib Performance: Handling Memory Leaks Efficiently](https://dev.to/siddhantkcode/optimizing-matplotlib-performance-handling-memory-leaks-efficiently-5cj2)
@@ -54,7 +55,6 @@
 * [AWS Athena for GitHub - Eliminating the default Security blind spots](https://dev.to/siddhantkcode/aws-athena-for-github-eliminating-the-default-security-blind-spots-4dm)
 * [How to Set Up a MySQL Master-Slave Replication in Docker](https://dev.to/siddhantkcode/how-to-set-up-a-mysql-master-slave-replication-in-docker-4n0a)
 * [Mastering the Art of Invisible Indexes in MySQL](https://dev.to/siddhantkcode/mastering-the-art-of-invisible-indexes-in-mysql-862)
-* [Understanding KeyConditionExpression and FilterExpression in DynamoDB](https://dev.to/siddhantkcode/understanding-keyconditionexpression-and-filterexpression-in-dynamodb-3kmk)
 <!--END_SECTION:feed-->
 
 ---
