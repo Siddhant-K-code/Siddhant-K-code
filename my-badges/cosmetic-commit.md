@@ -1,4 +1,4 @@
-<img src="https://github.com/my-badges/my-badges/blob/master/badges/cosmetic-commit/cosmetic-commit.png?raw=true" alt="I made cosmetic commit." title="I made cosmetic commit." width="128">
+<img src="https://my-badges.github.io/my-badges/cosmetic-commit.png" alt="I made cosmetic commit." title="I made cosmetic commit." width="128">
 <strong>I made cosmetic commit.</strong>
 <br><br>
 

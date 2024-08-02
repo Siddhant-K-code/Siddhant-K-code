@@ -1,27 +1,27 @@
-<img src="https://github.com/my-badges/my-badges/blob/master/badges/stars/stars-500.png?raw=true" alt="I collected 500 stars." title="I collected 500 stars." width="128">
+<img src="https://my-badges.github.io/my-badges/stars-500.png" alt="I collected 500 stars." title="I collected 500 stars." width="128">
 <strong>I collected 500 stars.</strong>
 <br><br>
 
 Repos:
 
-* <a href="https://github.com/conwnet/github1s">conwnet/github1s: ★22740</a>
-* <a href="https://github.com/Greenstand/treetracker-web-map-client">Greenstand/treetracker-web-map-client: ★62</a>
-* <a href="https://github.com/Siddhant-K-code/404-Error-Page---Astronaut">Siddhant-K-code/404-Error-Page---Astronaut: ★19</a>
+* <a href="https://github.com/conwnet/github1s">conwnet/github1s: ★22770</a>
+* <a href="https://github.com/Greenstand/treetracker-web-map-client">Greenstand/treetracker-web-map-client: ★64</a>
+* <a href="https://github.com/Siddhant-K-code/Geo-Location-Attendance-System">Siddhant-K-code/Geo-Location-Attendance-System: ★19</a>
 * <a href="https://github.com/gitpod-samples/template-bun">gitpod-samples/template-bun: ★19</a>
 * <a href="https://github.com/gitpod-samples/demo-dotfiles-with-gitpod">gitpod-samples/demo-dotfiles-with-gitpod: ★19</a>
 * <a href="https://github.com/gitpod-io/devxconf.org">gitpod-io/devxconf.org: ★19</a>
-* <a href="https://github.com/Siddhant-K-code/Geo-Location-Attendance-System">Siddhant-K-code/Geo-Location-Attendance-System: ★18</a>
+* <a href="https://github.com/Siddhant-K-code/404-Error-Page---Astronaut">Siddhant-K-code/404-Error-Page---Astronaut: ★18</a>
 * <a href="https://github.com/Siddhant-K-code/Coronavirus-Probability-Checker">Siddhant-K-code/Coronavirus-Probability-Checker: ★15</a>
 * <a href="https://github.com/gitpod-samples/Gitpod-Raycast-Extension">gitpod-samples/Gitpod-Raycast-Extension: ★15</a>
 * <a href="https://github.com/thedatatribune/IPL-Analysis">thedatatribune/IPL-Analysis: ★12</a>
-* <a href="https://github.com/Greenstand/treetracker-wallet-app">Greenstand/treetracker-wallet-app: ★11</a>
 * <a href="https://github.com/Siddhant-K-code/Siddhant-K-code">Siddhant-K-code/Siddhant-K-code: ★10</a>
 * <a href="https://github.com/Siddhant-K-code/scalable-ls">Siddhant-K-code/scalable-ls: ★8</a>
+* <a href="https://github.com/gitpod-io/CDE-Universe">gitpod-io/CDE-Universe: ★8</a>
 * <a href="https://github.com/Siddhant-K-code/simple-website-template">Siddhant-K-code/simple-website-template: ★7</a>
 * <a href="https://github.com/Siddhant-K-code/React-Chat-Application">Siddhant-K-code/React-Chat-Application: ★7</a>
 * <a href="https://github.com/Siddhant-K-code/COVID-19-RAPID-TESTER">Siddhant-K-code/COVID-19-RAPID-TESTER: ★7</a>
-* <a href="https://github.com/gitpod-io/CDE-Universe">gitpod-io/CDE-Universe: ★7</a>
 * <a href="https://github.com/CryogenicPlanet/covid-resources">CryogenicPlanet/covid-resources: ★7</a>
+* <a href="https://github.com/Siddhant-K-code/mysql-replica-server">Siddhant-K-code/mysql-replica-server: ★6</a>
 * <a href="https://github.com/Siddhant-K-code/JSON-to-Table">Siddhant-K-code/JSON-to-Table: ★5</a>
 * <a href="https://github.com/Siddhant-K-code/dont-use-default-boilerplate">Siddhant-K-code/dont-use-default-boilerplate: ★5</a>
 * <a href="https://github.com/gitpod-samples/demo-kubectl-with-gitpod">gitpod-samples/demo-kubectl-with-gitpod: ★5</a>
@@ -33,7 +33,6 @@ Repos:
 * <a href="https://github.com/Greenstand/treetracker-web-map-core">Greenstand/treetracker-web-map-core: ★4</a>
 * <a href="https://github.com/Siddhant-K-code/satori-example">Siddhant-K-code/satori-example: ★3</a>
 * <a href="https://github.com/Siddhant-K-code/run-cloud-functions-locally">Siddhant-K-code/run-cloud-functions-locally: ★3</a>
-* <a href="https://github.com/Siddhant-K-code/mysql-replica-server">Siddhant-K-code/mysql-replica-server: ★3</a>
 * <a href="https://github.com/Siddhant-K-code/Login-Form">Siddhant-K-code/Login-Form: ★3</a>
 * <a href="https://github.com/Siddhant-K-code/JavaScript-Sudoku-Puzzle-Generator">Siddhant-K-code/JavaScript-Sudoku-Puzzle-Generator: ★3</a>
 * <a href="https://github.com/Siddhant-K-code/Hypnotize">Siddhant-K-code/Hypnotize: ★3</a>
