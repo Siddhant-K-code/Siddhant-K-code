@@ -2,14 +2,6 @@
 
 <br>
 
-## Consulting services
-
-| 🌐 **Global services for Organizations** |
-|:----------------------------------------:|
-| [**Paid consulting**](https://superpeer.com/siddhantkhare/) |
-
-<br/>
-
 #### All my work life in one place:
 
 [![committers.top badge](https://user-badge.committers.top/india_private/Siddhant-K-code.svg)](https://user-badge.committers.top/india_private/Siddhant-K-code) [![wakatime](https://wakatime.com/badge/user/58573df6-0225-498a-8fdc-fefd0c13bb75.svg)](https://wakatime.com/@58573df6-0225-498a-8fdc-fefd0c13bb75) [![Peerlist](https://github-readme-badge.peerlist.io/api/siddhant)](https://peerlist.io/siddhant)
@@ -20,7 +12,7 @@
 - I am currently Working at [**Gitpod**](https://www.gitpod.io/) as Software Engineer.
 - I previously worked with [**GitHub**](https://github.com/) as an Engineering Intern.
 - I am a maintainer of [**github1s**](https://github.com/conwnet/github1s) & [**Greenstand**](https://github.com/Greenstand).
-- I am an open-source lover, so I regularly contribute to open-source software based on features I can create or bugs I can resolve for them to be the better version of it.
+- I am an open-source lover, so I regularly contribute to open-source software based on features I can create or bugs I can resolve for them to be the better version.
 
 <!-- my-badges start -->
 <h4><a href="https://github.com/my-badges/my-badges">My Badges</a></h4>
@@ -103,7 +95,7 @@
 |||
 |:---:|:---:|
 |[![conwnet/github1s - GitHub](https://gh-card.dev/repos/conwnet/github1s.svg?fullname=)](https://github.com/conwnet/github1s)|[![Greenstand/treetracker-wallet-web - GitHub](https://gh-card.dev/repos/Greenstand/treetracker-wallet-web.svg?fullname=)](https://github.com/Greenstand/treetracker-wallet-web)|
-|[![calcom/cal.com - GitHub](https://gh-card.dev/repos/calcom/cal.com.svg?fullname=)](https://github.com/calcom/cal.com)|[![easyCZ/connect-go-prometheus - GitHub](https://gh-card.dev/repos/easyCZ/connect-go-prometheus.svg?fullname=)](https://github.com/easyCZ/connect-go-prometheus)
+|[![calcom/cal.com - GitHub](https://gh-card.dev/repos/calcom/cal.com.svg?fullname=)](https://github.com/calcom/cal.com)|[![openfga/cli - GitHub](https://gh-card.dev/repos/openfga/cli.svg?fullname=)](https://github.com/openfga/cli)
 |[![znck/grammarly - GitHub](https://gh-card.dev/repos/znck/grammarly.svg?fullname=)](https://github.com/znck/grammarly)|[![metacall/core - GitHub](https://gh-card.dev/repos/metacall/core.svg?fullname=)](https://github.com/metacall/core)|
 |[![metacall/deploy - GitHub](https://gh-card.dev/repos/metacall/deploy.svg?fullname=)](https://github.com/metacall/deploy)|[![metacall/landing-page - GitHub](https://gh-card.dev/repos/metacall/landing-page.svg?fullname=)](https://github.com/metacall/landing-page)|
 [![sourcegraph/sourcegraph - GitHub](https://gh-card.dev/repos/sourcegraph/sourcegraph.svg?fullname=)](https://github.com/sourcegraph/sourcegraph)|[![openfga/openfga - GitHub](https://gh-card.dev/repos/openfga/openfga.svg?fullname=)](https://github.com/openfga/openfga)|
