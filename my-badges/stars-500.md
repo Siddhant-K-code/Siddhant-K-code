@@ -4,7 +4,7 @@
 
 Repos:
 
-* <a href="https://github.com/conwnet/github1s">conwnet/github1s: ★22794</a>
+* <a href="https://github.com/conwnet/github1s">conwnet/github1s: ★22796</a>
 * <a href="https://github.com/Greenstand/treetracker-web-map-client">Greenstand/treetracker-web-map-client: ★64</a>
 * <a href="https://github.com/Siddhant-K-code/Geo-Location-Attendance-System">Siddhant-K-code/Geo-Location-Attendance-System: ★23</a>
 * <a href="https://github.com/gitpod-samples/demo-dotfiles-with-gitpod">gitpod-samples/demo-dotfiles-with-gitpod: ★20</a>
@@ -13,7 +13,7 @@ Repos:
 * <a href="https://github.com/Siddhant-K-code/404-Error-Page---Astronaut">Siddhant-K-code/404-Error-Page---Astronaut: ★18</a>
 * <a href="https://github.com/Siddhant-K-code/Coronavirus-Probability-Checker">Siddhant-K-code/Coronavirus-Probability-Checker: ★15</a>
 * <a href="https://github.com/gitpod-samples/Gitpod-Raycast-Extension">gitpod-samples/Gitpod-Raycast-Extension: ★15</a>
-* <a href="https://github.com/thedatatribune/IPL-Analysis">thedatatribune/IPL-Analysis: ★12</a>
+* <a href="https://github.com/thedatatribune/IPL-Analysis">thedatatribune/IPL-Analysis: ★13</a>
 * <a href="https://github.com/Siddhant-K-code/Siddhant-K-code">Siddhant-K-code/Siddhant-K-code: ★10</a>
 * <a href="https://github.com/Siddhant-K-code/scalable-ls">Siddhant-K-code/scalable-ls: ★8</a>
 * <a href="https://github.com/gitpod-io/CDE-Universe">gitpod-io/CDE-Universe: ★8</a>
