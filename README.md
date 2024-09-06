@@ -81,6 +81,7 @@
 ### Recent Technical blogs
 
 <!--START_SECTION:feed-->
+* [Daily screenshot management w/ Crontab on MacOS](https://dev.to/siddhantkcode/daily-screenshot-management-w-crontab-on-macos-g4)
 * [Efficient processing of Gzip-compressed files in Google Cloud Storage](https://dev.to/siddhantkcode/efficient-processing-of-gzip-compressed-files-in-google-cloud-storage-1pj)
 * [AWS Cost Optimization: Periodic Deletion of ECR Container Images](https://dev.to/siddhantkcode/aws-cost-optimization-periodic-deletion-of-ecr-container-images-3636)
 * [Enable Touch ID Authentication for sudo on macOS Sonoma 14.x](https://dev.to/siddhantkcode/enable-touch-id-authentication-for-sudo-on-macos-sonoma-14x-4d28)
@@ -90,7 +91,6 @@
 * [How to Recover an Entire Folder in S3 After Accidental Deletion](https://dev.to/siddhantkcode/how-to-recover-an-entire-folder-in-s3-after-accidental-deletion-173f)
 * [The Mechanics of Distributed Tracing in OpenTelemetry](https://dev.to/siddhantkcode/the-mechanics-of-distributed-tracing-in-opentelemetry-1ohk)
 * [How to inject simple dummy data at a large scale in MySQL](https://dev.to/siddhantkcode/how-to-inject-simple-dummy-data-at-a-large-scale-in-mysql-eci)
-* [AWS Athena for GitHub - Eliminating the default Security blind spots](https://dev.to/siddhantkcode/aws-athena-for-github-eliminating-the-default-security-blind-spots-4dm)
 <!--END_SECTION:feed-->
 
 ---
