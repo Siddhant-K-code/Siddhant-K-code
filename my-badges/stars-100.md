@@ -4,7 +4,6 @@
 
 Repos:
 
-* <a href="https://github.com/Nancy-Chauhan/smart-searcher">Nancy-Chauhan/smart-searcher: ★2</a>
 * <a href="https://github.com/Siddhant-K-code/zx-examples">Siddhant-K-code/zx-examples: ★1</a>
 * <a href="https://github.com/Siddhant-K-code/YT_Comments_Analysis">Siddhant-K-code/YT_Comments_Analysis: ★1</a>
 * <a href="https://github.com/Siddhant-K-code/YT-Fetch">Siddhant-K-code/YT-Fetch: ★1</a>
@@ -35,6 +34,7 @@ Repos:
 * <a href="https://github.com/Siddhant-K-code/probot">Siddhant-K-code/probot: ★1</a>
 * <a href="https://github.com/Siddhant-K-code/Power-Switch-Animation-">Siddhant-K-code/Power-Switch-Animation-: ★1</a>
 * <a href="https://github.com/Siddhant-K-code/Portfolio-Generator">Siddhant-K-code/Portfolio-Generator: ★1</a>
+* <a href="https://github.com/Siddhant-K-code/poc-browser-IndexedDB">Siddhant-K-code/poc-browser-IndexedDB: ★1</a>
 * <a href="https://github.com/Siddhant-K-code/people">Siddhant-K-code/people: ★1</a>
 * <a href="https://github.com/Siddhant-K-code/Pathfinding-Algorithms-Visualizer">Siddhant-K-code/Pathfinding-Algorithms-Visualizer: ★1</a>
 * <a href="https://github.com/Siddhant-K-code/Pandemic-Simulator">Siddhant-K-code/Pandemic-Simulator: ★1</a>
