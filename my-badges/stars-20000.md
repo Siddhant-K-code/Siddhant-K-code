@@ -4,7 +4,7 @@
 
 Repos:
 
-* <a href="https://github.com/conwnet/github1s">conwnet/github1s: ★22816</a>
+* <a href="https://github.com/conwnet/github1s">conwnet/github1s: ★22819</a>
 * <a href="https://github.com/Greenstand/treetracker-web-map-client">Greenstand/treetracker-web-map-client: ★64</a>
 * <a href="https://github.com/Siddhant-K-code/Geo-Location-Attendance-System">Siddhant-K-code/Geo-Location-Attendance-System: ★23</a>
 * <a href="https://github.com/gitpod-samples/demo-dotfiles-with-gitpod">gitpod-samples/demo-dotfiles-with-gitpod: ★20</a>
@@ -15,8 +15,8 @@ Repos:
 * <a href="https://github.com/gitpod-samples/Gitpod-Raycast-Extension">gitpod-samples/Gitpod-Raycast-Extension: ★15</a>
 * <a href="https://github.com/thedatatribune/IPL-Analysis">thedatatribune/IPL-Analysis: ★13</a>
 * <a href="https://github.com/Siddhant-K-code/Siddhant-K-code">Siddhant-K-code/Siddhant-K-code: ★10</a>
+* <a href="https://github.com/gitpod-io/CDE-Universe">gitpod-io/CDE-Universe: ★9</a>
 * <a href="https://github.com/Siddhant-K-code/scalable-ls">Siddhant-K-code/scalable-ls: ★8</a>
-* <a href="https://github.com/gitpod-io/CDE-Universe">gitpod-io/CDE-Universe: ★8</a>
 * <a href="https://github.com/Siddhant-K-code/simple-website-template">Siddhant-K-code/simple-website-template: ★7</a>
 * <a href="https://github.com/Siddhant-K-code/React-Chat-Application">Siddhant-K-code/React-Chat-Application: ★7</a>
 * <a href="https://github.com/Siddhant-K-code/mysql-replica-server">Siddhant-K-code/mysql-replica-server: ★7</a>
