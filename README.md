@@ -81,6 +81,7 @@
 ### Recent Technical blogs
 
 <!--START_SECTION:feed-->
+* [Accelerating CI Pipelines with Docker Buildx and BuildKit Caching](https://dev.to/siddhantkcode/accelerating-ci-pipelines-with-docker-buildx-and-buildkit-caching-50g4)
 * [Daily screenshot management w/ Crontab on MacOS](https://dev.to/siddhantkcode/daily-screenshot-management-w-crontab-on-macos-g4)
 * [Efficient processing of Gzip-compressed files in Google Cloud Storage](https://dev.to/siddhantkcode/efficient-processing-of-gzip-compressed-files-in-google-cloud-storage-1pj)
 * [AWS Cost Optimization: Periodic Deletion of ECR Container Images](https://dev.to/siddhantkcode/aws-cost-optimization-periodic-deletion-of-ecr-container-images-3636)
@@ -90,7 +91,6 @@
 * [Optimizing Matplotlib Performance: Handling Memory Leaks Efficiently](https://dev.to/siddhantkcode/optimizing-matplotlib-performance-handling-memory-leaks-efficiently-5cj2)
 * [How to Recover an Entire Folder in S3 After Accidental Deletion](https://dev.to/siddhantkcode/how-to-recover-an-entire-folder-in-s3-after-accidental-deletion-173f)
 * [The Mechanics of Distributed Tracing in OpenTelemetry](https://dev.to/siddhantkcode/the-mechanics-of-distributed-tracing-in-opentelemetry-1ohk)
-* [How to inject simple dummy data at a large scale in MySQL](https://dev.to/siddhantkcode/how-to-inject-simple-dummy-data-at-a-large-scale-in-mysql-eci)
 <!--END_SECTION:feed-->
 
 ---
