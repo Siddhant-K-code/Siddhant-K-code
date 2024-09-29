@@ -4,9 +4,9 @@
 
 Repos:
 
-* <a href="https://github.com/conwnet/github1s">conwnet/github1s: ★22837</a>
+* <a href="https://github.com/conwnet/github1s">conwnet/github1s: ★22838</a>
 * <a href="https://github.com/Greenstand/treetracker-web-map-client">Greenstand/treetracker-web-map-client: ★64</a>
-* <a href="https://github.com/Siddhant-K-code/Geo-Location-Attendance-System">Siddhant-K-code/Geo-Location-Attendance-System: ★23</a>
+* <a href="https://github.com/Siddhant-K-code/Geo-Location-Attendance-System">Siddhant-K-code/Geo-Location-Attendance-System: ★24</a>
 * <a href="https://github.com/gitpod-samples/demo-dotfiles-with-gitpod">gitpod-samples/demo-dotfiles-with-gitpod: ★21</a>
 * <a href="https://github.com/Siddhant-K-code/404-Error-Page---Astronaut">Siddhant-K-code/404-Error-Page---Astronaut: ★19</a>
 * <a href="https://github.com/gitpod-samples/template-bun">gitpod-samples/template-bun: ★19</a>
