@@ -81,6 +81,7 @@
 ### Recent Technical blogs
 
 <!--START_SECTION:feed-->
+* [Exploring parallelism in Large Language Models (LLMs)](https://dev.to/siddhantkcode/exploring-parallelism-in-large-language-models-llms-5991)
 * [Cost-effective Netlify deployments for large teams using GitHub Actions](https://dev.to/siddhantkcode/cost-effective-netlify-deployments-for-large-teams-using-github-actions-2l1c)
 * [Accelerating CI Pipelines with Docker Buildx and BuildKit Caching](https://dev.to/siddhantkcode/accelerating-ci-pipelines-with-docker-buildx-and-buildkit-caching-50g4)
 * [Daily screenshot management w/ Crontab on MacOS](https://dev.to/siddhantkcode/daily-screenshot-management-w-crontab-on-macos-g4)
@@ -90,7 +91,6 @@
 * [Identifiers 101: Understanding and Implementing UUIDs and ULIDs](https://dev.to/siddhantkcode/identifiers-101-understanding-and-implementing-uuids-and-ulids-2kc6)
 * [How to configure Server-Side Encryption (SSE-S3) in Amazon S3?](https://dev.to/siddhantkcode/how-to-configure-server-side-encryption-sse-s3-in-amazon-s3-3nlk)
 * [Optimizing Matplotlib Performance: Handling Memory Leaks Efficiently](https://dev.to/siddhantkcode/optimizing-matplotlib-performance-handling-memory-leaks-efficiently-5cj2)
-* [How to Recover an Entire Folder in S3 After Accidental Deletion](https://dev.to/siddhantkcode/how-to-recover-an-entire-folder-in-s3-after-accidental-deletion-173f)
 <!--END_SECTION:feed-->
 
 ---
