@@ -4,8 +4,8 @@
 
 Repos:
 
-* <a href="https://github.com/conwnet/github1s">conwnet/github1s: ★22875</a>
-* <a href="https://github.com/Siddhant-K-code/Geo-Location-Attendance-System">Siddhant-K-code/Geo-Location-Attendance-System: ★24</a>
+* <a href="https://github.com/conwnet/github1s">conwnet/github1s: ★22876</a>
+* <a href="https://github.com/Siddhant-K-code/Geo-Location-Attendance-System">Siddhant-K-code/Geo-Location-Attendance-System: ★25</a>
 * <a href="https://github.com/gitpod-samples/demo-dotfiles-with-gitpod">gitpod-samples/demo-dotfiles-with-gitpod: ★21</a>
 * <a href="https://github.com/Siddhant-K-code/404-Error-Page---Astronaut">Siddhant-K-code/404-Error-Page---Astronaut: ★19</a>
 * <a href="https://github.com/gitpod-io/devxconf.org">gitpod-io/devxconf.org: ★19</a>
