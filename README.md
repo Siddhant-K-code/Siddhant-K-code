@@ -81,6 +81,7 @@
 ### Recent Technical blogs
 
 <!--START_SECTION:feed-->
+* [When k6 eats up your RAM: Slashing memory usage in load tests](https://dev.to/siddhantkcode/when-k6-eats-up-your-ram-slashing-memory-usage-in-load-tests-5148)
 * [Optimizing database performance by migrating Images to GCS](https://dev.to/siddhantkcode/optimizing-database-performance-by-migrating-images-to-gcs-25em)
 * [Exploring parallelism in Large Language Models (LLMs)](https://dev.to/siddhantkcode/exploring-parallelism-in-large-language-models-llms-5991)
 * [Cost-effective Netlify deployments for large teams using GitHub Actions](https://dev.to/siddhantkcode/cost-effective-netlify-deployments-for-large-teams-using-github-actions-2l1c)
@@ -90,7 +91,6 @@
 * [AWS Cost Optimization: Periodic Deletion of ECR Container Images](https://dev.to/siddhantkcode/aws-cost-optimization-periodic-deletion-of-ecr-container-images-3636)
 * [Enable Touch ID Authentication for sudo on macOS Sonoma 14.x](https://dev.to/siddhantkcode/enable-touch-id-authentication-for-sudo-on-macos-sonoma-14x-4d28)
 * [Identifiers 101: Understanding and Implementing UUIDs and ULIDs](https://dev.to/siddhantkcode/identifiers-101-understanding-and-implementing-uuids-and-ulids-2kc6)
-* [How to configure Server-Side Encryption (SSE-S3) in Amazon S3?](https://dev.to/siddhantkcode/how-to-configure-server-side-encryption-sse-s3-in-amazon-s3-3nlk)
 <!--END_SECTION:feed-->
 
 ---
