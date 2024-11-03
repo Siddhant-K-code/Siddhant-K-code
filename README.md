@@ -4,7 +4,11 @@
 
 #### All my work life in one place:
 
-[![committers.top badge](https://user-badge.committers.top/india_private/Siddhant-K-code.svg)](https://user-badge.committers.top/india_private/Siddhant-K-code) [![wakatime](https://wakatime.com/badge/user/58573df6-0225-498a-8fdc-fefd0c13bb75.svg)](https://wakatime.com/@58573df6-0225-498a-8fdc-fefd0c13bb75) [![Peerlist](https://github-readme-badge.peerlist.io/api/siddhant)](https://peerlist.io/siddhant)
+[![committers.top badge](https://user-badge.committers.top/india_private/Siddhant-K-code.svg)](https://user-badge.committers.top/india_private/Siddhant-K-code) [![wakatime](https://wakatime.com/badge/user/58573df6-0225-498a-8fdc-fefd0c13bb75.svg)](https://wakatime.com/@58573df6-0225-498a-8fdc-fefd0c13bb75) [![Peerlist](https://github-readme-badge.peerlist.io/api/siddhant?style=plastic)](https://peerlist.io/siddhant)
+
+<a href="https://mentorcruise.com/mentor/siddhantkhare/">
+<img src="https://cdn.mentorcruise.com/img/banner/navy-sm.svg" width="180" alt="MentorCruise">
+</a>
 
 #### About Me
 
