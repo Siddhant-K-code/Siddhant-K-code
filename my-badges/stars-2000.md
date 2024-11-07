@@ -7,8 +7,8 @@ Repos:
 * <a href="https://github.com/conwnet/github1s">conwnet/github1s: ★22896</a>
 * <a href="https://github.com/Siddhant-K-code/Geo-Location-Attendance-System">Siddhant-K-code/Geo-Location-Attendance-System: ★25</a>
 * <a href="https://github.com/gitpod-samples/demo-dotfiles-with-gitpod">gitpod-samples/demo-dotfiles-with-gitpod: ★21</a>
+* <a href="https://github.com/Siddhant-K-code/404-Error-Page---Astronaut">Siddhant-K-code/404-Error-Page---Astronaut: ★20</a>
 * <a href="https://github.com/gitpod-io/devxconf.org">gitpod-io/devxconf.org: ★20</a>
-* <a href="https://github.com/Siddhant-K-code/404-Error-Page---Astronaut">Siddhant-K-code/404-Error-Page---Astronaut: ★19</a>
 * <a href="https://github.com/gitpod-samples/template-bun">gitpod-samples/template-bun: ★18</a>
 * <a href="https://github.com/Siddhant-K-code/Coronavirus-Probability-Checker">Siddhant-K-code/Coronavirus-Probability-Checker: ★15</a>
 * <a href="https://github.com/gitpod-samples/Gitpod-Raycast-Extension">gitpod-samples/Gitpod-Raycast-Extension: ★15</a>
