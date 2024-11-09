@@ -4,7 +4,6 @@
 
 Repos:
 
-* <a href="https://github.com/Siddhant-K-code/zx-examples">Siddhant-K-code/zx-examples: ★1</a>
 * <a href="https://github.com/Siddhant-K-code/YT_Comments_Analysis">Siddhant-K-code/YT_Comments_Analysis: ★1</a>
 * <a href="https://github.com/Siddhant-K-code/YT-Fetch">Siddhant-K-code/YT-Fetch: ★1</a>
 * <a href="https://github.com/Siddhant-K-code/werft">Siddhant-K-code/werft: ★1</a>
@@ -88,6 +87,7 @@ Repos:
 * <a href="https://github.com/Siddhant-K-code/connect-go-prometheus">Siddhant-K-code/connect-go-prometheus: ★1</a>
 * <a href="https://github.com/Siddhant-K-code/Connect-Four-Game">Siddhant-K-code/Connect-Four-Game: ★1</a>
 * <a href="https://github.com/Siddhant-K-code/Clock-Pattern">Siddhant-K-code/Clock-Pattern: ★1</a>
+* <a href="https://github.com/Siddhant-K-code/cleanup-gitpod-environments">Siddhant-K-code/cleanup-gitpod-environments: ★1</a>
 * <a href="https://github.com/Siddhant-K-code/Classification-of-Personality-based-on-Users-Twitter-Data">Siddhant-K-code/Classification-of-Personality-based-on-Users-Twitter-Data: ★1</a>
 * <a href="https://github.com/Siddhant-K-code/Chill-The-Lion">Siddhant-K-code/Chill-The-Lion: ★1</a>
 * <a href="https://github.com/Siddhant-K-code/CheckList">Siddhant-K-code/CheckList: ★1</a>
