@@ -4,7 +4,7 @@
 
 Repos:
 
-* <a href="https://github.com/conwnet/github1s">conwnet/github1s: ★22898</a>
+* <a href="https://github.com/conwnet/github1s">conwnet/github1s: ★22899</a>
 * <a href="https://github.com/Siddhant-K-code/Geo-Location-Attendance-System">Siddhant-K-code/Geo-Location-Attendance-System: ★25</a>
 * <a href="https://github.com/gitpod-samples/demo-dotfiles-with-gitpod">gitpod-samples/demo-dotfiles-with-gitpod: ★21</a>
 * <a href="https://github.com/Siddhant-K-code/404-Error-Page---Astronaut">Siddhant-K-code/404-Error-Page---Astronaut: ★20</a>
@@ -40,6 +40,7 @@ Repos:
 * <a href="https://github.com/Siddhant-K-code/Cross-Sum-Calculator">Siddhant-K-code/Cross-Sum-Calculator: ★3</a>
 * <a href="https://github.com/Siddhant-K-code/Coronavirus-Outbreak-Notification-Alert">Siddhant-K-code/Coronavirus-Outbreak-Notification-Alert: ★3</a>
 * <a href="https://github.com/Siddhant-K-code/Competitive-Programing-Practice">Siddhant-K-code/Competitive-Programing-Practice: ★3</a>
+* <a href="https://github.com/Siddhant-K-code/cleanup-gitpod-environments">Siddhant-K-code/cleanup-gitpod-environments: ★3</a>
 * <a href="https://github.com/Siddhant-K-code/Chess">Siddhant-K-code/Chess: ★3</a>
 * <a href="https://github.com/gitpod-samples/template-jupyter-notebook">gitpod-samples/template-jupyter-notebook: ★3</a>
 * <a href="https://github.com/Siddhant-K-code/Visualize-Stock-Market">Siddhant-K-code/Visualize-Stock-Market: ★2</a>
@@ -150,7 +151,6 @@ Repos:
 * <a href="https://github.com/Siddhant-K-code/connect-go-prometheus">Siddhant-K-code/connect-go-prometheus: ★1</a>
 * <a href="https://github.com/Siddhant-K-code/Connect-Four-Game">Siddhant-K-code/Connect-Four-Game: ★1</a>
 * <a href="https://github.com/Siddhant-K-code/Clock-Pattern">Siddhant-K-code/Clock-Pattern: ★1</a>
-* <a href="https://github.com/Siddhant-K-code/cleanup-gitpod-environments">Siddhant-K-code/cleanup-gitpod-environments: ★1</a>
 * <a href="https://github.com/Siddhant-K-code/Classification-of-Personality-based-on-Users-Twitter-Data">Siddhant-K-code/Classification-of-Personality-based-on-Users-Twitter-Data: ★1</a>
 * <a href="https://github.com/Siddhant-K-code/Chill-The-Lion">Siddhant-K-code/Chill-The-Lion: ★1</a>
 * <a href="https://github.com/Siddhant-K-code/CheckList">Siddhant-K-code/CheckList: ★1</a>

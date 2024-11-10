@@ -4,7 +4,7 @@
 
 Pull requests:
 
-- <a href="https://github.com/fossasia/publiccode.asia/pull/203">#203</a>: fixes translational error, fixes  #197
+- <a href="https://github.com/simple-icons/simple-icons/pull/6906">#6906</a>: Peerlist SVG Assets
 
 
 Created by <a href="https://github.com/my-badges/my-badges">My Badges</a>
