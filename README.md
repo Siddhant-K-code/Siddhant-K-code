@@ -85,6 +85,7 @@
 ### Recent Technical blogs
 
 <!--START_SECTION:feed-->
+* [Critical changes coming to GitHub Actions: Ubuntu 24 migration guide](https://dev.to/siddhantkcode/critical-changes-coming-to-github-actions-ubuntu-24-migration-guide-oo8)
 * [Solving AWS ECS connect timeouts: configure default settings easily](https://dev.to/siddhantkcode/solving-aws-ecs-connect-timeouts-configure-default-settings-easily-41n2)
 * [When k6 eats up your RAM: Slashing memory usage in load tests](https://dev.to/siddhantkcode/when-k6-eats-up-your-ram-slashing-memory-usage-in-load-tests-5148)
 * [Optimizing database performance by migrating Images to GCS](https://dev.to/siddhantkcode/optimizing-database-performance-by-migrating-images-to-gcs-25em)
@@ -94,7 +95,6 @@
 * [Daily screenshot management w/ Crontab on MacOS](https://dev.to/siddhantkcode/daily-screenshot-management-w-crontab-on-macos-g4)
 * [Efficient processing of Gzip-compressed files in Google Cloud Storage](https://dev.to/siddhantkcode/efficient-processing-of-gzip-compressed-files-in-google-cloud-storage-1pj)
 * [AWS Cost Optimization: Periodic Deletion of ECR Container Images](https://dev.to/siddhantkcode/aws-cost-optimization-periodic-deletion-of-ecr-container-images-3636)
-* [Enable Touch ID Authentication for sudo on macOS Sonoma 14.x](https://dev.to/siddhantkcode/enable-touch-id-authentication-for-sudo-on-macos-sonoma-14x-4d28)
 <!--END_SECTION:feed-->
 
 ---
