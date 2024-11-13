@@ -4,6 +4,7 @@
 
 Repos:
 
+* <a href="https://github.com/Siddhant-K-code/zx-examples">Siddhant-K-code/zx-examples: ★1</a>
 * <a href="https://github.com/Siddhant-K-code/YT_Comments_Analysis">Siddhant-K-code/YT_Comments_Analysis: ★1</a>
 * <a href="https://github.com/Siddhant-K-code/YT-Fetch">Siddhant-K-code/YT-Fetch: ★1</a>
 * <a href="https://github.com/Siddhant-K-code/werft">Siddhant-K-code/werft: ★1</a>
@@ -75,7 +76,6 @@ Repos:
 * <a href="https://github.com/Siddhant-K-code/dynamic-cli">Siddhant-K-code/dynamic-cli: ★1</a>
 * <a href="https://github.com/Siddhant-K-code/Dodge-Game">Siddhant-K-code/Dodge-Game: ★1</a>
 * <a href="https://github.com/Siddhant-K-code/Digital-Stream">Siddhant-K-code/Digital-Stream: ★1</a>
-* <a href="https://github.com/Siddhant-K-code/delete-clean-workspaces">Siddhant-K-code/delete-clean-workspaces: ★1</a>
 * <a href="https://github.com/Siddhant-K-code/Dance-Audio-Spectrum">Siddhant-K-code/Dance-Audio-Spectrum: ★1</a>
 * <a href="https://github.com/Siddhant-K-code/CSS-Menu">Siddhant-K-code/CSS-Menu: ★1</a>
 * <a href="https://github.com/Siddhant-K-code/CSS-Cheatsheets">Siddhant-K-code/CSS-Cheatsheets: ★1</a>
