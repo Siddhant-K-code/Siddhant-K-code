@@ -85,6 +85,7 @@
 ### Recent Technical blogs
 
 <!--START_SECTION:feed-->
+* [2x Faster, 40% less RAM: The Cloud Run stdout logging hack](https://dev.to/siddhantkcode/2x-faster-40-less-ram-the-cloud-run-stdout-logging-hack-1iig)
 * [Deep dive: optimizing self-hosted GitHub Actions Runners on AWS and GCP for cost efficiency](https://dev.to/siddhantkcode/deep-dive-optimizing-self-hosted-github-actions-runners-on-aws-and-gcp-for-cost-efficiency-58o8)
 * [Building smarter Docker Images for your development environments with Pants 🚀](https://dev.to/siddhantkcode/building-smarter-docker-images-for-your-development-environments-with-pants-51al)
 * [Critical changes coming to GitHub Actions: Ubuntu 24 migration guide](https://dev.to/siddhantkcode/critical-changes-coming-to-github-actions-ubuntu-24-migration-guide-oo8)
@@ -94,7 +95,6 @@
 * [Exploring parallelism in Large Language Models (LLMs)](https://dev.to/siddhantkcode/exploring-parallelism-in-large-language-models-llms-5991)
 * [Cost-effective Netlify deployments for large teams using GitHub Actions](https://dev.to/siddhantkcode/cost-effective-netlify-deployments-for-large-teams-using-github-actions-2l1c)
 * [Accelerating CI Pipelines with Docker Buildx and BuildKit Caching](https://dev.to/siddhantkcode/accelerating-ci-pipelines-with-docker-buildx-and-buildkit-caching-50g4)
-* [Daily screenshot management w/ Crontab on MacOS](https://dev.to/siddhantkcode/daily-screenshot-management-w-crontab-on-macos-g4)
 <!--END_SECTION:feed-->
 
 ---
