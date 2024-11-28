@@ -4,7 +4,7 @@
 
 Repos:
 
-* <a href="https://github.com/conwnet/github1s">conwnet/github1s: ★22922</a>
+* <a href="https://github.com/conwnet/github1s">conwnet/github1s: ★22923</a>
 * <a href="https://github.com/Siddhant-K-code/Geo-Location-Attendance-System">Siddhant-K-code/Geo-Location-Attendance-System: ★25</a>
 * <a href="https://github.com/gitpod-samples/demo-dotfiles-with-gitpod">gitpod-samples/demo-dotfiles-with-gitpod: ★21</a>
 * <a href="https://github.com/Siddhant-K-code/404-Error-Page---Astronaut">Siddhant-K-code/404-Error-Page---Astronaut: ★20</a>
@@ -114,6 +114,7 @@ Repos:
 * <a href="https://github.com/Siddhant-K-code/Maze-Generator-Bot">Siddhant-K-code/Maze-Generator-Bot: ★1</a>
 * <a href="https://github.com/Siddhant-K-code/Magic-Castle">Siddhant-K-code/Magic-Castle: ★1</a>
 * <a href="https://github.com/Siddhant-K-code/LogIn-SignUp-Form">Siddhant-K-code/LogIn-SignUp-Form: ★1</a>
+* <a href="https://github.com/Siddhant-K-code/llm-parallelism-explorer-poc">Siddhant-K-code/llm-parallelism-explorer-poc: ★1</a>
 * <a href="https://github.com/Siddhant-K-code/Learning-CPP">Siddhant-K-code/Learning-CPP: ★1</a>
 * <a href="https://github.com/Siddhant-K-code/Lazy-Sloth">Siddhant-K-code/Lazy-Sloth: ★1</a>
 * <a href="https://github.com/Siddhant-K-code/Jabalpur-covid-resources">Siddhant-K-code/Jabalpur-covid-resources: ★1</a>
