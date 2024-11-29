@@ -4,11 +4,11 @@
 
 Repos:
 
-* <a href="https://github.com/conwnet/github1s">conwnet/github1s: ★22923</a>
+* <a href="https://github.com/conwnet/github1s">conwnet/github1s: ★22925</a>
 * <a href="https://github.com/Siddhant-K-code/Geo-Location-Attendance-System">Siddhant-K-code/Geo-Location-Attendance-System: ★25</a>
 * <a href="https://github.com/gitpod-samples/demo-dotfiles-with-gitpod">gitpod-samples/demo-dotfiles-with-gitpod: ★21</a>
+* <a href="https://github.com/gitpod-io/devxconf.org">gitpod-io/devxconf.org: ★21</a>
 * <a href="https://github.com/Siddhant-K-code/404-Error-Page---Astronaut">Siddhant-K-code/404-Error-Page---Astronaut: ★20</a>
-* <a href="https://github.com/gitpod-io/devxconf.org">gitpod-io/devxconf.org: ★20</a>
 * <a href="https://github.com/gitpod-samples/template-bun">gitpod-samples/template-bun: ★18</a>
 * <a href="https://github.com/Siddhant-K-code/Coronavirus-Probability-Checker">Siddhant-K-code/Coronavirus-Probability-Checker: ★15</a>
 * <a href="https://github.com/gitpod-samples/Gitpod-Raycast-Extension">gitpod-samples/Gitpod-Raycast-Extension: ★15</a>
@@ -51,6 +51,7 @@ Repos:
 * <a href="https://github.com/Siddhant-K-code/Python-Weather-GUI">Siddhant-K-code/Python-Weather-GUI: ★2</a>
 * <a href="https://github.com/Siddhant-K-code/Logistic_Regression_with_Breast_Cancer_Data">Siddhant-K-code/Logistic_Regression_with_Breast_Cancer_Data: ★2</a>
 * <a href="https://github.com/Siddhant-K-code/Logic-Gates-Simulator">Siddhant-K-code/Logic-Gates-Simulator: ★2</a>
+* <a href="https://github.com/Siddhant-K-code/llm-parallelism-explorer-poc">Siddhant-K-code/llm-parallelism-explorer-poc: ★2</a>
 * <a href="https://github.com/Siddhant-K-code/GPT-CLI">Siddhant-K-code/GPT-CLI: ★2</a>
 * <a href="https://github.com/Siddhant-K-code/Gitpod-GitHub-Repo-Importer">Siddhant-K-code/Gitpod-GitHub-Repo-Importer: ★2</a>
 * <a href="https://github.com/Siddhant-K-code/Four-Language-that-can-kill-themselves">Siddhant-K-code/Four-Language-that-can-kill-themselves: ★2</a>
@@ -114,7 +115,6 @@ Repos:
 * <a href="https://github.com/Siddhant-K-code/Maze-Generator-Bot">Siddhant-K-code/Maze-Generator-Bot: ★1</a>
 * <a href="https://github.com/Siddhant-K-code/Magic-Castle">Siddhant-K-code/Magic-Castle: ★1</a>
 * <a href="https://github.com/Siddhant-K-code/LogIn-SignUp-Form">Siddhant-K-code/LogIn-SignUp-Form: ★1</a>
-* <a href="https://github.com/Siddhant-K-code/llm-parallelism-explorer-poc">Siddhant-K-code/llm-parallelism-explorer-poc: ★1</a>
 * <a href="https://github.com/Siddhant-K-code/Learning-CPP">Siddhant-K-code/Learning-CPP: ★1</a>
 * <a href="https://github.com/Siddhant-K-code/Lazy-Sloth">Siddhant-K-code/Lazy-Sloth: ★1</a>
 * <a href="https://github.com/Siddhant-K-code/Jabalpur-covid-resources">Siddhant-K-code/Jabalpur-covid-resources: ★1</a>

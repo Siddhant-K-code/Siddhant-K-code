@@ -59,6 +59,7 @@
 <a href="my-badges/public-keys-1.md"><img src="https://my-badges.github.io/my-badges/public-keys-1.png" alt="I have one public key" title="I have one public key" width="64"></a>
 <a href="my-badges/github-anniversary-5.md"><img src="https://my-badges.github.io/my-badges/github-anniversary-5.png" alt="I joined GitHub 5 years ago." title="I joined GitHub 5 years ago." width="64"></a>
 <a href="my-badges/spooky-commit.md"><img src="https://my-badges.github.io/my-badges/spooky-commit.png" alt="I committed on the Halloween! Boo!" title="I committed on the Halloween! Boo!" width="64"></a>
+<a href="my-badges/thumbs-up.md"><img src="https://my-badges.github.io/my-badges/thumbs-up.png" alt="I have received a lot of thumbs up 👍 reactions!" title="I have received a lot of thumbs up 👍 reactions!" width="64"></a>
 <!-- my-badges end -->
 
 <details>
