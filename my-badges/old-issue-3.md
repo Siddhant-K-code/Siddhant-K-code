@@ -4,7 +4,6 @@
 
 Issues:
 
-- <a href="https://github.com/TingzhouJia/flutter-chat/issues/1">#1</a>: Provide Database
 - <a href="https://github.com/Open-Sourced-Olaf/Code-Kindle/issues/50">#50</a>: Deployment on Netlify/Vercel
 
 
