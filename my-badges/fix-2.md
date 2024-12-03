@@ -4,8 +4,8 @@
 
 Commits:
 
-- <a href="https://github.com/Siddhant-K-code/achievementsof.life/commit/afc8f3c4e68687875d0172854b4c283dfcb44cdf">afc8f3c</a>: fix: stage `_users/*` files only
-- <a href="https://github.com/Siddhant-K-code/achievementsof.life/commit/6dd0dfa4879010a2a24677daf364a4b08234084f">6dd0dfa</a>: fix: jobs name
+- <a href="https://github.com/Siddhant-K-code/cleanup-gitpod-environments/commit/84a76a2d1b6b833a934ba9284002590e6952b6fd">84a76a2</a>: fix action desc
+- <a href="https://github.com/Siddhant-K-code/cleanup-gitpod-environments/commit/06cb5ca87e8ef8d538ee77fbd19f0581748cfe43">06cb5ca</a>: fix description
 
 
 Created by <a href="https://github.com/my-badges/my-badges">My Badges</a>

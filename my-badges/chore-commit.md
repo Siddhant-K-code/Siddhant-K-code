@@ -4,7 +4,7 @@
 
 Commits:
 
-- <a href="https://github.com/Greenstand/treetracker-web-map-core/commit/4c889d0a8ad49988f0ac2d704f365de3c46034d3">4c889d0</a>: chore: added npm package - url, version label
+- <a href="https://github.com/Siddhant-K-code/kubectl-cond/commit/0a63001261ad2acf04e143ac8ab1eba29cd75851">0a63001</a>: chore: convert objects to unstructured format
 
 
 Created by <a href="https://github.com/my-badges/my-badges">My Badges</a>
