@@ -5,8 +5,8 @@
 Repos:
 
 * <a href="https://github.com/gitpod-samples/Gitpod-Raycast-Extension">gitpod-samples/Gitpod-Raycast-Extension: ★15</a>
+* <a href="https://github.com/Siddhant-K-code/mysql-replica-server">Siddhant-K-code/mysql-replica-server: ★11</a>
 * <a href="https://github.com/gitpod-io/CDE-Universe">gitpod-io/CDE-Universe: ★10</a>
-* <a href="https://github.com/Siddhant-K-code/mysql-replica-server">Siddhant-K-code/mysql-replica-server: ★10</a>
 * <a href="https://github.com/Siddhant-K-code/scalable-ls">Siddhant-K-code/scalable-ls: ★7</a>
 * <a href="https://github.com/gitpod-samples/demo-kubectl-with-gitpod">gitpod-samples/demo-kubectl-with-gitpod: ★5</a>
 * <a href="https://github.com/Siddhant-K-code/OpenAI-bring-your-own-data">Siddhant-K-code/OpenAI-bring-your-own-data: ★4</a>
