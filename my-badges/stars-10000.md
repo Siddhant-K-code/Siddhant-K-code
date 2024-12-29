@@ -4,7 +4,7 @@
 
 Repos:
 
-* <a href="https://github.com/conwnet/github1s">conwnet/github1s: ★22950</a>
+* <a href="https://github.com/conwnet/github1s">conwnet/github1s: ★22952</a>
 * <a href="https://github.com/Siddhant-K-code/Geo-Location-Attendance-System">Siddhant-K-code/Geo-Location-Attendance-System: ★26</a>
 * <a href="https://github.com/gitpod-io/devxconf.org">gitpod-io/devxconf.org: ★21</a>
 * <a href="https://github.com/gitpod-samples/demo-dotfiles-with-gitpod">gitpod-samples/demo-dotfiles-with-gitpod: ★21</a>
@@ -169,6 +169,7 @@ Repos:
 * <a href="https://github.com/shravan562/GitHub-User-Access">shravan562/GitHub-User-Access: ★1</a>
 * <a href="https://github.com/Siddhant-K-code/android-studio-webtop">Siddhant-K-code/android-studio-webtop: ★1</a>
 * <a href="https://github.com/Siddhant-K-code/poc-browser-IndexedDB">Siddhant-K-code/poc-browser-IndexedDB: ★1</a>
+* <a href="https://github.com/Siddhant-K-code/MediSearchAI">Siddhant-K-code/MediSearchAI: ★1</a>
 
 <sup>I have push, maintainer or admin permissions, so I'm definitely an author.<sup>
 
