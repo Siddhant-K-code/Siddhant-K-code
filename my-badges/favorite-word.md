@@ -5,10 +5,10 @@
 My favorite commit message words are:
 
 1. initial (used 39 times)
-2. commit (used 36 times)
-3. co-authored-by: (used 28 times)
-4. fix (used 26 times)
-5. :sparkles: (used 26 times)
+2. add (used 37 times)
+3. commit (used 36 times)
+4. co-authored-by: (used 28 times)
+5. fix (used 28 times)
 
 
 Created by <a href="https://github.com/my-badges/my-badges">My Badges</a>

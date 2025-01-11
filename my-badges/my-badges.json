@@ -38,7 +38,7 @@
     "id": "favorite-word",
     "tier": 0,
     "desc": "My favorite word is \"initial\".",
-    "body": "My favorite commit message words are:\n\n1. initial (used 39 times)\n2. commit (used 36 times)\n3. co-authored-by: (used 28 times)\n4. fix (used 26 times)\n5. :sparkles: (used 26 times)",
+    "body": "My favorite commit message words are:\n\n1. initial (used 39 times)\n2. add (used 37 times)\n3. commit (used 36 times)\n4. co-authored-by: (used 28 times)\n5. fix (used 28 times)",
     "image": "https://my-badges.github.io/my-badges/favorite-word.png"
   },
   {
@@ -145,5 +145,12 @@
     "desc": "I've starred 7 my own repositories.",
     "body": "- <a href=\"https://github.com/Siddhant-K-code/Cross-Sum-Calculator\">Siddhant-K-code/Cross-Sum-Calculator</a>\n- <a href=\"https://github.com/Siddhant-K-code/Block-Tower\">Siddhant-K-code/Block-Tower</a>\n- <a href=\"https://github.com/Siddhant-K-code/Coronavirus-Probability-Checker\">Siddhant-K-code/Coronavirus-Probability-Checker</a>\n- <a href=\"https://github.com/Siddhant-K-code/Coronavirus-Outbreak-Notification-Alert\">Siddhant-K-code/Coronavirus-Outbreak-Notification-Alert</a>\n- <a href=\"https://github.com/Siddhant-K-code/gitpod-github-actions-self-hosted-runner\">Siddhant-K-code/gitpod-github-actions-self-hosted-runner</a>\n- <a href=\"https://github.com/Siddhant-K-code/cleanup-gitpod-environments\">Siddhant-K-code/cleanup-gitpod-environments</a>\n- <a href=\"https://github.com/Siddhant-K-code/MediSearchAI\">Siddhant-K-code/MediSearchAI</a>",
     "image": "https://my-badges.github.io/my-badges/self-star.png"
+  },
+  {
+    "id": "epic-commit",
+    "tier": 0,
+    "desc": "I made an epic commit with a message over 500 chars.",
+    "body": "Commits:\n\n- <a href=\"https://github.com/Siddhant-K-code/cleanup-gitpod-environments/commit/cc8d007151d4fdbe312295ad4d1116a4991c832c\">cc8d007</a>",
+    "image": "https://my-badges.github.io/my-badges/epic-commit.png"
   }
 ]
