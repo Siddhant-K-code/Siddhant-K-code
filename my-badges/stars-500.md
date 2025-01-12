@@ -170,6 +170,7 @@ Repos:
 * <a href="https://github.com/shravan562/GitHub-User-Access">shravan562/GitHub-User-Access: ★1</a>
 * <a href="https://github.com/Siddhant-K-code/android-studio-webtop">Siddhant-K-code/android-studio-webtop: ★1</a>
 * <a href="https://github.com/Siddhant-K-code/poc-browser-IndexedDB">Siddhant-K-code/poc-browser-IndexedDB: ★1</a>
+* <a href="https://github.com/Siddhant-K-code/mcp-devto-server">Siddhant-K-code/mcp-devto-server: ★1</a>
 
 <sup>I have push, maintainer or admin permissions, so I'm definitely an author.<sup>
 
