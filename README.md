@@ -84,6 +84,7 @@
 ### Recent Technical blogs
 
 <!--START_SECTION:feed-->
+* [Binary embedding: shrink vector storage by 95%](https://dev.to/siddhantkcode/binary-embedding-shrink-vector-storage-by-95-5e0l)
 * [Querying S3 logs in a flash with DuckDB 🦆](https://dev.to/siddhantkcode/querying-s3-logs-in-a-flash-with-duckdb-p44)
 * [Submission for the DevCycle Feature Flag Challenge: AI Feature Flag Suggestions 🧠](https://dev.to/siddhantkcode/submission-for-the-devcycle-feature-flag-challenge-ai-feature-flag-suggestions-566m)
 * [Turbocharging AWS Lambda: How to eliminate cold starts forever](https://dev.to/siddhantkcode/turbocharging-aws-lambda-how-to-eliminate-cold-starts-forever-3c54)
@@ -93,7 +94,6 @@
 * [Critical changes coming to GitHub Actions: Ubuntu 24 migration guide](https://dev.to/siddhantkcode/critical-changes-coming-to-github-actions-ubuntu-24-migration-guide-oo8)
 * [Solving AWS ECS connect timeouts: configure default settings easily](https://dev.to/siddhantkcode/solving-aws-ecs-connect-timeouts-configure-default-settings-easily-41n2)
 * [When k6 eats up your RAM: Slashing memory usage in load tests](https://dev.to/siddhantkcode/when-k6-eats-up-your-ram-slashing-memory-usage-in-load-tests-5148)
-* [Optimizing database performance by migrating Images to GCS](https://dev.to/siddhantkcode/optimizing-database-performance-by-migrating-images-to-gcs-25em)
 <!--END_SECTION:feed-->
 
 ---
