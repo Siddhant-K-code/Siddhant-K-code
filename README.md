@@ -52,6 +52,8 @@
 
 </details>
 
+Some of my recent PRs: https://www.myprs.xyz/Siddhant-K-code
+
 ### **My Portfolio**:
 
 <a href="https://siddhant-k-code.github.io/"><img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=Firefox&style=flat&logoColor=#FF7139"/></a>
