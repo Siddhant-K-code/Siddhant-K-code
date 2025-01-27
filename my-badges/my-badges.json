@@ -3,7 +3,7 @@
     "id": "a-commit",
     "tier": 1,
     "desc": "One of my commit sha starts with \"a\".",
-    "body": "- <a href=\"https://github.com/Siddhant-K-code/observability/commit/a0043ad27d2783543d32e64522e599a3a55d4117\"><strong>a</strong>0043ad27d2783543d32e64522e599a3a55d4117</a>",
+    "body": "- <a href=\"https://github.com/Siddhant-K-code/satori-example/commit/a6380d125eb20e837f456eaec07f4760a2d6d18c\"><strong>a</strong>6380d125eb20e837f456eaec07f4760a2d6d18c</a>",
     "image": "https://my-badges.github.io/my-badges/a-commit.png"
   },
   {
@@ -38,7 +38,7 @@
     "id": "favorite-word",
     "tier": 0,
     "desc": "My favorite word is \"initial\".",
-    "body": "My favorite commit message words are:\n\n1. initial (used 40 times)\n2. add (used 40 times)\n3. commit (used 37 times)\n4. co-authored-by: (used 30 times)\n5. fix (used 29 times)",
+    "body": "My favorite commit message words are:\n\n1. initial (used 40 times)\n2. add (used 40 times)\n3. commit (used 36 times)\n4. co-authored-by: (used 30 times)\n5. fix (used 29 times)",
     "image": "https://my-badges.github.io/my-badges/favorite-word.png"
   },
   {
@@ -142,8 +142,8 @@
   {
     "id": "self-star",
     "tier": 0,
-    "desc": "I've starred 7 my own repositories.",
-    "body": "- <a href=\"https://github.com/Siddhant-K-code/Cross-Sum-Calculator\">Siddhant-K-code/Cross-Sum-Calculator</a>\n- <a href=\"https://github.com/Siddhant-K-code/Block-Tower\">Siddhant-K-code/Block-Tower</a>\n- <a href=\"https://github.com/Siddhant-K-code/Coronavirus-Probability-Checker\">Siddhant-K-code/Coronavirus-Probability-Checker</a>\n- <a href=\"https://github.com/Siddhant-K-code/Coronavirus-Outbreak-Notification-Alert\">Siddhant-K-code/Coronavirus-Outbreak-Notification-Alert</a>\n- <a href=\"https://github.com/Siddhant-K-code/gitpod-github-actions-self-hosted-runner\">Siddhant-K-code/gitpod-github-actions-self-hosted-runner</a>\n- <a href=\"https://github.com/Siddhant-K-code/cleanup-gitpod-environments\">Siddhant-K-code/cleanup-gitpod-environments</a>\n- <a href=\"https://github.com/Siddhant-K-code/MediSearchAI\">Siddhant-K-code/MediSearchAI</a>",
+    "desc": "I've starred 8 my own repositories.",
+    "body": "- <a href=\"https://github.com/Siddhant-K-code/Cross-Sum-Calculator\">Siddhant-K-code/Cross-Sum-Calculator</a>\n- <a href=\"https://github.com/Siddhant-K-code/Block-Tower\">Siddhant-K-code/Block-Tower</a>\n- <a href=\"https://github.com/Siddhant-K-code/Coronavirus-Probability-Checker\">Siddhant-K-code/Coronavirus-Probability-Checker</a>\n- <a href=\"https://github.com/Siddhant-K-code/Coronavirus-Outbreak-Notification-Alert\">Siddhant-K-code/Coronavirus-Outbreak-Notification-Alert</a>\n- <a href=\"https://github.com/Siddhant-K-code/gitpod-github-actions-self-hosted-runner\">Siddhant-K-code/gitpod-github-actions-self-hosted-runner</a>\n- <a href=\"https://github.com/Siddhant-K-code/cleanup-gitpod-environments\">Siddhant-K-code/cleanup-gitpod-environments</a>\n- <a href=\"https://github.com/Siddhant-K-code/MediSearchAI\">Siddhant-K-code/MediSearchAI</a>\n- <a href=\"https://github.com/Siddhant-K-code/memory-journal-mcp-server\">Siddhant-K-code/memory-journal-mcp-server</a>",
     "image": "https://my-badges.github.io/my-badges/self-star.png"
   },
   {
