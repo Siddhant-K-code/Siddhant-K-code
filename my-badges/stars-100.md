@@ -14,13 +14,13 @@ Repos:
 * <a href="https://github.com/Siddhant-K-code/poc-gocron">Siddhant-K-code/poc-gocron: ★3</a>
 * <a href="https://github.com/Siddhant-K-code/cleanup-gitpod-environments">Siddhant-K-code/cleanup-gitpod-environments: ★3</a>
 * <a href="https://github.com/Siddhant-K-code/MediSearchAI">Siddhant-K-code/MediSearchAI: ★3</a>
+* <a href="https://github.com/Siddhant-K-code/memory-journal-mcp-server">Siddhant-K-code/memory-journal-mcp-server: ★3</a>
 * <a href="https://github.com/Siddhant-K-code/chatgpt-api">Siddhant-K-code/chatgpt-api: ★2</a>
 * <a href="https://github.com/Siddhant-K-code/svelte-configcat">Siddhant-K-code/svelte-configcat: ★2</a>
 * <a href="https://github.com/Siddhant-K-code/GPT-CLI">Siddhant-K-code/GPT-CLI: ★2</a>
 * <a href="https://github.com/Siddhant-K-code/Gitpod-GitHub-Repo-Importer">Siddhant-K-code/Gitpod-GitHub-Repo-Importer: ★2</a>
 * <a href="https://github.com/Siddhant-K-code/run-cloud-functions-locally">Siddhant-K-code/run-cloud-functions-locally: ★2</a>
 * <a href="https://github.com/Siddhant-K-code/llm-parallelism-explorer-poc">Siddhant-K-code/llm-parallelism-explorer-poc: ★2</a>
-* <a href="https://github.com/Siddhant-K-code/memory-journal-mcp-server">Siddhant-K-code/memory-journal-mcp-server: ★2</a>
 * <a href="https://github.com/Siddhant-K-code/backstage">Siddhant-K-code/backstage: ★1</a>
 * <a href="https://github.com/Siddhant-K-code/template-sveltekit">Siddhant-K-code/template-sveltekit: ★1</a>
 * <a href="https://github.com/Siddhant-K-code/template-dotnet-core-cli-csharp">Siddhant-K-code/template-dotnet-core-cli-csharp: ★1</a>
