@@ -9,12 +9,12 @@ Repos:
 * <a href="https://github.com/Siddhant-K-code/mysql-replica-server">Siddhant-K-code/mysql-replica-server: ★10</a>
 * <a href="https://github.com/Siddhant-K-code/scalable-ls">Siddhant-K-code/scalable-ls: ★7</a>
 * <a href="https://github.com/Siddhant-K-code/OpenAI-bring-your-own-data">Siddhant-K-code/OpenAI-bring-your-own-data: ★4</a>
+* <a href="https://github.com/Siddhant-K-code/memory-journal-mcp-server">Siddhant-K-code/memory-journal-mcp-server: ★4</a>
 * <a href="https://github.com/Siddhant-K-code/satori-example">Siddhant-K-code/satori-example: ★3</a>
 * <a href="https://github.com/Siddhant-K-code/gitpod-github-actions-self-hosted-runner">Siddhant-K-code/gitpod-github-actions-self-hosted-runner: ★3</a>
 * <a href="https://github.com/Siddhant-K-code/poc-gocron">Siddhant-K-code/poc-gocron: ★3</a>
 * <a href="https://github.com/Siddhant-K-code/cleanup-gitpod-environments">Siddhant-K-code/cleanup-gitpod-environments: ★3</a>
 * <a href="https://github.com/Siddhant-K-code/MediSearchAI">Siddhant-K-code/MediSearchAI: ★3</a>
-* <a href="https://github.com/Siddhant-K-code/memory-journal-mcp-server">Siddhant-K-code/memory-journal-mcp-server: ★3</a>
 * <a href="https://github.com/Siddhant-K-code/chatgpt-api">Siddhant-K-code/chatgpt-api: ★2</a>
 * <a href="https://github.com/Siddhant-K-code/svelte-configcat">Siddhant-K-code/svelte-configcat: ★2</a>
 * <a href="https://github.com/Siddhant-K-code/GPT-CLI">Siddhant-K-code/GPT-CLI: ★2</a>
