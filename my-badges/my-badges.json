@@ -136,7 +136,7 @@
     "id": "self-upvote",
     "tier": 1,
     "desc": "I liked my own comment so much that I upvoted it.",
-    "body": "* <a href=\"https://github.com/docsifyjs/docsify/issues/1575\">👍</a>\n* <a href=\"https://github.com/gitpod-io/gitpod/pull/16501#issuecomment-1441294145\">😕</a>",
+    "body": "* <a href=\"https://github.com/gitpod-io/gitpod/pull/16501#issuecomment-1441294145\">😕</a>",
     "image": "https://my-badges.github.io/my-badges/self-upvote.png"
   },
   {

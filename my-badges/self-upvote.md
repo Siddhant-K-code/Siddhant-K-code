@@ -2,7 +2,6 @@
 <strong>I liked my own comment so much that I upvoted it.</strong>
 <br><br>
 
-* <a href="https://github.com/docsifyjs/docsify/issues/1575">👍</a>
 * <a href="https://github.com/gitpod-io/gitpod/pull/16501#issuecomment-1441294145">😕</a>
 
 
