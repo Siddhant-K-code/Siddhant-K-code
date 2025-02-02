@@ -86,6 +86,7 @@ Some of my recent PRs: https://www.myprs.xyz/Siddhant-K-code
 ### Recent Technical blogs
 
 <!--START_SECTION:feed-->
+* [How we slashed CI build time using Go’s cache](https://dev.to/siddhantkcode/how-we-slashed-ci-build-time-using-gos-cache-500f)
 * [Binary embedding: shrink vector storage by 95%](https://dev.to/siddhantkcode/binary-embedding-shrink-vector-storage-by-95-5e0l)
 * [Querying S3 logs in a flash with DuckDB 🦆](https://dev.to/siddhantkcode/querying-s3-logs-in-a-flash-with-duckdb-p44)
 * [Submission for the DevCycle Feature Flag Challenge: AI Feature Flag Suggestions 🧠](https://dev.to/siddhantkcode/submission-for-the-devcycle-feature-flag-challenge-ai-feature-flag-suggestions-566m)
@@ -95,7 +96,6 @@ Some of my recent PRs: https://www.myprs.xyz/Siddhant-K-code
 * [Building smarter Docker Images for your development environments with Pants 🚀](https://dev.to/siddhantkcode/building-smarter-docker-images-for-your-development-environments-with-pants-51al)
 * [Critical changes coming to GitHub Actions: Ubuntu 24 migration guide](https://dev.to/siddhantkcode/critical-changes-coming-to-github-actions-ubuntu-24-migration-guide-oo8)
 * [Solving AWS ECS connect timeouts: configure default settings easily](https://dev.to/siddhantkcode/solving-aws-ecs-connect-timeouts-configure-default-settings-easily-41n2)
-* [When k6 eats up your RAM: Slashing memory usage in load tests](https://dev.to/siddhantkcode/when-k6-eats-up-your-ram-slashing-memory-usage-in-load-tests-5148)
 <!--END_SECTION:feed-->
 
 ---
