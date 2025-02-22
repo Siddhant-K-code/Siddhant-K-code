@@ -21,7 +21,6 @@ Repos:
 * <a href="https://github.com/Siddhant-K-code/Gitpod-GitHub-Repo-Importer">Siddhant-K-code/Gitpod-GitHub-Repo-Importer: ★2</a>
 * <a href="https://github.com/Siddhant-K-code/run-cloud-functions-locally">Siddhant-K-code/run-cloud-functions-locally: ★2</a>
 * <a href="https://github.com/Siddhant-K-code/llm-parallelism-explorer-poc">Siddhant-K-code/llm-parallelism-explorer-poc: ★2</a>
-* <a href="https://github.com/Siddhant-K-code/backstage">Siddhant-K-code/backstage: ★1</a>
 * <a href="https://github.com/Siddhant-K-code/template-sveltekit">Siddhant-K-code/template-sveltekit: ★1</a>
 * <a href="https://github.com/Siddhant-K-code/template-dotnet-core-cli-csharp">Siddhant-K-code/template-dotnet-core-cli-csharp: ★1</a>
 * <a href="https://github.com/Siddhant-K-code/werft">Siddhant-K-code/werft: ★1</a>
