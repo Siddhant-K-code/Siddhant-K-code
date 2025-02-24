@@ -71,6 +71,7 @@ Some of my recent PRs: https://www.myprs.xyz/Siddhant-K-code
 ### Recent Technical blogs
 
 <!--START_SECTION:feed-->
+* [Tackling Cold Starts in AWS Lambda: A Deep Dive with LLRT](https://dev.to/siddhantkcode/tackling-cold-starts-in-aws-lambda-a-deep-dive-with-llrt-17d7)
 * [How we slashed CI build time using Go’s cache](https://dev.to/siddhantkcode/how-we-slashed-ci-build-time-using-gos-cache-500f)
 * [Binary embedding: shrink vector storage by 95%](https://dev.to/siddhantkcode/binary-embedding-shrink-vector-storage-by-95-5e0l)
 * [Querying S3 logs in a flash with DuckDB 🦆](https://dev.to/siddhantkcode/querying-s3-logs-in-a-flash-with-duckdb-p44)
@@ -80,7 +81,6 @@ Some of my recent PRs: https://www.myprs.xyz/Siddhant-K-code
 * [Deep dive: optimizing self-hosted GitHub Actions Runners on AWS and GCP for cost efficiency](https://dev.to/siddhantkcode/deep-dive-optimizing-self-hosted-github-actions-runners-on-aws-and-gcp-for-cost-efficiency-58o8)
 * [Building smarter Docker Images for your development environments with Pants 🚀](https://dev.to/siddhantkcode/building-smarter-docker-images-for-your-development-environments-with-pants-51al)
 * [Critical changes coming to GitHub Actions: Ubuntu 24 migration guide](https://dev.to/siddhantkcode/critical-changes-coming-to-github-actions-ubuntu-24-migration-guide-oo8)
-* [Solving AWS ECS connect timeouts: configure default settings easily](https://dev.to/siddhantkcode/solving-aws-ecs-connect-timeouts-configure-default-settings-easily-41n2)
 <!--END_SECTION:feed-->
 
 ---
