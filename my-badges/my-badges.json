@@ -38,7 +38,7 @@
     "id": "favorite-word",
     "tier": 0,
     "desc": "My favorite word is \"add\".",
-    "body": "My favorite commit message words are:\n\n1. add (used 41 times)\n2. initial (used 41 times)\n3. commit (used 38 times)\n4. co-authored-by: (used 30 times)\n5. fix (used 29 times)",
+    "body": "My favorite commit message words are:\n\n1. add (used 44 times)\n2. initial (used 41 times)\n3. commit (used 38 times)\n4. co-authored-by: (used 34 times)\n5. fix (used 29 times)",
     "image": "https://my-badges.github.io/my-badges/favorite-word.png"
   },
   {
@@ -108,7 +108,7 @@
     "id": "evening-commits",
     "tier": 0,
     "desc": "I commit in the evening.",
-    "body": "Commits:\n\n- <a href=\"https://github.com/Siddhant-K-code/india-climate-spiral/commit/4d90c2736fc87082b73c536a9f4776021872b2bc\">4d90c27</a>\n- <a href=\"https://github.com/Siddhant-K-code/india-climate-spiral/commit/581f56082671c0fcc24bfd1b41709e58b2bb7911\">581f560</a>\n- <a href=\"https://github.com/Siddhant-K-code/github-contribution-tracker/commit/45ecb1f1d5ef10f9bdf1ef17495d09b85c747d33\">45ecb1f</a>\n- <a href=\"https://github.com/Siddhant-K-code/github-contribution-tracker/commit/7037a2fba4b8dd40686414cc9e7d35f231808b71\">7037a2f</a>\n- <a href=\"https://github.com/Siddhant-K-code/github-contribution-tracker/commit/e655aa8a1f271971f107a8697bfeb83585f236e9\">e655aa8</a>\n- <a href=\"https://github.com/Siddhant-K-code/github-contribution-tracker/commit/a7f708b674859c163beb4e2f6d4c803c0d851068\">a7f708b</a>",
+    "body": "Commits:\n\n- <a href=\"https://github.com/Siddhant-K-code/devcontainers.github.io/commit/e66b4e768f8be78e8a1326860175b7e927464cf9\">e66b4e7</a>\n- <a href=\"https://github.com/Siddhant-K-code/india-climate-spiral/commit/4d90c2736fc87082b73c536a9f4776021872b2bc\">4d90c27</a>\n- <a href=\"https://github.com/Siddhant-K-code/india-climate-spiral/commit/581f56082671c0fcc24bfd1b41709e58b2bb7911\">581f560</a>\n- <a href=\"https://github.com/Siddhant-K-code/github-contribution-tracker/commit/45ecb1f1d5ef10f9bdf1ef17495d09b85c747d33\">45ecb1f</a>\n- <a href=\"https://github.com/Siddhant-K-code/github-contribution-tracker/commit/7037a2fba4b8dd40686414cc9e7d35f231808b71\">7037a2f</a>\n- <a href=\"https://github.com/Siddhant-K-code/github-contribution-tracker/commit/e655aa8a1f271971f107a8697bfeb83585f236e9\">e655aa8</a>",
     "image": "https://my-badges.github.io/my-badges/evening-commits.png"
   },
   {
