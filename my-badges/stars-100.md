@@ -5,10 +5,10 @@
 Repos:
 
 * <a href="https://github.com/gitpod-samples/Gitpod-Raycast-Extension">gitpod-samples/Gitpod-Raycast-Extension: ★15</a>
+* <a href="https://github.com/Siddhant-K-code/memory-journal-mcp-server">Siddhant-K-code/memory-journal-mcp-server: ★13</a>
 * <a href="https://github.com/gitpod-io/CDE-Universe">gitpod-io/CDE-Universe: ★10</a>
 * <a href="https://github.com/Siddhant-K-code/mysql-replica-server">Siddhant-K-code/mysql-replica-server: ★10</a>
 * <a href="https://github.com/Siddhant-K-code/scalable-ls">Siddhant-K-code/scalable-ls: ★7</a>
-* <a href="https://github.com/Siddhant-K-code/memory-journal-mcp-server">Siddhant-K-code/memory-journal-mcp-server: ★7</a>
 * <a href="https://github.com/Siddhant-K-code/OpenAI-bring-your-own-data">Siddhant-K-code/OpenAI-bring-your-own-data: ★4</a>
 * <a href="https://github.com/Siddhant-K-code/satori-example">Siddhant-K-code/satori-example: ★3</a>
 * <a href="https://github.com/Siddhant-K-code/gitpod-github-actions-self-hosted-runner">Siddhant-K-code/gitpod-github-actions-self-hosted-runner: ★3</a>
