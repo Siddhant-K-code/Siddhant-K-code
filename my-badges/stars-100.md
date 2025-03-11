@@ -15,6 +15,7 @@ Repos:
 * <a href="https://github.com/Siddhant-K-code/poc-gocron">Siddhant-K-code/poc-gocron: ★3</a>
 * <a href="https://github.com/Siddhant-K-code/cleanup-gitpod-environments">Siddhant-K-code/cleanup-gitpod-environments: ★3</a>
 * <a href="https://github.com/Siddhant-K-code/MediSearchAI">Siddhant-K-code/MediSearchAI: ★3</a>
+* <a href="https://github.com/Siddhant-K-code/cloud-architect-ai">Siddhant-K-code/cloud-architect-ai: ★3</a>
 * <a href="https://github.com/Siddhant-K-code/chatgpt-api">Siddhant-K-code/chatgpt-api: ★2</a>
 * <a href="https://github.com/Siddhant-K-code/svelte-configcat">Siddhant-K-code/svelte-configcat: ★2</a>
 * <a href="https://github.com/Siddhant-K-code/GPT-CLI">Siddhant-K-code/GPT-CLI: ★2</a>
