@@ -22,6 +22,7 @@ Repos:
 * <a href="https://github.com/Siddhant-K-code/Gitpod-GitHub-Repo-Importer">Siddhant-K-code/Gitpod-GitHub-Repo-Importer: ★2</a>
 * <a href="https://github.com/Siddhant-K-code/run-cloud-functions-locally">Siddhant-K-code/run-cloud-functions-locally: ★2</a>
 * <a href="https://github.com/Siddhant-K-code/llm-parallelism-explorer-poc">Siddhant-K-code/llm-parallelism-explorer-poc: ★2</a>
+* <a href="https://github.com/Siddhant-K-code/mcp-apple-notes">Siddhant-K-code/mcp-apple-notes: ★2</a>
 * <a href="https://github.com/Siddhant-K-code/werft">Siddhant-K-code/werft: ★1</a>
 * <a href="https://github.com/Siddhant-K-code/blocks-template">Siddhant-K-code/blocks-template: ★1</a>
 * <a href="https://github.com/Siddhant-K-code/template-ruby-on-rails-postgres">Siddhant-K-code/template-ruby-on-rails-postgres: ★1</a>
@@ -44,7 +45,6 @@ Repos:
 * <a href="https://github.com/Siddhant-K-code/poc-browser-IndexedDB">Siddhant-K-code/poc-browser-IndexedDB: ★1</a>
 * <a href="https://github.com/Siddhant-K-code/mcp-devto-server">Siddhant-K-code/mcp-devto-server: ★1</a>
 * <a href="https://github.com/Siddhant-K-code/github-contribution-tracker">Siddhant-K-code/github-contribution-tracker: ★1</a>
-* <a href="https://github.com/Siddhant-K-code/mcp-apple-notes">Siddhant-K-code/mcp-apple-notes: ★1</a>
 
 <sup>I have push, maintainer or admin permissions, so I'm definitely an author.<sup>
 
