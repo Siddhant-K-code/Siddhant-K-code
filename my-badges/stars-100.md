@@ -4,7 +4,7 @@
 
 Repos:
 
-* <a href="https://github.com/Siddhant-K-code/memory-journal-mcp-server">Siddhant-K-code/memory-journal-mcp-server: ★15</a>
+* <a href="https://github.com/Siddhant-K-code/memory-journal-mcp-server">Siddhant-K-code/memory-journal-mcp-server: ★16</a>
 * <a href="https://github.com/gitpod-io/CDE-Universe">gitpod-io/CDE-Universe: ★10</a>
 * <a href="https://github.com/Siddhant-K-code/mysql-replica-server">Siddhant-K-code/mysql-replica-server: ★10</a>
 * <a href="https://github.com/Siddhant-K-code/scalable-ls">Siddhant-K-code/scalable-ls: ★7</a>
@@ -15,6 +15,7 @@ Repos:
 * <a href="https://github.com/Siddhant-K-code/poc-gocron">Siddhant-K-code/poc-gocron: ★3</a>
 * <a href="https://github.com/Siddhant-K-code/cleanup-gitpod-environments">Siddhant-K-code/cleanup-gitpod-environments: ★3</a>
 * <a href="https://github.com/Siddhant-K-code/MediSearchAI">Siddhant-K-code/MediSearchAI: ★3</a>
+* <a href="https://github.com/Siddhant-K-code/mcp-apple-notes">Siddhant-K-code/mcp-apple-notes: ★3</a>
 * <a href="https://github.com/Siddhant-K-code/MedBrief">Siddhant-K-code/MedBrief: ★3</a>
 * <a href="https://github.com/Siddhant-K-code/chatgpt-api">Siddhant-K-code/chatgpt-api: ★2</a>
 * <a href="https://github.com/Siddhant-K-code/svelte-configcat">Siddhant-K-code/svelte-configcat: ★2</a>
@@ -23,7 +24,6 @@ Repos:
 * <a href="https://github.com/Siddhant-K-code/run-cloud-functions-locally">Siddhant-K-code/run-cloud-functions-locally: ★2</a>
 * <a href="https://github.com/Siddhant-K-code/llm-parallelism-explorer-poc">Siddhant-K-code/llm-parallelism-explorer-poc: ★2</a>
 * <a href="https://github.com/Siddhant-K-code/mcp-devto-server">Siddhant-K-code/mcp-devto-server: ★2</a>
-* <a href="https://github.com/Siddhant-K-code/mcp-apple-notes">Siddhant-K-code/mcp-apple-notes: ★2</a>
 * <a href="https://github.com/Siddhant-K-code/werft">Siddhant-K-code/werft: ★1</a>
 * <a href="https://github.com/Siddhant-K-code/blocks-template">Siddhant-K-code/blocks-template: ★1</a>
 * <a href="https://github.com/Siddhant-K-code/template-ruby-on-rails-postgres">Siddhant-K-code/template-ruby-on-rails-postgres: ★1</a>
