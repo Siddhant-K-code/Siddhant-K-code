@@ -4,8 +4,8 @@
 
 Commits:
 
-- <a href="https://github.com/Siddhant-K-code/cleanup-gitpod-environments/commit/84a76a2d1b6b833a934ba9284002590e6952b6fd">84a76a2</a>: fix action desc
-- <a href="https://github.com/Siddhant-K-code/cleanup-gitpod-environments/commit/06cb5ca87e8ef8d538ee77fbd19f0581748cfe43">06cb5ca</a>: fix description
+- <a href="https://github.com/gitpod-samples/gitpodflix-demo/commit/c20c26e66690343b51db22962f6e0eee74e93d69">c20c26e</a>: fix
+- <a href="https://github.com/gitpod-samples/gitpodflix-demo/commit/3ed05112e7a7fd8e16b6bbb6e6c7d2f9aa119c90">3ed0511</a>: fix devcontainer
 
 
 Created by <a href="https://github.com/my-badges/my-badges">My Badges</a>

@@ -24,7 +24,6 @@ Repos:
 * <a href="https://github.com/Siddhant-K-code/run-cloud-functions-locally">Siddhant-K-code/run-cloud-functions-locally: ★2</a>
 * <a href="https://github.com/Siddhant-K-code/llm-parallelism-explorer-poc">Siddhant-K-code/llm-parallelism-explorer-poc: ★2</a>
 * <a href="https://github.com/Siddhant-K-code/mcp-devto-server">Siddhant-K-code/mcp-devto-server: ★2</a>
-* <a href="https://github.com/Siddhant-K-code/werft">Siddhant-K-code/werft: ★1</a>
 * <a href="https://github.com/Siddhant-K-code/blocks-template">Siddhant-K-code/blocks-template: ★1</a>
 * <a href="https://github.com/Siddhant-K-code/template-ruby-on-rails-postgres">Siddhant-K-code/template-ruby-on-rails-postgres: ★1</a>
 * <a href="https://github.com/Siddhant-K-code/connect-go-prometheus">Siddhant-K-code/connect-go-prometheus: ★1</a>
