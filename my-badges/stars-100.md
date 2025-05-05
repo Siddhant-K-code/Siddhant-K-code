@@ -14,6 +14,7 @@ Repos:
 * <a href="https://github.com/Siddhant-K-code/satori-example">Siddhant-K-code/satori-example: ★3</a>
 * <a href="https://github.com/Siddhant-K-code/gitpod-github-actions-self-hosted-runner">Siddhant-K-code/gitpod-github-actions-self-hosted-runner: ★3</a>
 * <a href="https://github.com/Siddhant-K-code/poc-gocron">Siddhant-K-code/poc-gocron: ★3</a>
+* <a href="https://github.com/Siddhant-K-code/llm-parallelism-explorer-poc">Siddhant-K-code/llm-parallelism-explorer-poc: ★3</a>
 * <a href="https://github.com/Siddhant-K-code/MediSearchAI">Siddhant-K-code/MediSearchAI: ★3</a>
 * <a href="https://github.com/Siddhant-K-code/mcp-apple-notes">Siddhant-K-code/mcp-apple-notes: ★3</a>
 * <a href="https://github.com/Siddhant-K-code/MedBrief">Siddhant-K-code/MedBrief: ★3</a>
@@ -22,7 +23,6 @@ Repos:
 * <a href="https://github.com/Siddhant-K-code/GPT-CLI">Siddhant-K-code/GPT-CLI: ★2</a>
 * <a href="https://github.com/Siddhant-K-code/Gitpod-GitHub-Repo-Importer">Siddhant-K-code/Gitpod-GitHub-Repo-Importer: ★2</a>
 * <a href="https://github.com/Siddhant-K-code/run-cloud-functions-locally">Siddhant-K-code/run-cloud-functions-locally: ★2</a>
-* <a href="https://github.com/Siddhant-K-code/llm-parallelism-explorer-poc">Siddhant-K-code/llm-parallelism-explorer-poc: ★2</a>
 * <a href="https://github.com/Siddhant-K-code/mcp-devto-server">Siddhant-K-code/mcp-devto-server: ★2</a>
 * <a href="https://github.com/Siddhant-K-code/template-ruby-on-rails-postgres">Siddhant-K-code/template-ruby-on-rails-postgres: ★1</a>
 * <a href="https://github.com/Siddhant-K-code/connect-go-prometheus">Siddhant-K-code/connect-go-prometheus: ★1</a>
