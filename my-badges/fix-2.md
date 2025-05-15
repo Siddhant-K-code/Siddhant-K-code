@@ -4,8 +4,8 @@
 
 Commits:
 
-- <a href="https://github.com/gitpod-samples/gitpodflix-demo/commit/c20c26e66690343b51db22962f6e0eee74e93d69">c20c26e</a>: fix
-- <a href="https://github.com/gitpod-samples/gitpodflix-demo/commit/3ed05112e7a7fd8e16b6bbb6e6c7d2f9aa119c90">3ed0511</a>: fix devcontainer
+- <a href="https://github.com/Siddhant-K-code/vectorize-mcp-server/commit/cf63db1186030b82fc5dfe9f9c6d5da27716e4f4">cf63db1</a>: fix
+- <a href="https://github.com/Siddhant-K-code/vectorize-mcp-server/commit/9a5b446431a70385e0cc27ced7fccf8ba71945e9">9a5b446</a>: fix
 
 
 Created by <a href="https://github.com/my-badges/my-badges">My Badges</a>

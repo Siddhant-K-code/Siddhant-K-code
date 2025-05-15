@@ -4,12 +4,12 @@
 
 Commits:
 
-- <a href="https://github.com/Siddhant-K-code/cloud-architect-ai/commit/283122e4750f96667571d5b922b20dc6ae32ac39">283122e</a>
-- <a href="https://github.com/Siddhant-K-code/devcontainers.github.io/commit/e66b4e768f8be78e8a1326860175b7e927464cf9">e66b4e7</a>
-- <a href="https://github.com/Siddhant-K-code/india-climate-spiral/commit/4d90c2736fc87082b73c536a9f4776021872b2bc">4d90c27</a>
-- <a href="https://github.com/Siddhant-K-code/india-climate-spiral/commit/581f56082671c0fcc24bfd1b41709e58b2bb7911">581f560</a>
-- <a href="https://github.com/Siddhant-K-code/github-contribution-tracker/commit/45ecb1f1d5ef10f9bdf1ef17495d09b85c747d33">45ecb1f</a>
-- <a href="https://github.com/Siddhant-K-code/github-contribution-tracker/commit/7037a2fba4b8dd40686414cc9e7d35f231808b71">7037a2f</a>
+- <a href="https://github.com/Siddhant-K-code/vectorize-mcp-server/commit/e8f405672a5f782f29c1ccf42f85b4f2d511d5cd">e8f4056</a>
+- <a href="https://github.com/Siddhant-K-code/vectorize-mcp-server/commit/4fbc9e62c550e12c677f901925a6981140ae089b">4fbc9e6</a>
+- <a href="https://github.com/Siddhant-K-code/vectorize-mcp-server/commit/537c38b4ca952ef42a57299beae53722c1a30cb9">537c38b</a>
+- <a href="https://github.com/Siddhant-K-code/vectorize-mcp-server/commit/cf63db1186030b82fc5dfe9f9c6d5da27716e4f4">cf63db1</a>
+- <a href="https://github.com/Siddhant-K-code/vectorize-mcp-server/commit/9a5b446431a70385e0cc27ced7fccf8ba71945e9">9a5b446</a>
+- <a href="https://github.com/Siddhant-K-code/vectorize-mcp-server/commit/b61293aac78f367f601578177f1a436c56d34e2e">b61293a</a>
 
 
 Created by <a href="https://github.com/my-badges/my-badges">My Badges</a>
