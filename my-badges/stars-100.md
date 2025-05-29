@@ -12,6 +12,7 @@ Repos:
 * <a href="https://github.com/Siddhant-K-code/cleanup-gitpod-environments">Siddhant-K-code/cleanup-gitpod-environments: ★5</a>
 * <a href="https://github.com/Siddhant-K-code/mcp-apple-notes">Siddhant-K-code/mcp-apple-notes: ★5</a>
 * <a href="https://github.com/Siddhant-K-code/OpenAI-bring-your-own-data">Siddhant-K-code/OpenAI-bring-your-own-data: ★4</a>
+* <a href="https://github.com/Siddhant-K-code/ArchiFusion">Siddhant-K-code/ArchiFusion: ★4</a>
 * <a href="https://github.com/Siddhant-K-code/satori-example">Siddhant-K-code/satori-example: ★3</a>
 * <a href="https://github.com/Siddhant-K-code/gitpod-github-actions-self-hosted-runner">Siddhant-K-code/gitpod-github-actions-self-hosted-runner: ★3</a>
 * <a href="https://github.com/Siddhant-K-code/poc-gocron">Siddhant-K-code/poc-gocron: ★3</a>
@@ -24,7 +25,6 @@ Repos:
 * <a href="https://github.com/Siddhant-K-code/Gitpod-GitHub-Repo-Importer">Siddhant-K-code/Gitpod-GitHub-Repo-Importer: ★2</a>
 * <a href="https://github.com/Siddhant-K-code/run-cloud-functions-locally">Siddhant-K-code/run-cloud-functions-locally: ★2</a>
 * <a href="https://github.com/Siddhant-K-code/mcp-devto-server">Siddhant-K-code/mcp-devto-server: ★2</a>
-* <a href="https://github.com/Siddhant-K-code/ArchiFusion">Siddhant-K-code/ArchiFusion: ★2</a>
 * <a href="https://github.com/Siddhant-K-code/ts-oauth2-server">Siddhant-K-code/ts-oauth2-server: ★1</a>
 * <a href="https://github.com/Siddhant-K-code/cal.com">Siddhant-K-code/cal.com: ★1</a>
 * <a href="https://github.com/Siddhant-K-code/probot">Siddhant-K-code/probot: ★1</a>
