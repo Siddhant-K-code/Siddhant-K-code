@@ -25,7 +25,6 @@ Repos:
 * <a href="https://github.com/Siddhant-K-code/Gitpod-GitHub-Repo-Importer">Siddhant-K-code/Gitpod-GitHub-Repo-Importer: ★2</a>
 * <a href="https://github.com/Siddhant-K-code/run-cloud-functions-locally">Siddhant-K-code/run-cloud-functions-locally: ★2</a>
 * <a href="https://github.com/Siddhant-K-code/mcp-devto-server">Siddhant-K-code/mcp-devto-server: ★2</a>
-* <a href="https://github.com/Siddhant-K-code/ts-oauth2-server">Siddhant-K-code/ts-oauth2-server: ★1</a>
 * <a href="https://github.com/Siddhant-K-code/cal.com">Siddhant-K-code/cal.com: ★1</a>
 * <a href="https://github.com/Siddhant-K-code/probot">Siddhant-K-code/probot: ★1</a>
 * <a href="https://github.com/Siddhant-K-code/open-cloud-dev-box">Siddhant-K-code/open-cloud-dev-box: ★1</a>
