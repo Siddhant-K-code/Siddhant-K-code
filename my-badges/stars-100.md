@@ -4,11 +4,10 @@
 
 Repos:
 
-* <a href="https://github.com/gitpod-samples/Gitpod-Raycast-Extension">gitpod-samples/Gitpod-Raycast-Extension: ★16</a>
 * <a href="https://github.com/gitpod-io/CDE-Universe">gitpod-io/CDE-Universe: ★10</a>
 * <a href="https://github.com/Siddhant-K-code/mysql-replica-server">Siddhant-K-code/mysql-replica-server: ★10</a>
 * <a href="https://github.com/Siddhant-K-code/scalable-ls">Siddhant-K-code/scalable-ls: ★7</a>
-* <a href="https://github.com/Siddhant-K-code/cloud-architect-ai">Siddhant-K-code/cloud-architect-ai: ★6</a>
+* <a href="https://github.com/Siddhant-K-code/cloud-architect-ai">Siddhant-K-code/cloud-architect-ai: ★7</a>
 * <a href="https://github.com/Siddhant-K-code/cleanup-gitpod-environments">Siddhant-K-code/cleanup-gitpod-environments: ★5</a>
 * <a href="https://github.com/Siddhant-K-code/mcp-apple-notes">Siddhant-K-code/mcp-apple-notes: ★5</a>
 * <a href="https://github.com/Siddhant-K-code/ArchiFusion">Siddhant-K-code/ArchiFusion: ★5</a>
