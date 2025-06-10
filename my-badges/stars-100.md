@@ -24,6 +24,7 @@ Repos:
 * <a href="https://github.com/Siddhant-K-code/Gitpod-GitHub-Repo-Importer">Siddhant-K-code/Gitpod-GitHub-Repo-Importer: ★2</a>
 * <a href="https://github.com/Siddhant-K-code/run-cloud-functions-locally">Siddhant-K-code/run-cloud-functions-locally: ★2</a>
 * <a href="https://github.com/Siddhant-K-code/mcp-devto-server">Siddhant-K-code/mcp-devto-server: ★2</a>
+* <a href="https://github.com/gitpod-samples/gitpodflix-demo">gitpod-samples/gitpodflix-demo: ★2</a>
 * <a href="https://github.com/Siddhant-K-code/cal.com">Siddhant-K-code/cal.com: ★1</a>
 * <a href="https://github.com/Siddhant-K-code/probot">Siddhant-K-code/probot: ★1</a>
 * <a href="https://github.com/Siddhant-K-code/open-cloud-dev-box">Siddhant-K-code/open-cloud-dev-box: ★1</a>
@@ -40,7 +41,6 @@ Repos:
 * <a href="https://github.com/Siddhant-K-code/android-studio-webtop">Siddhant-K-code/android-studio-webtop: ★1</a>
 * <a href="https://github.com/Siddhant-K-code/poc-browser-IndexedDB">Siddhant-K-code/poc-browser-IndexedDB: ★1</a>
 * <a href="https://github.com/Siddhant-K-code/github-contribution-tracker">Siddhant-K-code/github-contribution-tracker: ★1</a>
-* <a href="https://github.com/gitpod-samples/gitpodflix-demo">gitpod-samples/gitpodflix-demo: ★1</a>
 
 <sup>I have push, maintainer or admin permissions, so I'm definitely an author.<sup>
 
