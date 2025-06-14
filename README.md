@@ -70,6 +70,7 @@ Some of my recent PRs: https://www.myprs.xyz/Siddhant-K-code
 ### Recent Technical blogs
 
 <!--START_SECTION:feed-->
+* [Claude code is costly - unless you do this](https://dev.to/siddhantkcode/claude-code-is-costly-unless-you-do-this-484o)
 * [Extending Claude's Brain: How MCP makes AI actually useful for developers](https://dev.to/siddhantkcode/extending-claudes-brain-how-mcp-makes-ai-actually-useful-for-developers-35c4)
 * [How docs AI search works: Mintlify-Style with OpenAI Agents SDK](https://dev.to/siddhantkcode/how-docs-ai-search-works-mintlify-style-with-openai-agents-sdk-121j)
 * [Isolating AI Agents with DevContainer: A secure and scalable approach](https://dev.to/siddhantkcode/isolating-ai-agents-with-devcontainer-a-secure-and-scalable-approach-4hi4)
@@ -79,7 +80,6 @@ Some of my recent PRs: https://www.myprs.xyz/Siddhant-K-code
 * [Querying S3 logs in a flash with DuckDB 🦆](https://dev.to/siddhantkcode/querying-s3-logs-in-a-flash-with-duckdb-p44)
 * [Submission for the DevCycle Feature Flag Challenge: AI Feature Flag Suggestions 🧠](https://dev.to/siddhantkcode/submission-for-the-devcycle-feature-flag-challenge-ai-feature-flag-suggestions-566m)
 * [Turbocharging AWS Lambda: How to eliminate cold starts forever](https://dev.to/siddhantkcode/turbocharging-aws-lambda-how-to-eliminate-cold-starts-forever-3c54)
-* [2x Faster, 40% less RAM: The Cloud Run stdout logging hack](https://dev.to/siddhantkcode/2x-faster-40-less-ram-the-cloud-run-stdout-logging-hack-1iig)
 <!--END_SECTION:feed-->
 
 ---
