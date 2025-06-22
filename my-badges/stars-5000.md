@@ -4,14 +4,15 @@
 
 Repos:
 
-* <a href="https://github.com/conwnet/github1s">conwnet/github1s: ★22978</a>
-* <a href="https://github.com/Siddhant-K-code/Geo-Location-Attendance-System">Siddhant-K-code/Geo-Location-Attendance-System: ★26</a>
+* <a href="https://github.com/conwnet/github1s">conwnet/github1s: ★23105</a>
+* <a href="https://github.com/Siddhant-K-code/Geo-Location-Attendance-System">Siddhant-K-code/Geo-Location-Attendance-System: ★27</a>
+* <a href="https://github.com/gitpod-samples/demo-dotfiles-with-gitpod">gitpod-samples/demo-dotfiles-with-gitpod: ★22</a>
+* <a href="https://github.com/Siddhant-K-code/404-Error-Page---Astronaut">Siddhant-K-code/404-Error-Page---Astronaut: ★21</a>
 * <a href="https://github.com/gitpod-io/devxconf.org">gitpod-io/devxconf.org: ★21</a>
-* <a href="https://github.com/gitpod-samples/demo-dotfiles-with-gitpod">gitpod-samples/demo-dotfiles-with-gitpod: ★21</a>
-* <a href="https://github.com/Siddhant-K-code/404-Error-Page---Astronaut">Siddhant-K-code/404-Error-Page---Astronaut: ★20</a>
-* <a href="https://github.com/gitpod-samples/template-bun">gitpod-samples/template-bun: ★18</a>
-* <a href="https://github.com/Siddhant-K-code/Coronavirus-Probability-Checker">Siddhant-K-code/Coronavirus-Probability-Checker: ★15</a>
-* <a href="https://github.com/gitpod-samples/Gitpod-Raycast-Extension">gitpod-samples/Gitpod-Raycast-Extension: ★15</a>
+* <a href="https://github.com/Siddhant-K-code/memory-journal-mcp-server">Siddhant-K-code/memory-journal-mcp-server: ★20</a>
+* <a href="https://github.com/gitpod-samples/template-bun">gitpod-samples/template-bun: ★19</a>
+* <a href="https://github.com/gitpod-samples/Gitpod-Raycast-Extension">gitpod-samples/Gitpod-Raycast-Extension: ★16</a>
+* <a href="https://github.com/Siddhant-K-code/Coronavirus-Probability-Checker">Siddhant-K-code/Coronavirus-Probability-Checker: ★14</a>
 * <a href="https://github.com/thedatatribune/IPL-Analysis">thedatatribune/IPL-Analysis: ★13</a>
 * <a href="https://github.com/Siddhant-K-code/Siddhant-K-code">Siddhant-K-code/Siddhant-K-code: ★10</a>
 * <a href="https://github.com/gitpod-io/CDE-Universe">gitpod-io/CDE-Universe: ★10</a>
@@ -21,18 +22,19 @@ Repos:
 * <a href="https://github.com/CryogenicPlanet/covid-resources">CryogenicPlanet/covid-resources: ★7</a>
 * <a href="https://github.com/Siddhant-K-code/simple-website-template">Siddhant-K-code/simple-website-template: ★7</a>
 * <a href="https://github.com/Siddhant-K-code/scalable-ls">Siddhant-K-code/scalable-ls: ★7</a>
+* <a href="https://github.com/Siddhant-K-code/cloud-architect-ai">Siddhant-K-code/cloud-architect-ai: ★7</a>
 * <a href="https://github.com/gitpod-samples/demo-aws-with-gitpod">gitpod-samples/demo-aws-with-gitpod: ★6</a>
+* <a href="https://github.com/Siddhant-K-code/mcp-apple-notes">Siddhant-K-code/mcp-apple-notes: ★6</a>
+* <a href="https://github.com/Siddhant-K-code/ArchiFusion">Siddhant-K-code/ArchiFusion: ★6</a>
 * <a href="https://github.com/Siddhant-K-code/JSON-to-Table">Siddhant-K-code/JSON-to-Table: ★5</a>
 * <a href="https://github.com/Siddhant-K-code/dont-use-default-boilerplate">Siddhant-K-code/dont-use-default-boilerplate: ★5</a>
 * <a href="https://github.com/gitpod-samples/demo-kubectl-with-gitpod">gitpod-samples/demo-kubectl-with-gitpod: ★5</a>
+* <a href="https://github.com/Siddhant-K-code/cleanup-gitpod-environments">Siddhant-K-code/cleanup-gitpod-environments: ★5</a>
 * <a href="https://github.com/Siddhant-K-code/Github-user-analytics">Siddhant-K-code/Github-user-analytics: ★4</a>
 * <a href="https://github.com/Siddhant-K-code/Mandala-Maker">Siddhant-K-code/Mandala-Maker: ★4</a>
 * <a href="https://github.com/Greenstand/treetracker-web-map-core">Greenstand/treetracker-web-map-core: ★4</a>
 * <a href="https://github.com/Siddhant-K-code/OpenAI-bring-your-own-data">Siddhant-K-code/OpenAI-bring-your-own-data: ★4</a>
-* <a href="https://github.com/Siddhant-K-code/memory-journal-mcp-server">Siddhant-K-code/memory-journal-mcp-server: ★4</a>
-* <a href="https://github.com/Siddhant-K-code/Cross-Sum-Calculator">Siddhant-K-code/Cross-Sum-Calculator: ★3</a>
 * <a href="https://github.com/Siddhant-K-code/Hypnotize">Siddhant-K-code/Hypnotize: ★3</a>
-* <a href="https://github.com/Siddhant-K-code/Coronavirus-Outbreak-Notification-Alert">Siddhant-K-code/Coronavirus-Outbreak-Notification-Alert: ★3</a>
 * <a href="https://github.com/Siddhant-K-code/Login-Form">Siddhant-K-code/Login-Form: ★3</a>
 * <a href="https://github.com/Siddhant-K-code/Chess">Siddhant-K-code/Chess: ★3</a>
 * <a href="https://github.com/Siddhant-K-code/JavaScript-Sudoku-Puzzle-Generator">Siddhant-K-code/JavaScript-Sudoku-Puzzle-Generator: ★3</a>
@@ -42,11 +44,13 @@ Repos:
 * <a href="https://github.com/Siddhant-K-code/satori-example">Siddhant-K-code/satori-example: ★3</a>
 * <a href="https://github.com/Siddhant-K-code/gitpod-github-actions-self-hosted-runner">Siddhant-K-code/gitpod-github-actions-self-hosted-runner: ★3</a>
 * <a href="https://github.com/Siddhant-K-code/poc-gocron">Siddhant-K-code/poc-gocron: ★3</a>
-* <a href="https://github.com/Siddhant-K-code/cleanup-gitpod-environments">Siddhant-K-code/cleanup-gitpod-environments: ★3</a>
+* <a href="https://github.com/Siddhant-K-code/llm-parallelism-explorer-poc">Siddhant-K-code/llm-parallelism-explorer-poc: ★3</a>
 * <a href="https://github.com/Siddhant-K-code/MediSearchAI">Siddhant-K-code/MediSearchAI: ★3</a>
-* <a href="https://github.com/Siddhant-K-code/Block-Tower">Siddhant-K-code/Block-Tower: ★2</a>
+* <a href="https://github.com/Siddhant-K-code/MedBrief">Siddhant-K-code/MedBrief: ★3</a>
+* <a href="https://github.com/Siddhant-K-code/Cross-Sum-Calculator">Siddhant-K-code/Cross-Sum-Calculator: ★2</a>
 * <a href="https://github.com/Nancy-Chauhan/smart-searcher">Nancy-Chauhan/smart-searcher: ★2</a>
 * <a href="https://github.com/Siddhant-K-code/404-error-page">Siddhant-K-code/404-error-page: ★2</a>
+* <a href="https://github.com/Siddhant-K-code/Coronavirus-Outbreak-Notification-Alert">Siddhant-K-code/Coronavirus-Outbreak-Notification-Alert: ★2</a>
 * <a href="https://github.com/Siddhant-K-code/Python-Weather-GUI">Siddhant-K-code/Python-Weather-GUI: ★2</a>
 * <a href="https://github.com/Siddhant-K-code/Emaill-ID-Storage">Siddhant-K-code/Emaill-ID-Storage: ★2</a>
 * <a href="https://github.com/Siddhant-K-code/Digital-Citizens">Siddhant-K-code/Digital-Citizens: ★2</a>
@@ -69,8 +73,10 @@ Repos:
 * <a href="https://github.com/Siddhant-K-code/GPT-CLI">Siddhant-K-code/GPT-CLI: ★2</a>
 * <a href="https://github.com/Siddhant-K-code/Gitpod-GitHub-Repo-Importer">Siddhant-K-code/Gitpod-GitHub-Repo-Importer: ★2</a>
 * <a href="https://github.com/Siddhant-K-code/run-cloud-functions-locally">Siddhant-K-code/run-cloud-functions-locally: ★2</a>
-* <a href="https://github.com/Siddhant-K-code/llm-parallelism-explorer-poc">Siddhant-K-code/llm-parallelism-explorer-poc: ★2</a>
+* <a href="https://github.com/Siddhant-K-code/mcp-devto-server">Siddhant-K-code/mcp-devto-server: ★2</a>
+* <a href="https://github.com/gitpod-samples/gitpodflix-demo">gitpod-samples/gitpodflix-demo: ★2</a>
 * <a href="https://github.com/Siddhant-K-code/E-CommerceWebsite">Siddhant-K-code/E-CommerceWebsite: ★1</a>
+* <a href="https://github.com/Siddhant-K-code/Block-Tower">Siddhant-K-code/Block-Tower: ★1</a>
 * <a href="https://github.com/Siddhant-K-code/Portfolio-Generator">Siddhant-K-code/Portfolio-Generator: ★1</a>
 * <a href="https://github.com/Siddhant-K-code/Face-Recognition">Siddhant-K-code/Face-Recognition: ★1</a>
 * <a href="https://github.com/Siddhant-K-code/CheckList">Siddhant-K-code/CheckList: ★1</a>
@@ -171,8 +177,8 @@ Repos:
 * <a href="https://github.com/shravan562/GitHub-User-Access">shravan562/GitHub-User-Access: ★1</a>
 * <a href="https://github.com/Siddhant-K-code/android-studio-webtop">Siddhant-K-code/android-studio-webtop: ★1</a>
 * <a href="https://github.com/Siddhant-K-code/poc-browser-IndexedDB">Siddhant-K-code/poc-browser-IndexedDB: ★1</a>
-* <a href="https://github.com/Siddhant-K-code/mcp-devto-server">Siddhant-K-code/mcp-devto-server: ★1</a>
 * <a href="https://github.com/Siddhant-K-code/github-contribution-tracker">Siddhant-K-code/github-contribution-tracker: ★1</a>
+* <a href="https://github.com/shravan562/Mern-Auth">shravan562/Mern-Auth: ★1</a>
 
 <sup>I have push, maintainer or admin permissions, so I'm definitely an author.<sup>
 

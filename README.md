@@ -21,10 +21,10 @@
 <!-- my-badges start -->
 <a href="my-badges/a-commit.md"><img src="https://my-badges.github.io/my-badges/a-commit.png" alt="One of my commit sha starts with &quot;a&quot;." title="One of my commit sha starts with &quot;a&quot;." width="64"></a>
 <a href="my-badges/ab-commit.md"><img src="https://my-badges.github.io/my-badges/ab-commit.png" alt="One of my commit sha starts with &quot;ab&quot;." title="One of my commit sha starts with &quot;ab&quot;." width="64"></a>
-<a href="my-badges/cafe-commit.md"><img src="https://my-badges.github.io/my-badges/cafe-commit.png" alt="I pushed a commit with &quot;cafe&quot; 2 times." title="I pushed a commit with &quot;cafe&quot; 2 times." width="64"></a>
+<a href="my-badges/cafe-commit.md"><img src="https://my-badges.github.io/my-badges/cafe-commit.png" alt="I pushed a commit with &quot;cafe&quot; 4 times." title="I pushed a commit with &quot;cafe&quot; 4 times." width="64"></a>
 <a href="my-badges/chore-commit.md"><img src="https://my-badges.github.io/my-badges/chore-commit.png" alt="I did a little housekeeping! 🧹" title="I did a little housekeeping! 🧹" width="64"></a>
 <a href="my-badges/covid-19.md"><img src="https://my-badges.github.io/my-badges/covid-19.png" alt="I rolled before Covid-19: Survivor of the Great TP Shortage" title="I rolled before Covid-19: Survivor of the Great TP Shortage" width="64"></a>
-<a href="my-badges/favorite-word.md"><img src="https://my-badges.github.io/my-badges/favorite-word.png" alt="My favorite word is &quot;fix&quot;." title="My favorite word is &quot;fix&quot;." width="64"></a>
+<a href="my-badges/favorite-word.md"><img src="https://my-badges.github.io/my-badges/favorite-word.png" alt="My favorite word is &quot;create&quot;." title="My favorite word is &quot;create&quot;." width="64"></a>
 <a href="my-badges/fix-2.md"><img src="https://my-badges.github.io/my-badges/fix-2.png" alt="I did 2 sequential fixes." title="I did 2 sequential fixes." width="64"></a>
 <a href="my-badges/polite-coder.md"><img src="https://my-badges.github.io/my-badges/polite-coder.png" alt="I am a polite coder." title="I am a polite coder." width="64"></a>
 <a href="my-badges/pr-collaboration-5.md"><img src="https://my-badges.github.io/my-badges/pr-collaboration-5.png" alt="I have participated in pull requests with 5 or more people" title="I have participated in pull requests with 5 or more people" width="64"></a>
@@ -43,6 +43,22 @@
 <a href="my-badges/stars-100.md"><img src="https://my-badges.github.io/my-badges/stars-100.png" alt="I collected 100 stars." title="I collected 100 stars." width="64"></a>
 <a href="my-badges/friday-13.md"><img src="https://my-badges.github.io/my-badges/friday-13.png" alt="I committed on Friday the 13th, One… By One…" title="I committed on Friday the 13th, One… By One…" width="64"></a>
 <a href="my-badges/mass-delete-commit.md"><img src="https://my-badges.github.io/my-badges/mass-delete-commit.png" alt="When I delete code, I delete a lot." title="When I delete code, I delete a lot." width="64"></a>
+<a href="my-badges/abc-commit.md"><img src="https://my-badges.github.io/my-badges/abc-commit.png" alt="One of my commit sha starts with &quot;abc&quot;." title="One of my commit sha starts with &quot;abc&quot;." width="64"></a>
+<a href="my-badges/abcd-commit.md"><img src="https://my-badges.github.io/my-badges/abcd-commit.png" alt="One of my commit sha starts with &quot;abcd&quot;." title="One of my commit sha starts with &quot;abcd&quot;." width="64"></a>
+<a href="my-badges/cosmetic-commit.md"><img src="https://my-badges.github.io/my-badges/cosmetic-commit.png" alt="I made cosmetic commit." title="I made cosmetic commit." width="64"></a>
+<a href="my-badges/dead-commit.md"><img src="https://my-badges.github.io/my-badges/dead-commit.png" alt="I pushed a commit with &quot;dead&quot; 2 times." title="I pushed a commit with &quot;dead&quot; 2 times." width="64"></a>
+<a href="my-badges/emoji-only-commit.md"><img src="https://my-badges.github.io/my-badges/emoji-only-commit.png" alt="I used only emojis in my commit message." title="I used only emojis in my commit message." width="64"></a>
+<a href="my-badges/fix-5.md"><img src="https://my-badges.github.io/my-badges/fix-5.png" alt="I did 5 sequential fixes." title="I did 5 sequential fixes." width="64"></a>
+<a href="my-badges/fix-6+.md"><img src="https://my-badges.github.io/my-badges/fix-6+.png" alt="I did 11 sequential fixes." title="I did 11 sequential fixes." width="64"></a>
+<a href="my-badges/mass-delete-commit-10k.md"><img src="https://my-badges.github.io/my-badges/mass-delete-commit-10k.png" alt="When I delete code, I delete a lot." title="When I delete code, I delete a lot." width="64"></a>
+<a href="my-badges/spooky-commit.md"><img src="https://my-badges.github.io/my-badges/spooky-commit.png" alt="I committed on the Halloween! Boo!" title="I committed on the Halloween! Boo!" width="64"></a>
+<a href="my-badges/stars-500.md"><img src="https://my-badges.github.io/my-badges/stars-500.png" alt="I collected 500 stars." title="I collected 500 stars." width="64"></a>
+<a href="my-badges/stars-1000.md"><img src="https://my-badges.github.io/my-badges/stars-1000.png" alt="I collected 1000 stars." title="I collected 1000 stars." width="64"></a>
+<a href="my-badges/stars-2000.md"><img src="https://my-badges.github.io/my-badges/stars-2000.png" alt="I collected 2000 stars." title="I collected 2000 stars." width="64"></a>
+<a href="my-badges/stars-5000.md"><img src="https://my-badges.github.io/my-badges/stars-5000.png" alt="I collected 5000 stars." title="I collected 5000 stars." width="64"></a>
+<a href="my-badges/stars-10000.md"><img src="https://my-badges.github.io/my-badges/stars-10000.png" alt="I collected 10000 stars." title="I collected 10000 stars." width="64"></a>
+<a href="my-badges/stars-20000.md"><img src="https://my-badges.github.io/my-badges/stars-20000.png" alt="I collected 20000 stars." title="I collected 20000 stars." width="64"></a>
+<a href="my-badges/midnight-commits.md"><img src="https://my-badges.github.io/my-badges/midnight-commits.png" alt="I commit at midnight." title="I commit at midnight." width="64"></a>
 <!-- my-badges end -->
 
 <details>
