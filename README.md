@@ -32,7 +32,7 @@ Currently exploring senior software engineering roles, technical leadership posi
 - **DevTools & Developer Experience**
 - **AI-Powered Development Tools**
 - **Cloud Infrastructure & Authorization Systems**
-- **Developer Advocacy & Relations**
+- **Developer Advocacy & Relations** (Engineering + PM)
 
 ## 📫 **Let's Connect**
 
