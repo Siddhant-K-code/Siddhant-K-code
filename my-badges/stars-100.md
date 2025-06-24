@@ -6,8 +6,8 @@ Repos:
 
 * <a href="https://github.com/gitpod-io/CDE-Universe">gitpod-io/CDE-Universe: ★10</a>
 * <a href="https://github.com/Siddhant-K-code/mysql-replica-server">Siddhant-K-code/mysql-replica-server: ★10</a>
+* <a href="https://github.com/Siddhant-K-code/cloud-architect-ai">Siddhant-K-code/cloud-architect-ai: ★8</a>
 * <a href="https://github.com/Siddhant-K-code/scalable-ls">Siddhant-K-code/scalable-ls: ★7</a>
-* <a href="https://github.com/Siddhant-K-code/cloud-architect-ai">Siddhant-K-code/cloud-architect-ai: ★7</a>
 * <a href="https://github.com/Siddhant-K-code/mcp-apple-notes">Siddhant-K-code/mcp-apple-notes: ★6</a>
 * <a href="https://github.com/Siddhant-K-code/ArchiFusion">Siddhant-K-code/ArchiFusion: ★6</a>
 * <a href="https://github.com/Siddhant-K-code/cleanup-gitpod-environments">Siddhant-K-code/cleanup-gitpod-environments: ★5</a>
@@ -18,7 +18,6 @@ Repos:
 * <a href="https://github.com/Siddhant-K-code/llm-parallelism-explorer-poc">Siddhant-K-code/llm-parallelism-explorer-poc: ★3</a>
 * <a href="https://github.com/Siddhant-K-code/MediSearchAI">Siddhant-K-code/MediSearchAI: ★3</a>
 * <a href="https://github.com/Siddhant-K-code/MedBrief">Siddhant-K-code/MedBrief: ★3</a>
-* <a href="https://github.com/Siddhant-K-code/chatgpt-api">Siddhant-K-code/chatgpt-api: ★2</a>
 * <a href="https://github.com/Siddhant-K-code/svelte-configcat">Siddhant-K-code/svelte-configcat: ★2</a>
 * <a href="https://github.com/Siddhant-K-code/GPT-CLI">Siddhant-K-code/GPT-CLI: ★2</a>
 * <a href="https://github.com/Siddhant-K-code/Gitpod-GitHub-Repo-Importer">Siddhant-K-code/Gitpod-GitHub-Repo-Importer: ★2</a>
