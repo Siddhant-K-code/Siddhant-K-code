@@ -6,9 +6,9 @@
 
 [![committers.top badge](https://user-badge.committers.top/india_private/Siddhant-K-code.svg)](https://user-badge.committers.top/india_private/Siddhant-K-code) [![wakatime](https://wakatime.com/badge/user/58573df6-0225-498a-8fdc-fefd0c13bb75.svg)](https://wakatime.com/@58573df6-0225-498a-8fdc-fefd0c13bb75) [![Peerlist](https://github-readme-badge.peerlist.io/api/siddhant?style=plastic)](https://peerlist.io/siddhant)
 
-<a href="https://mentorcruise.com/mentor/siddhantkhare/">
-  <img src="https://cdn.mentorcruise.com/img/banner/navy-sm.svg" width="180" alt="MentorCruise">
-</a>
+<a href="https://mentorcruise.com/mentor/siddhantkhare/"><img src="https://cdn.mentorcruise.com/img/banner/navy-sm.svg" width="180" alt="MentorCruise"></a> <a href="https://www.buymeacoffee.com/siddhantkhare" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 30px !important;width: 127px !important;" ></a>
+
+
 
 ## 🎯 **Current Focus**
 
