@@ -25,15 +25,6 @@
 - **[Greenstand](https://github.com/Greenstand)** - Environmental impact tracking platform
 - **[Indian Open Source Foundation](https://github.com/IndianOpenSourceFoundation)** - Promoting OSS in India
 
-## 💡 **Open to Opportunities**
-
-Currently exploring senior software engineering roles, technical leadership positions, and developer relations opportunities in:
-
-- **DevTools & Developer Experience**
-- **AI-Powered Development Tools**
-- **Cloud Infrastructure & Authorization Systems**
-- **Developer Advocacy & Relations** (Engineering + PM)
-
 ## 📫 **Let's Connect**
 
 - **LinkedIn**: [siddhantkhare24](https://linkedin.com/in/siddhantkhare24)
