@@ -54,6 +54,7 @@ Some of my recent PRs: https://www.myprs.xyz/Siddhant-K-code
 ### Recent Technical blogs
 
 <!--START_SECTION:feed-->
+* [How to make AI code edits more accurate](https://dev.to/siddhantkcode/how-to-make-ai-code-edits-more-accurate-bbe)
 * [An easy way to stop Claude code from forgetting the rules](https://dev.to/siddhantkcode/an-easy-way-to-stop-claude-code-from-forgetting-the-rules-h36)
 * [Claude code is costly - unless you do this](https://dev.to/siddhantkcode/claude-code-is-costly-unless-you-do-this-484o)
 * [Extending Claude's Brain: How MCP makes AI actually useful for developers](https://dev.to/siddhantkcode/extending-claudes-brain-how-mcp-makes-ai-actually-useful-for-developers-35c4)
@@ -63,7 +64,6 @@ Some of my recent PRs: https://www.myprs.xyz/Siddhant-K-code
 * [How we slashed CI build time using Go’s cache](https://dev.to/siddhantkcode/how-we-slashed-ci-build-time-using-gos-cache-500f)
 * [Binary embedding: shrink vector storage by 95%](https://dev.to/siddhantkcode/binary-embedding-shrink-vector-storage-by-95-5e0l)
 * [Querying S3 logs in a flash with DuckDB 🦆](https://dev.to/siddhantkcode/querying-s3-logs-in-a-flash-with-duckdb-p44)
-* [Submission for the DevCycle Feature Flag Challenge: AI Feature Flag Suggestions 🧠](https://dev.to/siddhantkcode/submission-for-the-devcycle-feature-flag-challenge-ai-feature-flag-suggestions-566m)
 <!--END_SECTION:feed-->
 
 
