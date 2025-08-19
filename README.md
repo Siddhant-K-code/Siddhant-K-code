@@ -3,6 +3,7 @@
 **Software Engineer @ Gitpod** | **OpenFGA Maintainer** | **Open Source Leader**
 
 > Building the future of software development through cloud-native developer tools and scalable authorization systems.
+> [Building some fun/random/interesting AI projects & MCP servers along the way ⚡️](https://gist.github.com/Siddhant-K-code/5de9207adeeba88299e81408422c9dfb)
 
 [![committers.top badge](https://user-badge.committers.top/india_private/Siddhant-K-code.svg)](https://user-badge.committers.top/india_private/Siddhant-K-code) [![wakatime](https://wakatime.com/badge/user/58573df6-0225-498a-8fdc-fefd0c13bb75.svg)](https://wakatime.com/@58573df6-0225-498a-8fdc-fefd0c13bb75) [![Peerlist](https://github-readme-badge.peerlist.io/api/siddhant?style=plastic)](https://peerlist.io/siddhant)
 
