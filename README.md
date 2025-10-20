@@ -55,6 +55,7 @@ Some of my recent PRs: https://www.myprs.xyz/Siddhant-K-code
 ### Recent Technical blogs
 
 <!--START_SECTION:feed-->
+* [Serverless economics: why Cloud Run crushes App Runner (until it doesn’t)](https://dev.to/siddhantkcode/serverless-economics-why-cloud-run-crushes-app-runner-until-it-doesnt-5fh3)
 * [How to make AI code edits more accurate](https://dev.to/siddhantkcode/how-to-make-ai-code-edits-more-accurate-bbe)
 * [An easy way to stop Claude code from forgetting the rules](https://dev.to/siddhantkcode/an-easy-way-to-stop-claude-code-from-forgetting-the-rules-h36)
 * [Claude code is costly - unless you do this](https://dev.to/siddhantkcode/claude-code-is-costly-unless-you-do-this-484o)
@@ -64,7 +65,6 @@ Some of my recent PRs: https://www.myprs.xyz/Siddhant-K-code
 * [Tackling Cold Starts in AWS Lambda: A Deep Dive with LLRT](https://dev.to/siddhantkcode/tackling-cold-starts-in-aws-lambda-a-deep-dive-with-llrt-17d7)
 * [How we slashed CI build time using Go’s cache](https://dev.to/siddhantkcode/how-we-slashed-ci-build-time-using-gos-cache-500f)
 * [Binary embedding: shrink vector storage by 95%](https://dev.to/siddhantkcode/binary-embedding-shrink-vector-storage-by-95-5e0l)
-* [Querying S3 logs in a flash with DuckDB 🦆](https://dev.to/siddhantkcode/querying-s3-logs-in-a-flash-with-duckdb-p44)
 <!--END_SECTION:feed-->
 
 
