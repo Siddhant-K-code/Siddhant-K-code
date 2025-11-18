@@ -55,6 +55,7 @@ Some of my recent PRs: https://www.myprs.xyz/Siddhant-K-code
 ### Recent Technical blogs
 
 <!--START_SECTION:feed-->
+* [Context Engineering: The Critical Infrastructure challenge in production LLM systems](https://dev.to/siddhantkcode/context-engineering-the-critical-infrastructure-challenge-in-production-llm-systems-4id0)
 * [AWS S3 Vectors at scale: Real performance numbers at 10 million Vectors](https://dev.to/siddhantkcode/aws-s3-vectors-at-scale-real-performance-numbers-at-10-million-vectors-2lno)
 * [Why agent orchestration is harder than kubernetes - Lessons while building Agentflow](https://dev.to/siddhantkcode/why-agent-orchestration-is-harder-than-kubernetes-lessons-while-building-agentflow-4jm3)
 * [Serverless economics: why Cloud Run crushes App Runner (until it doesn’t)](https://dev.to/siddhantkcode/serverless-economics-why-cloud-run-crushes-app-runner-until-it-doesnt-5fh3)
@@ -64,7 +65,6 @@ Some of my recent PRs: https://www.myprs.xyz/Siddhant-K-code
 * [Extending Claude's Brain: How MCP makes AI actually useful for developers](https://dev.to/siddhantkcode/extending-claudes-brain-how-mcp-makes-ai-actually-useful-for-developers-35c4)
 * [How docs AI search works: Mintlify-Style with OpenAI Agents SDK](https://dev.to/siddhantkcode/how-docs-ai-search-works-mintlify-style-with-openai-agents-sdk-121j)
 * [Isolating AI Agents with DevContainer: A secure and scalable approach](https://dev.to/siddhantkcode/isolating-ai-agents-with-devcontainer-a-secure-and-scalable-approach-4hi4)
-* [Tackling Cold Starts in AWS Lambda: A Deep Dive with LLRT](https://dev.to/siddhantkcode/tackling-cold-starts-in-aws-lambda-a-deep-dive-with-llrt-17d7)
 <!--END_SECTION:feed-->
 
 
