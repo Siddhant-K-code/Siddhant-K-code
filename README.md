@@ -55,8 +55,9 @@ Some of my recent PRs: https://www.myprs.xyz/Siddhant-K-code
 ### Recent Technical blogs
 
 <!--START_SECTION:feed-->
+* [Beyond finding: Remediating CVE-2025-55182 across hundreds of repositories with Ona Automations](https://dev.to/siddhantkcode/beyond-finding-remediating-cve-2025-55182-across-hundreds-of-repositories-with-ona-automations-1p3n)
 * [Securing Agentic AI: authorization patterns for autonomous systems](https://dev.to/siddhantkcode/securing-agentic-ai-authorization-patterns-for-autonomous-systems-3ajo)
-* [Context Engineering: The Critical Infrastructure challenge in production LLM systems](https://dev.to/siddhantkcode/context-engineering-the-critical-infrastructure-challenge-in-production-llm-systems-4id0)
+* [Context Engineering: The critical Infrastructure challenge in production LLM systems](https://dev.to/siddhantkcode/context-engineering-the-critical-infrastructure-challenge-in-production-llm-systems-4id0)
 * [AWS S3 Vectors at scale: Real performance numbers at 10 million Vectors](https://dev.to/siddhantkcode/aws-s3-vectors-at-scale-real-performance-numbers-at-10-million-vectors-2lno)
 * [Why agent orchestration is harder than kubernetes - Lessons while building Agentflow](https://dev.to/siddhantkcode/why-agent-orchestration-is-harder-than-kubernetes-lessons-while-building-agentflow-4jm3)
 * [Serverless economics: why Cloud Run crushes App Runner (until it doesn’t)](https://dev.to/siddhantkcode/serverless-economics-why-cloud-run-crushes-app-runner-until-it-doesnt-5fh3)
@@ -64,7 +65,6 @@ Some of my recent PRs: https://www.myprs.xyz/Siddhant-K-code
 * [An easy way to stop Claude code from forgetting the rules](https://dev.to/siddhantkcode/an-easy-way-to-stop-claude-code-from-forgetting-the-rules-h36)
 * [Claude code is costly - unless you do this](https://dev.to/siddhantkcode/claude-code-is-costly-unless-you-do-this-484o)
 * [Extending Claude's Brain: How MCP makes AI actually useful for developers](https://dev.to/siddhantkcode/extending-claudes-brain-how-mcp-makes-ai-actually-useful-for-developers-35c4)
-* [How docs AI search works: Mintlify-Style with OpenAI Agents SDK](https://dev.to/siddhantkcode/how-docs-ai-search-works-mintlify-style-with-openai-agents-sdk-121j)
 <!--END_SECTION:feed-->
 
 
