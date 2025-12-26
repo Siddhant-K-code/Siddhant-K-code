@@ -1,6 +1,6 @@
 # Siddhant Khare 🚀
 
-**Software Engineer at [Ona](https://ona.com/) (formerly Gitpod)** | **OpenFGA Maintainer**
+**Software Engineer at [Ona](https://ona.com/) (formerly Gitpod)** | **OpenFGA Maintainer** | [**siddhantkhare.com**](https://siddhantkhare.com/)
 
 > Building the future of software development through cloud-native developer tools and scalable authorization systems.<br/>
 > [Building some fun/random/interesting AI projects & MCP servers along the way ⚡️](https://gist.github.com/Siddhant-K-code/5de9207adeeba88299e81408422c9dfb)
