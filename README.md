@@ -55,6 +55,7 @@ Some of my recent PRs: https://www.myprs.xyz/Siddhant-K-code
 ### Recent Technical blogs
 
 <!--START_SECTION:feed-->
+* [Containers aren’t a sandbox for AI agents](https://dev.to/siddhantkcode/containers-arent-a-sandbox-for-ai-agents-215o)
 * [The Engineering guide to Context window efficiency](https://dev.to/siddhantkcode/the-engineering-guide-to-context-window-efficiency-202b)
 * [Beyond finding: Remediating CVE-2025-55182 across hundreds of repositories with Ona Automations](https://dev.to/siddhantkcode/beyond-finding-remediating-cve-2025-55182-across-hundreds-of-repositories-with-ona-automations-1p3n)
 * [Securing Agentic AI: authorization patterns for autonomous systems](https://dev.to/siddhantkcode/securing-agentic-ai-authorization-patterns-for-autonomous-systems-3ajo)
@@ -64,7 +65,6 @@ Some of my recent PRs: https://www.myprs.xyz/Siddhant-K-code
 * [Serverless economics: why Cloud Run crushes App Runner (until it doesn’t)](https://dev.to/siddhantkcode/serverless-economics-why-cloud-run-crushes-app-runner-until-it-doesnt-5fh3)
 * [How to make AI code edits more accurate](https://dev.to/siddhantkcode/how-to-make-ai-code-edits-more-accurate-bbe)
 * [An easy way to stop Claude code from forgetting the rules](https://dev.to/siddhantkcode/an-easy-way-to-stop-claude-code-from-forgetting-the-rules-h36)
-* [Claude code is costly - unless you do this](https://dev.to/siddhantkcode/claude-code-is-costly-unless-you-do-this-484o)
 <!--END_SECTION:feed-->
 
 
