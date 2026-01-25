@@ -1,30 +1,14 @@
-# Siddhant Khare 🚀
+# Siddhant Khare
 
-**Software Engineer at [Ona](https://ona.com/) (formerly Gitpod)** | **OpenFGA Maintainer** | [**siddhantkhare.com**](https://siddhantkhare.com/)
+**Software Engineer at [Ona](https://ona.com/) (formerly Gitpod)** | **[OpenFGA](https://openfga.dev) Core Maintainer** | **KubeCon Speaker** | [**siddhantkhare.com**](https://siddhantkhare.com/)
 
-> Building the future of software development through cloud-native developer tools and scalable authorization systems.<br/>
-> [Building some fun/random/interesting AI projects & MCP servers along the way ⚡️](https://gist.github.com/Siddhant-K-code/5de9207adeeba88299e81408422c9dfb)
-
-[![committers.top badge](https://user-badge.committers.top/india_private/Siddhant-K-code.svg)](https://user-badge.committers.top/india_private/Siddhant-K-code) [![wakatime](https://wakatime.com/badge/user/58573df6-0225-498a-8fdc-fefd0c13bb75.svg)](https://wakatime.com/@58573df6-0225-498a-8fdc-fefd0c13bb75) [![Peerlist](https://github-readme-badge.peerlist.io/api/siddhant?style=plastic)](https://peerlist.io/siddhant)
-
-<a href="https://mentorcruise.com/mentor/siddhantkhare/"><img src="https://cdn.mentorcruise.com/img/banner/navy-sm.svg" width="180" alt="MentorCruise"></a> <a href="https://www.buymeacoffee.com/siddhantkhare" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 30px !important;width: 127px !important;" ></a>
-
-
+> Building reliable infrastructure for AI agents - context efficiency, least-privilege security, production-grade tooling.
 
 ## 🎯 **Current Focus**
 
-- **Engineering @ Gitpod**: Architecting Cloud Development Environments (CDEs) that serve 1.7M+ developers globally.
-- **Open Source Leadership**: Maintaining critical infrastructure projects with millions of users.
-- **Technical Mentoring**: Guiding developers through MentorCruise and community initiatives.
-- **Industry Speaking**: Sharing insights at conferences on developer productivity and system architecture.
-
-## 🔧 **Open Source Impact**
-
-### **Maintainer & Core Contributor**
-- **[OpenFGA](https://github.com/openfga/openfga)** - Google Zanzibar-inspired authorization engine (Okta/Auth0)
-- **[github1s](https://github.com/conwnet/github1s)** - Instant VS Code experience for GitHub repos (23K+ stars)
-- **[Greenstand](https://github.com/Greenstand)** - Environmental impact tracking platform
-- **[Indian Open Source Foundation](https://github.com/IndianOpenSourceFoundation)** - Promoting OSS in India
+- **Engineering @ Ona (formerly Gitpod)**: Building Cloud Development Environments
+- **OpenFGA Core Maintainer**: First independent maintainer of CNCF Incubating authorization project
+- **Agent Infrastructure**: Building [Distill](https://distill.siddhantkhare.com) (context efficiency), Agent Authorization & Agent Audit Trails.
 
 ## 📫 **Let's Connect**
 
@@ -33,24 +17,9 @@
 - **Email**: [siddhantkhare2694@gmail.com](mailto:siddhantkhare2694@gmail.com)
 - **MentorCruise**: [Book a mentoring session](https://mentorcruise.com/mentor/siddhantkhare/)
 - **GitHub Sponsors**: [Support my open source work](https://github.com/sponsors/Siddhant-K-code)
+- **YouTube**: [@siddhantkhare1659](https://youtube.com/@siddhantkhare1659)
 
 ---
-
-<details>
-<summary>My Open Source Contribution Detailed Insights</summary>
-<br>
-
-![Metrics](https://metrics.lecoq.io/Siddhant-K-code?template=classic&languages=1&introduction=1&isocalendar=1&people=1&gists=1&followup=1&lines=1&notable=1&achievements=1&activity=1&isocalendar.duration=half-year&languages.limit=8&languages.sections=most-used&languages.colors=github&languages.threshold=0%25&languages.indepth=false&languages.recent.load=300&languages.recent.days=14&introduction.title=true&people.limit=24&people.size=28&people.types=followers%2C%20following&people.identicons=false&people.shuffle=false&followup.sections=repositories&activity.limit=5&activity.load=300&activity.days=14&activity.filter=all&activity.visibility=all&activity.timestamps=false&achievements.threshold=C&achievements.secrets=true&achievements.limit=0&notable.repositories=false&config.timezone=Asia%2FCalcutta)
-
-</details>
-
-Some of my recent PRs: https://www.myprs.xyz/Siddhant-K-code
-
-
-| Technical blogs | Personal blogs |
-|:----:|:---:|
-|<a href="https://dev.to/siddhantkcode"><img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white"  /></a>|<a href="https://medium.com/@siddhantkhare2694"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" /></a>|
-
 
 ### Recent Technical blogs
 
