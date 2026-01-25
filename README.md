@@ -6,7 +6,7 @@
 
 ## 🎯 **Current Focus**
 
-- **Engineering @ Ona (formerly Gitpod)**: Building Cloud Development Environments
+- **Engineering @ Ona (formerly Gitpod)**
 - **OpenFGA Core Maintainer**: First independent maintainer of CNCF Incubating authorization project
 - **Agent Infrastructure**: Building [Distill](https://distill.siddhantkhare.com) (context efficiency), Agent Authorization & Agent Audit Trails.
 
