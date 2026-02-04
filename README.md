@@ -24,6 +24,7 @@
 ### Recent Technical blogs
 
 <!--START_SECTION:feed-->
+* [Ona is launching its Open Source program to help maintainers fight AI slop](https://dev.to/siddhantkcode/ona-is-launching-its-open-source-program-to-help-maintainers-fight-ai-slop-3pm5)
 * [Ona (formerly Gitpod) is re-launching its Open Source program](https://dev.to/siddhantkcode/ona-formerly-gitpod-is-re-launching-its-open-source-program-5d3c)
 * [Containers aren’t a sandbox for AI agents](https://dev.to/siddhantkcode/containers-arent-a-sandbox-for-ai-agents-215o)
 * [The Engineering guide to Context window efficiency](https://dev.to/siddhantkcode/the-engineering-guide-to-context-window-efficiency-202b)
@@ -33,7 +34,6 @@
 * [AWS S3 Vectors at scale: Real performance numbers at 10 million Vectors](https://dev.to/siddhantkcode/aws-s3-vectors-at-scale-real-performance-numbers-at-10-million-vectors-2lno)
 * [Why agent orchestration is harder than kubernetes - Lessons while building Agentflow](https://dev.to/siddhantkcode/why-agent-orchestration-is-harder-than-kubernetes-lessons-while-building-agentflow-4jm3)
 * [Serverless economics: why Cloud Run crushes App Runner (until it doesn’t)](https://dev.to/siddhantkcode/serverless-economics-why-cloud-run-crushes-app-runner-until-it-doesnt-5fh3)
-* [How to make AI code edits more accurate](https://dev.to/siddhantkcode/how-to-make-ai-code-edits-more-accurate-bbe)
 <!--END_SECTION:feed-->
 
 
