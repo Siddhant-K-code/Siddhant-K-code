@@ -131,7 +131,7 @@
 - **[Business Insider](https://www.businessinsider.com/ai-fatigue-burnout-software-engineer-essay-siddhant-khare-2026-2)** - Featured essay + [video segment](https://www.businessinsider.com/engineers-are-getting-ai-fatigue-and-you-could-be-next-2026-2)
 - **[Futurism](https://futurism.com/artificial-intelligence/ai-burnout-machine)** - *"AI Is a Burnout Machine"*
 - **[Techmeme](http://www.techmeme.com/260208/p15)** - Front page feature
-- **[Hacker News](https://news.ycombinator.com/item?id=46934404)** - #1, 446+ points, 310+ comments
+- **[Hacker News](https://news.ycombinator.com/item?id=46934404)** - #1, 450+ points, 310+ comments
 - **[The Chosun Ilbo](https://www.chosun.com/english/industry-en/2026/02/12/YJMVMG56ORHVJDHMKDQM2QMFCE/)** (South Korea's largest newspaper) - *"AI Fatigue Grows Despite Productivity Gains"*
 - **[NDTV Profit](https://www.ndtvprofit.com/technology/ai-backfire-stress-induced-burnout-could-be-tanking-your-work-quality-study-finds-10981522)** - Video segment on AI burnout
 - **[Computing UK](https://www.computing.co.uk/feature/2026/when-artificial-intelligence-makes-you-tired)** - Quoted extensively on AI fatigue
