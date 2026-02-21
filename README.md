@@ -1,4 +1,4 @@
-# Hi, I'm Siddhant 👋
+# Hi, I'm Siddhant Khare 👋
 
 📍 **India** | 🛠️ **Engineer @ [Ona](https://ona.com/) (formerly Gitpod)** | 🔐 **[OpenFGA](https://openfga.dev) Core Maintainer** | 🎤 **KubeCon Speaker**
 
@@ -80,6 +80,7 @@
 [![Dev.to](https://img.shields.io/badge/-siddhantkcode-0A0A0A?style=flat-square&logo=devdotto&logoColor=white)](https://dev.to/siddhantkcode)
 [![Website](https://img.shields.io/badge/-siddhantkhare.com-000000?style=flat-square&logo=safari&logoColor=white)](https://siddhantkhare.com/)
 [![GitHub Sponsors](https://img.shields.io/badge/-Sponsor-EA4AAA?style=flat-square&logo=githubsponsors&logoColor=white)](https://github.com/sponsors/Siddhant-K-code)
+[![Buy Me a Coffee](https://img.shields.io/badge/-Buy%20me%20a%20coffee-FFDD00?style=flat-square&logo=buymeacoffee&logoColor=black)](https://buymeacoffee.com/siddhantkhare)
 
 ---
 
