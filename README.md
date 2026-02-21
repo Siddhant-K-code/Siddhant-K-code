@@ -2,7 +2,6 @@
 
 📍 **India** | 🛠️ **Engineer @ [Ona](https://ona.com/) (formerly Gitpod)** | 🔐 **[OpenFGA](https://openfga.dev) Core Maintainer** | 🎤 **International Speaker** | [**siddhantkhare.com**](https://siddhantkhare.com/)
 
-
 > Building infrastructure for AI agents - context efficiency, least-privilege security, production-grade tooling.
 
 ## Current Projects
@@ -31,24 +30,18 @@
 - 📸 **[Memory Journal MCP Server](https://github.com/Siddhant-K-code/memory-journal-mcp-server)** - Search and analyze your photo library with AI.
 - 🐳 **[Devcontainer MCP Server](https://github.com/Siddhant-K-code/mcp-devcontainer)** - Manage DevContainers using AI prompts.
 - 📰 **[Dev.to MCP Server](https://github.com/Siddhant-K-code/mcp-devto-server)** - MCP server for Dev.to.
+- 🔧 **[Contextify](https://github.com/Siddhant-K-code/Contextify)** - Lightweight script for LLM context injection from project files.
 - 🧹 **[Gitpod Environment Cleanup](https://github.com/Siddhant-K-code/cleanup-gitpod-environments)** - GitHub Action to find & delete stale Gitpod environments.
-- 🔍 **[GitHub Venture Scout](https://github.com/Siddhant-K-code/github-venture-scout)** - AI-powered GitHub profile analyzer for identifying investment-worthy projects.
+- 📈 **[Gitpod Runner Analyzer](https://github.com/Siddhant-K-code/gitpod-runner-analyzer)** - Gitpod Flex runner resource analyzer.
+- 🐙 **[GitHub Actions Self-Hosted Runner](https://github.com/Siddhant-K-code/gitpod-github-actions-self-hosted-runner)** - Debugging GitHub Actions using Gitpod.
+- 🏷️ **[Get GitHub Actions SHA](https://github.com/Siddhant-K-code/get-gha-sha)** - Fetch commit SHA for GitHub Actions tags.
+- 🕵️ **[GitHub Venture Scout](https://github.com/Siddhant-K-code/github-venture-scout)** - AI-powered GitHub profile analyzer for identifying investment-worthy projects.
 - 🇮🇳 **[Sponsorable GitHub Users in India](https://github.com/Siddhant-K-code/sponsorable-github-users-in-india)** - Top 1,000 sponsorable GitHub developers in India, auto-updated daily.
 - ⚡ **[Scalable LS](https://github.com/Siddhant-K-code/scalable-ls)** - List directories with millions of files (Rust).
-- 🗄️ **[S3 Backup Tool](https://github.com/Siddhant-K-code/poc-gocron)** - Scheduled backups with cron syntax (Go).
-- 🐙 **[GitHub Actions Self-Hosted Runner](https://github.com/Siddhant-K-code/gitpod-github-actions-self-hosted-runner)** - Debugging GitHub Actions using Gitpod.
-- 📊 **[GitHub Contribution Tracker](https://github.com/Siddhant-K-code/github-contribution-tracker)** - CLI tool to fetch and format all your GitHub contributions to any org.
 - 🖼️ **[Image Credential Masker](https://github.com/Siddhant-K-code/image-credential-masker)** - Identifying & obscuring personal/sensitive information in images.
-- 🎨 **[Satori Example](https://github.com/Siddhant-K-code/satori-example)** - Generate images from HTML/CSS using Satori.
-- 🔑 **[Get GitHub Actions SHA](https://github.com/Siddhant-K-code/get-gha-sha)** - Fetch commit SHA for GitHub Actions tags.
 - 💳 **[Stripe Overdue Invoice Cleaner](https://github.com/Siddhant-K-code/stripe-overdue-invoice-cleaner)** - Automatically void overdue Stripe invoices.
 - 🌱 **[Greenhouse Data Exporter](https://github.com/Siddhant-K-code/greenhouse-data-exporter)** - Export candidate data from Greenhouse.io to CSV.
-- 📋 **[Sheets to CSV Converter](https://github.com/Siddhant-K-code/sheets-to-csv-converter)** - xlsx to CSV CLI converter (Go).
 - 📜 **[Patent Summarizer](https://github.com/Siddhant-K-code/patent-summarizer)** - Patent summarization using OpenAI.
-- 🔧 **[Contextify](https://github.com/Siddhant-K-code/Contextify)** - Lightweight script for LLM context injection from project files.
-- 📈 **[Gitpod Runner Analyzer](https://github.com/Siddhant-K-code/gitpod-runner-analyzer)** - Gitpod Flex runner resource analyzer.
-- 🛒 **[Amazon CLI](https://github.com/Siddhant-K-code/Amazon_CLI)** - Amazon product search from the terminal using scraping.
-- ⚙️ **[Slice vs Iterator Benchmarking](https://github.com/Siddhant-K-code/slice-vs-iterator-benchmarking)** - Slices vs Iterators benchmarking in Go v1.23.
 
 ### Applications
 - 🎵 **[Song Vector Explorer](https://github.com/Siddhant-K-code/song-vector-explorer)** - Explore song lyrics as interactive 3D vector spaces.
@@ -57,11 +50,8 @@
 - 🏛️ **[ArchiFusion](https://github.com/Siddhant-K-code/ArchiFusion)** - Transforms architectural ideas into 3D building models.
 - 💊 **[MediSearchAI](https://github.com/Siddhant-K-code/MediSearchAI)** - A smarter way to search for medicines.
 - 📄 **[MedBrief](https://github.com/Siddhant-K-code/MedBrief)** - Automated PubMed research paper summarization into narrated videos.
-- 🔗 **[LangChain x OpenAI: Bring Your Own Data](https://github.com/Siddhant-K-code/OpenAI-bring-your-own-data)** - Train with custom markdown data using LangChain.
-- 🤖 **[GPT-CLI](https://github.com/Siddhant-K-code/GPT-CLI)** - GPT in your terminal.
-- 📊 **[S3 Vectors Benchmark](https://github.com/Siddhant-K-code/s3-vectors-benchmark)** - AWS S3 Vectors performance benchmarking at scale.
-- 📈 **[Visualize Stock Market](https://github.com/Siddhant-K-code/Visualize-Stock-Market)** - Stock market data visualization.
-- 🔬 **[Logistic Regression - Breast Cancer](https://github.com/Siddhant-K-code/Logistic_Regression_with_Breast_Cancer_Data)** - ML classification on breast cancer data.
+- 📚 **[LangChain x OpenAI: Bring Your Own Data](https://github.com/Siddhant-K-code/OpenAI-bring-your-own-data)** - Train with custom markdown data using LangChain.
+- 🖥️ **[GPT-CLI](https://github.com/Siddhant-K-code/GPT-CLI)** - GPT in your terminal.
 
 ### Maintainer Roles
 - 🔑 **[OpenFGA](https://github.com/openfga)** - Core Maintainer of Google Zanzibar-style fine-grained authorization system (CNCF Incubating). First independent maintainer.
@@ -71,10 +61,19 @@
 - 📍 **[Geo-Location Attendance System](https://github.com/Siddhant-K-code/Geo-Location-Attendance-System)** - Geo-based attendance system for college students (Dart/Flutter).
 - 🐬 **[MySQL Replica Server](https://github.com/Siddhant-K-code/mysql-replica-server)** - MySQL master-slave replication setup in Docker.
 - 💬 **[React Chat Application](https://github.com/Siddhant-K-code/React-Chat-Application)** - Real-time online chat application with rooms.
-- 📊 **[GitHub User Analytics](https://github.com/Siddhant-K-code/Github-user-analytics)** - GitHub user analysis with charts using React, Auth0, and FusionCharts.
+- 📉 **[GitHub User Analytics](https://github.com/Siddhant-K-code/Github-user-analytics)** - GitHub user analysis with charts using React, Auth0, and FusionCharts.
+- 💹 **[Visualize Stock Market](https://github.com/Siddhant-K-code/Visualize-Stock-Market)** - Stock market data visualization.
+- 🧫 **[Logistic Regression - Breast Cancer](https://github.com/Siddhant-K-code/Logistic_Regression_with_Breast_Cancer_Data)** - ML classification on breast cancer data.
+- 🛒 **[Amazon CLI](https://github.com/Siddhant-K-code/Amazon_CLI)** - Amazon product search from the terminal using scraping.
+- 📋 **[Sheets to CSV Converter](https://github.com/Siddhant-K-code/sheets-to-csv-converter)** - xlsx to CSV CLI converter (Go).
+- 🗄️ **[S3 Backup Tool](https://github.com/Siddhant-K-code/poc-gocron)** - Scheduled backups with cron syntax (Go).
+- ⚙️ **[Slice vs Iterator Benchmarking](https://github.com/Siddhant-K-code/slice-vs-iterator-benchmarking)** - Slices vs Iterators benchmarking in Go v1.23.
 - 📦 **[JSON to Table](https://github.com/Siddhant-K-code/JSON-to-Table)** - JSON data to HTML table converter.
 - 🔄 **[CRUD TypeScript](https://github.com/Siddhant-K-code/CRUD-TypeScript)** - CRUD REST API using TypeScript, PostgreSQL, and TypeORM.
 - 💱 **[Currency Converter](https://github.com/Siddhant-K-code/currency-convert-example)** - Currency converter CLI with MetaCall.
+- 🎯 **[S3 Vectors Benchmark](https://github.com/Siddhant-K-code/s3-vectors-benchmark)** - AWS S3 Vectors performance benchmarking at scale.
+- 🖌️ **[Satori Image Generator](https://github.com/Siddhant-K-code/satori-example)** - Generate images from HTML/CSS using Satori.
+- 📐 **[GitHub Contribution Tracker](https://github.com/Siddhant-K-code/github-contribution-tracker)** - CLI to fetch and format GitHub contributions to any org.
 - 🔀 **[Sorting Algorithms Visualizer](https://github.com/Siddhant-K-code/Sorting-Algorithms-Visualizer)** - Visual sorting algorithm comparisons.
 - 🔌 **[Logic Gates Simulator](https://github.com/Siddhant-K-code/Logic-Gates-Simulator)** - Interactive logic gates simulator.
 - 🧭 **[Pathfinding Algorithms Visualizer](https://github.com/Siddhant-K-code/Pathfinding-Algorithms-Visualizer)** - Pathfinding algorithm visualization.
