@@ -1,15 +1,7 @@
 # Hi, I'm Siddhant Khare 👋
 
-📍 **India** | 🛠️ **Engineer @ [Ona](https://ona.com/) (formerly Gitpod)** | 🔐 **[OpenFGA](https://openfga.dev) Core Maintainer** | 🎤 **KubeCon Speaker** | [**siddhantkhare.com**](https://siddhantkhare.com/)
+📍 **India** | 🛠️ **Engineer @ [Ona](https://ona.com/) (formerly Gitpod)** | 🔐 **[OpenFGA](https://openfga.dev) Core Maintainer** | 🎤 **International Speaker** | [**siddhantkhare.com**](https://siddhantkhare.com/)
 
-![Go](https://img.shields.io/badge/-Go-00ADD8?style=flat-square&logo=go&logoColor=white)
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Rust](https://img.shields.io/badge/-Rust-000000?style=flat-square&logo=rust&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
-![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white)
-![GCP](https://img.shields.io/badge/-GCP-4285F4?style=flat-square&logo=googlecloud&logoColor=white)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 
 > Building infrastructure for AI agents — context efficiency, least-privilege security, production-grade tooling.
 
