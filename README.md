@@ -91,7 +91,6 @@
 - **[The Chosun Ilbo](https://www.chosun.com/english/industry-en/2026/02/12/YJMVMG56ORHVJDHMKDQM2QMFCE/)** (South Korea's largest newspaper) - *"AI Fatigue Grows Despite Productivity Gains"*
 - **[NDTV Profit](https://www.ndtvprofit.com/technology/ai-backfire-stress-induced-burnout-could-be-tanking-your-work-quality-study-finds-10981522)** - Video segment on AI burnout
 - **[Computing UK](https://www.computing.co.uk/feature/2026/when-artificial-intelligence-makes-you-tired)** - Quoted extensively on AI fatigue
-- **[Kelsey Hightower](https://www.linkedin.com/in/kelseyhightower/)** - *"It's very real, which is why I'm glad people like you are raising awareness"*
 - Syndicated across **Yahoo**, **AOL**, **Business Insider Nordic/Africa/Italy**, **NewsBreak**, **daily.dev**, **Lobsters**, and others
 - Discussed on **Precursor Ventures** podcast by Charles Hudson and Mia Farnham
 
