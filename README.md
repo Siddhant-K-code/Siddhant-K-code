@@ -7,36 +7,58 @@
 
 ## Current Projects
 
-### Agent Infrastructure & Security
-- 🔐 **[agentic-authz](https://github.com/Siddhant-K-code/agentic-authz)** - OpenFGA + MCP authorization gateway for AI agents. Fine-grained access control at team, project, and tool levels.
+### Agent Infrastructure & Context Engineering
 - 🧬 **[Distill](https://github.com/Siddhant-K-code/distill)** - Deterministic context deduplication for LLMs. Clean context in ~12ms, zero LLM calls.
-- 🔬 **[LLMTraceFX](https://github.com/Siddhant-K-code/LLMTraceFX)** - GPU-level LLM inference profiler with kernel timing and AI-powered bottleneck detection.
-- 🤖 **[Agentflow](https://github.com/Siddhant-K-code/agentflow)** - Kubernetes for AI agents - single platform for orchestration with capability-based security.
-- 🧪 **[ContextLab](https://github.com/Siddhant-K-code/contextlab)** - Open-source LLM context engineering toolkit: analyze, compress, visualize.
+- 🧪 **[ContextLab](https://github.com/Siddhant-K-code/ContextLab)** - Open-source LLM context engineering toolkit: analyze, compress, visualize.
 - 💾 **[TokenVM](https://github.com/Siddhant-K-code/tokenvm)** - High-performance runtime treating LLM KV cache as virtual memory with page-based eviction.
+- 📊 **[KV-Cache Profiler](https://github.com/Siddhant-K-code/kv-cache-profiler)** - Profile LLM GPU memory needs before deployment, not after.
+- 🔬 **[LLMTraceFX](https://github.com/Siddhant-K-code/LLMTraceFX)** - GPU-level LLM inference profiler with kernel timing and AI-powered bottleneck detection.
+- 🤖 **[Agentflow](https://github.com/Siddhant-K-code/agentflow)** - Kubernetes for AI agents - orchestration runtime, prompt ops, security layer, observability, and cost-aware scheduling.
+- 🌐 **[AI Agent Orchestrator](https://github.com/Siddhant-K-code/ai-agent-orchestrator)** - Multi-agent AI system on Cloudflare Workers + Containers.
+- 🔢 **[LLM Parallelism Explorer](https://github.com/Siddhant-K-code/llm-parallelism-explorer-poc)** - Research tool for optimizing parallelism strategies in LLMs (MoE focus).
+- 💰 **[CloudArb](https://github.com/Siddhant-K-code/CloudArb)** - GPU arbitrage platform for AI compute optimization.
 
-### Security & DevSecOps
+### Agent Security & Authorization
+- 🔐 **[agentic-authz](https://github.com/Siddhant-K-code/agentic-authz)** - OpenFGA + MCP authorization gateway for AI agents. Fine-grained access control at team, project, and tool levels.
+- 🔏 **[Agentic Authorization](https://github.com/Siddhant-K-code/agentic-authorization)** - Authorization patterns for autonomous AI agent systems using ReBAC with OpenFGA.
+- 🔗 **[A2AS Implementation](https://github.com/Siddhant-K-code/a2as-implementation-poc)** - Proof-of-concept of Agent-to-Agent Security framework.
 - 🛡️ **[Sentinel AI](https://github.com/Siddhant-K-code/sentinel-ai)** - Hermetic CLI for security scanning and dead-code detection with LLM-powered triage.
 - 🔒 **[actionsec](https://github.com/Siddhant-K-code/actionsec)** - Fast, local-first CLI for GitHub Actions security analysis.
-- 🔗 **[A2AS Implementation](https://github.com/Siddhant-K-code/a2as)** - Proof-of-concept of Agent-to-Agent Security framework.
 
 ### Developer Tools & MCP Servers
 - 🏗️ **[Cloud Architect AI](https://github.com/Siddhant-K-code/cloud-architect-ai)** - AI-powered cloud infrastructure design with architecture diagrams and Terraform code.
-- 📝 **[Apple Notes MCP Server](https://github.com/Siddhant-K-code/apple-notes-mcp)** - Interact with Apple Notes via natural language.
-- 📸 **[Smart Photo Journal MCP Server](https://github.com/Siddhant-K-code/smart-photo-journal-mcp)** - Search and analyze your photo library with AI.
-- 🐳 **[Devcontainer MCP Server](https://github.com/Siddhant-K-code/devcontainer-mcp)** - Manage DevContainers using AI prompts.
+- 📝 **[Apple Notes MCP Server](https://github.com/Siddhant-K-code/mcp-apple-notes)** - Interact with Apple Notes via natural language.
+- 📸 **[Memory Journal MCP Server](https://github.com/Siddhant-K-code/memory-journal-mcp-server)** - Search and analyze your photo library with AI.
+- 🐳 **[Devcontainer MCP Server](https://github.com/Siddhant-K-code/mcp-devcontainer)** - Manage DevContainers using AI prompts.
+- 📰 **[Dev.to MCP Server](https://github.com/Siddhant-K-code/mcp-devto-server)** - MCP server for Dev.to.
 - 🧹 **[Gitpod Environment Cleanup](https://github.com/Siddhant-K-code/cleanup-gitpod-environments)** - GitHub Action to find & delete stale Gitpod environments.
+- 🔍 **[GitHub Venture Scout](https://github.com/Siddhant-K-code/github-venture-scout)** - AI-powered GitHub profile analyzer for identifying investment-worthy projects.
+- 🇮🇳 **[Sponsorable GitHub Users in India](https://github.com/Siddhant-K-code/sponsorable-github-users-in-india)** - Top 1,000 sponsorable GitHub developers in India, auto-updated daily.
+- ⚡ **[Scalable LS](https://github.com/Siddhant-K-code/scalable-ls)** - List directories with millions of files (Rust).
+- 🗄️ **[S3 Backup Tool](https://github.com/Siddhant-K-code/poc-gocron)** - Scheduled backups with cron syntax (Go).
+- 🐙 **[GitHub Actions Self-Hosted Runner](https://github.com/Siddhant-K-code/gitpod-github-actions-self-hosted-runner)** - Debugging GitHub Actions using Gitpod.
 
 ### Applications
 - 🎵 **[Song Vector Explorer](https://github.com/Siddhant-K-code/song-vector-explorer)** - Explore song lyrics as interactive 3D vector spaces.
-- 🗺️ **[SageMap](https://github.com/Siddhant-K-code/sagemap)** - Interactive tool to map and evolve personal beliefs.
+- 🗺️ **[SageMap](https://github.com/Siddhant-K-code/SageMap)** - Interactive tool to map and evolve personal beliefs.
 - 🏥 **[Radiology Copilot](https://github.com/Siddhant-K-code/radiology-copilot)** - Gemini-powered multimodal radiology assistant.
+- 🏛️ **[ArchiFusion](https://github.com/Siddhant-K-code/ArchiFusion)** - Transforms architectural ideas into 3D building models.
+- 💊 **[MediSearchAI](https://github.com/Siddhant-K-code/MediSearchAI)** - A smarter way to search for medicines.
+- 📄 **[MedBrief](https://github.com/Siddhant-K-code/MedBrief)** - Automated PubMed research paper summarization into narrated videos.
+- 🔗 **[LangChain x OpenAI: Bring Your Own Data](https://github.com/Siddhant-K-code/OpenAI-bring-your-own-data)** - Train with custom markdown data using LangChain.
 
 ### Maintainer Roles
 - 🔑 **[OpenFGA](https://github.com/openfga)** - Core Maintainer of Google Zanzibar-style fine-grained authorization system (CNCF Incubating). First independent maintainer.
 - 🔍 **[GitHub1s](https://github.com/conwnet/github1s)** - Maintainer of one-second code reading for GitHub repositories.
 
 ### Legacy / Earlier Work
+- 📍 **[Geo-Location Attendance System](https://github.com/Siddhant-K-code/Geo-Location-Attendance-System)** - Geo-based attendance system for college students (Dart/Flutter).
+- 🐬 **[MySQL Replica Server](https://github.com/Siddhant-K-code/mysql-replica-server)** - MySQL master-slave replication setup in Docker.
+- 💬 **[React Chat Application](https://github.com/Siddhant-K-code/React-Chat-Application)** - Real-time online chat application with rooms.
+- 📊 **[GitHub User Analytics](https://github.com/Siddhant-K-code/Github-user-analytics)** - GitHub user analysis with charts using React, Auth0, and FusionCharts.
+- 🎨 **[Mandala Maker](https://github.com/Siddhant-K-code/Mandala-Maker)** - Online mandala drawing tool.
+- 🧩 **[JavaScript Sudoku Puzzle](https://github.com/Siddhant-K-code/JavaScript-Sudoku-Puzzle-Generator)** - Sudoku puzzle generator & solver.
+- ♟️ **[Chess](https://github.com/Siddhant-K-code/Chess)** - Chess in HTML/CSS/JS.
 - 🌍 **[Coronavirus Probability Checker](https://github.com/Siddhant-K-code/Coronavirus-Probability-Checker)** - COVID-19 probability checker based on symptom data.
 - 🩻 **[COVID-19 Rapid Tester](https://github.com/Siddhant-K-code/COVID-19-RAPID-TESTER)** - COVID-19 detector using chest X-ray analysis.
 - 🚀 **[404 Error Page - Astronaut](https://github.com/Siddhant-K-code/404-Error-Page---Astronaut)** - Animated 404 error page.
