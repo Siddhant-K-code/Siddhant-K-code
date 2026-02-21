@@ -12,7 +12,7 @@ jobs:
     steps:
       - uses: JasonEtco/rss-to-readme@v2
         with:
-          feed-url: https://dev.to/feed/siddhantkcode
+          feed-url: https://siddhantkhare.com/rss.xml
           readme-section: feed
           empty-commits: "false"
           path: "README.md"
