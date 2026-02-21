@@ -3,51 +3,51 @@
 📍 **India** | 🛠️ **Engineer @ [Ona](https://ona.com/) (formerly Gitpod)** | 🔐 **[OpenFGA](https://openfga.dev) Core Maintainer** | 🎤 **International Speaker** | [**siddhantkhare.com**](https://siddhantkhare.com/)
 
 
-> Building infrastructure for AI agents — context efficiency, least-privilege security, production-grade tooling.
+> Building infrastructure for AI agents - context efficiency, least-privilege security, production-grade tooling.
 
 ## Current Projects
 
 ### Agent Infrastructure & Security
-- 🔐 **[agentic-authz](https://github.com/Siddhant-K-code/agentic-authz)** — OpenFGA + MCP authorization gateway for AI agents. Fine-grained access control at team, project, and tool levels.
-- 🧬 **[Distill](https://github.com/Siddhant-K-code/distill)** — Deterministic context deduplication for LLMs. Clean context in ~12ms, zero LLM calls.
-- 🔬 **[LLMTraceFX](https://github.com/Siddhant-K-code/LLMTraceFX)** — GPU-level LLM inference profiler with kernel timing and AI-powered bottleneck detection.
-- 🤖 **[Agentflow](https://github.com/Siddhant-K-code/agentflow)** — Kubernetes for AI agents — single platform for orchestration with capability-based security.
-- 🧪 **[ContextLab](https://github.com/Siddhant-K-code/contextlab)** — Open-source LLM context engineering toolkit: analyze, compress, visualize.
-- 💾 **[TokenVM](https://github.com/Siddhant-K-code/tokenvm)** — High-performance runtime treating LLM KV cache as virtual memory with page-based eviction.
+- 🔐 **[agentic-authz](https://github.com/Siddhant-K-code/agentic-authz)** - OpenFGA + MCP authorization gateway for AI agents. Fine-grained access control at team, project, and tool levels.
+- 🧬 **[Distill](https://github.com/Siddhant-K-code/distill)** - Deterministic context deduplication for LLMs. Clean context in ~12ms, zero LLM calls.
+- 🔬 **[LLMTraceFX](https://github.com/Siddhant-K-code/LLMTraceFX)** - GPU-level LLM inference profiler with kernel timing and AI-powered bottleneck detection.
+- 🤖 **[Agentflow](https://github.com/Siddhant-K-code/agentflow)** - Kubernetes for AI agents - single platform for orchestration with capability-based security.
+- 🧪 **[ContextLab](https://github.com/Siddhant-K-code/contextlab)** - Open-source LLM context engineering toolkit: analyze, compress, visualize.
+- 💾 **[TokenVM](https://github.com/Siddhant-K-code/tokenvm)** - High-performance runtime treating LLM KV cache as virtual memory with page-based eviction.
 
 ### Security & DevSecOps
-- 🛡️ **[Sentinel AI](https://github.com/Siddhant-K-code/sentinel-ai)** — Hermetic CLI for security scanning and dead-code detection with LLM-powered triage.
-- 🔒 **[actionsec](https://github.com/Siddhant-K-code/actionsec)** — Fast, local-first CLI for GitHub Actions security analysis.
-- 🔗 **[A2AS Implementation](https://github.com/Siddhant-K-code/a2as)** — Proof-of-concept of Agent-to-Agent Security framework.
+- 🛡️ **[Sentinel AI](https://github.com/Siddhant-K-code/sentinel-ai)** - Hermetic CLI for security scanning and dead-code detection with LLM-powered triage.
+- 🔒 **[actionsec](https://github.com/Siddhant-K-code/actionsec)** - Fast, local-first CLI for GitHub Actions security analysis.
+- 🔗 **[A2AS Implementation](https://github.com/Siddhant-K-code/a2as)** - Proof-of-concept of Agent-to-Agent Security framework.
 
 ### Developer Tools & MCP Servers
-- 🏗️ **[Cloud Architect AI](https://github.com/Siddhant-K-code/cloud-architect-ai)** — AI-powered cloud infrastructure design with architecture diagrams and Terraform code.
-- 📝 **[Apple Notes MCP Server](https://github.com/Siddhant-K-code/apple-notes-mcp)** — Interact with Apple Notes via natural language.
-- 📸 **[Smart Photo Journal MCP Server](https://github.com/Siddhant-K-code/smart-photo-journal-mcp)** — Search and analyze your photo library with AI.
-- 🐳 **[Devcontainer MCP Server](https://github.com/Siddhant-K-code/devcontainer-mcp)** — Manage DevContainers using AI prompts.
-- 🧹 **[Gitpod Environment Cleanup](https://github.com/Siddhant-K-code/cleanup-gitpod-environments)** — GitHub Action to find & delete stale Gitpod environments.
+- 🏗️ **[Cloud Architect AI](https://github.com/Siddhant-K-code/cloud-architect-ai)** - AI-powered cloud infrastructure design with architecture diagrams and Terraform code.
+- 📝 **[Apple Notes MCP Server](https://github.com/Siddhant-K-code/apple-notes-mcp)** - Interact with Apple Notes via natural language.
+- 📸 **[Smart Photo Journal MCP Server](https://github.com/Siddhant-K-code/smart-photo-journal-mcp)** - Search and analyze your photo library with AI.
+- 🐳 **[Devcontainer MCP Server](https://github.com/Siddhant-K-code/devcontainer-mcp)** - Manage DevContainers using AI prompts.
+- 🧹 **[Gitpod Environment Cleanup](https://github.com/Siddhant-K-code/cleanup-gitpod-environments)** - GitHub Action to find & delete stale Gitpod environments.
 
 ### Applications
-- 🎵 **[Song Vector Explorer](https://github.com/Siddhant-K-code/song-vector-explorer)** — Explore song lyrics as interactive 3D vector spaces.
-- 🗺️ **[SageMap](https://github.com/Siddhant-K-code/sagemap)** — Interactive tool to map and evolve personal beliefs.
-- 🏥 **[Radiology Copilot](https://github.com/Siddhant-K-code/radiology-copilot)** — Gemini-powered multimodal radiology assistant.
+- 🎵 **[Song Vector Explorer](https://github.com/Siddhant-K-code/song-vector-explorer)** - Explore song lyrics as interactive 3D vector spaces.
+- 🗺️ **[SageMap](https://github.com/Siddhant-K-code/sagemap)** - Interactive tool to map and evolve personal beliefs.
+- 🏥 **[Radiology Copilot](https://github.com/Siddhant-K-code/radiology-copilot)** - Gemini-powered multimodal radiology assistant.
 
 ### Maintainer Roles
-- 🔑 **[OpenFGA](https://github.com/openfga)** — Core Maintainer of Google Zanzibar-style fine-grained authorization system (CNCF Incubating). First independent maintainer.
-- 🔍 **[GitHub1s](https://github.com/conwnet/github1s)** — Maintainer of one-second code reading for GitHub repositories.
+- 🔑 **[OpenFGA](https://github.com/openfga)** - Core Maintainer of Google Zanzibar-style fine-grained authorization system (CNCF Incubating). First independent maintainer.
+- 🔍 **[GitHub1s](https://github.com/conwnet/github1s)** - Maintainer of one-second code reading for GitHub repositories.
 
 ### Legacy / Earlier Work
-- 🌍 **[Coronavirus Probability Checker](https://github.com/Siddhant-K-code/Coronavirus-Probability-Checker)** — COVID-19 probability checker based on symptom data.
-- 🩻 **[COVID-19 Rapid Tester](https://github.com/Siddhant-K-code/COVID-19-RAPID-TESTER)** — COVID-19 detector using chest X-ray analysis.
-- 🚀 **[404 Error Page — Astronaut](https://github.com/Siddhant-K-code/404-Error-Page---Astronaut)** — Animated 404 error page.
+- 🌍 **[Coronavirus Probability Checker](https://github.com/Siddhant-K-code/Coronavirus-Probability-Checker)** - COVID-19 probability checker based on symptom data.
+- 🩻 **[COVID-19 Rapid Tester](https://github.com/Siddhant-K-code/COVID-19-RAPID-TESTER)** - COVID-19 detector using chest X-ray analysis.
+- 🚀 **[404 Error Page - Astronaut](https://github.com/Siddhant-K-code/404-Error-Page---Astronaut)** - Animated 404 error page.
 
 ## What I'm Doing
 
-- **Engineering @ [Ona](https://ona.com/)** — Building infrastructure for AI agents (formerly Gitpod).
-- **Open Source** — Maintaining OpenFGA, GitHub1s, and shipping agent infrastructure tools.
-- **Writing** — 40+ technical articles on AI infrastructure, security, and context engineering on [Dev.to](https://dev.to/siddhantkcode) and [Medium](https://medium.com/@siddhantkhare).
-- **Speaking** — KubeCon India 2025: *Beyond Productivity: Scaling Cloud Dev Environments for Faster Feedback & Sustainable Engineering*. Available for conferences on AI agent security and authorization.
-- **Mentoring** — [Book a session on MentorCruise](https://mentorcruise.com/mentor/siddhantkhare/).
+- **Engineering @ [Ona](https://ona.com/)** - Building infrastructure for AI agents (formerly Gitpod).
+- **Open Source** - Maintaining OpenFGA, GitHub1s, and shipping agent infrastructure tools.
+- **Writing** - 40+ technical articles on AI infrastructure, security, and context engineering on [Dev.to](https://dev.to/siddhantkcode) and [Medium](https://medium.com/@siddhantkhare).
+- **Speaking** - KubeCon India 2025: *Beyond Productivity: Scaling Cloud Dev Environments for Faster Feedback & Sustainable Engineering*. Available for conferences on AI agent security and authorization.
+- **Mentoring** - [Book a session on MentorCruise](https://mentorcruise.com/mentor/siddhantkhare/).
 
 ## Latest Blog Posts
 
@@ -78,31 +78,32 @@
 
 ### Recognition
 
-- **[OpenFGA](https://openfga.dev) Core Maintainer** — First independent maintainer of a CNCF Incubating authorization project
-- **KubeCon India 2025 Speaker** — *Beyond Productivity: Scaling Cloud Dev Environments*
-- **Former GitHub Intern** — Contributed to GitHub's ecosystem
-- **Maintainer** — [OpenFGA](https://github.com/openfga), [GitHub1s](https://github.com/conwnet/github1s), [Greenstand](https://github.com/Greenstand), [Indian Open Source Foundation](https://github.com/IndianOpenSourceFoundation)
-- **40+ technical articles** — Published on [Dev.to](https://dev.to/siddhantkcode) and [Medium](https://medium.com/@siddhantkhare), multiple posts with 100+ reactions
+- **[OpenFGA](https://openfga.dev) Core Maintainer** - First independent maintainer of a CNCF Incubating authorization project
+- **KubeCon India 2025 Speaker** - *Beyond Productivity: Scaling Cloud Dev Environments*
+- **Former GitHub Intern**
+- **Maintainer** - [OpenFGA](https://github.com/openfga), [GitHub1s](https://github.com/conwnet/github1s), [Greenstand](https://github.com/Greenstand), [Indian Open Source Foundation](https://github.com/IndianOpenSourceFoundation)
+- **40+ technical articles** - Published on [Dev.to](https://dev.to/siddhantkcode) and [Medium](https://medium.com/@siddhantkhare), multiple posts with 100+ reactions
+- **Interviewed by [New York Times](https://www.nytimes.com/)** (Cade Metz) and **[NPR Here & Now](https://www.wbur.org/hereandnow)** on AI fatigue
+- **[Business Insider](https://www.businessinsider.com/ai-fatigue-burnout-software-engineer-essay-siddhant-khare-2026-2)** - Featured essay + [video segment](https://www.businessinsider.com/engineers-are-getting-ai-fatigue-and-you-could-be-next-2026-2)
+- **[Futurism](https://futurism.com/artificial-intelligence/ai-burnout-machine)** - *"AI Is a Burnout Machine"*
+- **[Techmeme](http://www.techmeme.com/260208/p15)** - Front page feature
+- **[Hacker News](https://news.ycombinator.com/item?id=46934404)** - #1, 446+ points, 310+ comments
+- **[The Chosun Ilbo](https://www.chosun.com/english/industry-en/2026/02/12/YJMVMG56ORHVJDHMKDQM2QMFCE/)** (South Korea's largest newspaper) - *"AI Fatigue Grows Despite Productivity Gains"*
+- **[NDTV Profit](https://www.ndtvprofit.com/technology/ai-backfire-stress-induced-burnout-could-be-tanking-your-work-quality-study-finds-10981522)** - Video segment on AI burnout
+- **[Computing UK](https://www.computing.co.uk/feature/2026/when-artificial-intelligence-makes-you-tired)** - Quoted extensively on AI fatigue
+- **[Kelsey Hightower](https://www.linkedin.com/in/kelseyhightower/)** - *"It's very real, which is why I'm glad people like you are raising awareness"*
+- Syndicated across **Yahoo**, **AOL**, **Business Insider Nordic/Africa/Italy**, **NewsBreak**, **daily.dev**, **Lobsters**, and others
+- Discussed on **Precursor Ventures** podcast by Charles Hudson and Mia Farnham
 
 ### Videos
 
-- **[Beyond Productivity: Scaling Cloud Dev Environments](https://www.youtube.com/@siddhantkhare1659)** — KubeCon India 2025
-- **[AI Agents Are a Security Nightmare (Here's the Fix)](https://www.youtube.com/@siddhantkhare1659)** — Agent authorization deep dive
-- **[Building a Medical AI Agent with Gemini 3 Pro](https://www.youtube.com/@siddhantkhare1659)** — End-to-end agent build
-
-### Media Coverage
-
-- **[Techmeme](http://www.techmeme.com/260208/p15)** — *"A software engineer explains 'AI fatigue', compounded by a FOMO treadmill of using AI labs' latest tools and 'thinking atrophy', alongside boosted productivity"*
-- **[Business Insider](https://www.businessinsider.com/ai-fatigue-burnout-software-engineer-essay-siddhant-khare-2026-2)** — *"'AI fatigue is real and nobody talks about it': A software engineer warns there's a mental cost to AI productivity gains"*
-- **[Hacker News](https://news.ycombinator.com/item?id=46934404)** — #1 on front page, 471+ points, 319+ comments
-- **[Computing UK](https://www.computing.co.uk/feature/2026/when-artificial-intelligence-makes-you-tired)** — *"AI fatigue: When artificial intelligence makes you tired"*
-- **[NewsBreak](https://www.newsbreak.com/morningoverview-358954986/4487947176601-ai-fatigue-is-real-engineer-warns-of-mental-toll-behind-ai-productivity-boom)** — *"'AI fatigue is real': engineer warns of mental toll behind AI productivity boom"*
-- **[Lobsters](https://lobste.rs/)** — Featured on front page
-- **[Kelsey Hightower](https://www.linkedin.com/in/kelseyhightower/)** (LinkedIn) — Shared and commented on the article
+- **[Beyond Productivity: Scaling Cloud Dev Environments](https://youtu.be/sFVQVBVOOV0)** - KubeCon India 2025
+- **[AI Agents Are a Security Nightmare (Here's the Fix)](https://youtube.com/watch?v=m1_l13bC2O8)** - Agent authorization deep dive
+- **[Building a Medical AI Agent with Gemini 3 Pro](https://youtube.com/watch?v=S6xULjtEZMM)** - End-to-end agent build
 
 ### Research Focus
 
 Building at the intersection of LLM efficiency and agent security:
-1. **Context Efficiency & Reliability** — Deterministic algorithms for context deduplication and optimization ([Distill](https://github.com/Siddhant-K-code/distill), [ContextLab](https://github.com/Siddhant-K-code/contextlab), [TokenVM](https://github.com/Siddhant-K-code/tokenvm))
-2. **Agent Authorization & Audit Trails** — Google Zanzibar-style authorization for agent-tool interactions ([agentic-authz](https://github.com/Siddhant-K-code/agentic-authz), [OpenFGA](https://github.com/openfga))
-3. **Adversarial Robustness & Observability** — Detecting and mitigating attacks on agent tool-use pipelines ([Sentinel AI](https://github.com/Siddhant-K-code/sentinel-ai), [LLMTraceFX](https://github.com/Siddhant-K-code/LLMTraceFX))
+1. **Context Efficiency & Reliability** - Deterministic algorithms for context deduplication and optimization ([Distill](https://github.com/Siddhant-K-code/distill), [ContextLab](https://github.com/Siddhant-K-code/contextlab), [TokenVM](https://github.com/Siddhant-K-code/tokenvm))
+2. **Agent Authorization & Audit Trails** - Google Zanzibar-style authorization for agent-tool interactions ([agentic-authz](https://github.com/Siddhant-K-code/agentic-authz), [OpenFGA](https://github.com/openfga))
+3. **Adversarial Robustness & Observability** - Detecting and mitigating attacks on agent tool-use pipelines ([Sentinel AI](https://github.com/Siddhant-K-code/sentinel-ai), [LLMTraceFX](https://github.com/Siddhant-K-code/LLMTraceFX))
