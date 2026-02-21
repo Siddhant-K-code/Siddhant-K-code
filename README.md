@@ -150,3 +150,7 @@ Building at the intersection of LLM efficiency and agent security:
 1. **Context Efficiency & Reliability** - Deterministic algorithms for context deduplication and optimization ([Distill](https://github.com/Siddhant-K-code/distill), [ContextLab](https://github.com/Siddhant-K-code/contextlab), [TokenVM](https://github.com/Siddhant-K-code/tokenvm))
 2. **Agent Authorization & Audit Trails** - Google Zanzibar-style authorization for agent-tool interactions ([agentic-authz](https://github.com/Siddhant-K-code/agentic-authz), [OpenFGA](https://github.com/openfga))
 3. **Adversarial Robustness & Observability** - Detecting and mitigating attacks on agent tool-use pipelines ([Sentinel AI](https://github.com/Siddhant-K-code/sentinel-ai), [LLMTraceFX](https://github.com/Siddhant-K-code/LLMTraceFX))
+
+---
+
+**Available for** speaking engagements, advisory roles, and consulting on AI agent security and authorization. [Book a call](https://calendar.app.google/7YShGrJQ9K1EH2y39) · [Email](mailto:hello@siddhantkhare.com)
