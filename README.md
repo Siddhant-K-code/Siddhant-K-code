@@ -90,16 +90,15 @@
 - **[AI Agents Are a Security Nightmare (Here's the Fix)](https://www.youtube.com/@siddhantkhare1659)** — Agent authorization deep dive
 - **[Building a Medical AI Agent with Gemini 3 Pro](https://www.youtube.com/@siddhantkhare1659)** — End-to-end agent build
 
-### What People Say
+### Media Coverage
 
-> *"Siddhant is result-oriented like crazy, passionate like a co-founder, a humble team player."*
-> — **Michael Aring**, Head of EMEA at Ona (formerly Gitpod)
-
-> *"No one works faster or harder than Siddhant. He is one of the most thoughtful, passionate, and growth-minded people I've ever worked with."*
-> — **Talia Moyal**, PMM @ Lovable
-
-> *"He is fast becoming a force to reckon with."*
-> — **Laurie Malau**, Fractional Chief of Staff
+- **[Techmeme](http://www.techmeme.com/260208/p15)** — *"A software engineer explains 'AI fatigue', compounded by a FOMO treadmill of using AI labs' latest tools and 'thinking atrophy', alongside boosted productivity"*
+- **[Business Insider](https://www.businessinsider.com/ai-fatigue-burnout-software-engineer-essay-siddhant-khare-2026-2)** — *"'AI fatigue is real and nobody talks about it': A software engineer warns there's a mental cost to AI productivity gains"*
+- **[Hacker News](https://news.ycombinator.com/item?id=46934404)** — #1 on front page, 471+ points, 319+ comments
+- **[Computing UK](https://www.computing.co.uk/feature/2026/when-artificial-intelligence-makes-you-tired)** — *"AI fatigue: When artificial intelligence makes you tired"*
+- **[NewsBreak](https://www.newsbreak.com/morningoverview-358954986/4487947176601-ai-fatigue-is-real-engineer-warns-of-mental-toll-behind-ai-productivity-boom)** — *"'AI fatigue is real': engineer warns of mental toll behind AI productivity boom"*
+- **[Lobsters](https://lobste.rs/)** — Featured on front page
+- **[Kelsey Hightower](https://www.linkedin.com/in/kelseyhightower/)** (LinkedIn) — Shared and commented on the article
 
 ### Research Focus
 
