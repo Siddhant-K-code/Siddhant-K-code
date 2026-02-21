@@ -45,7 +45,7 @@
 
 - **Engineering @ [Ona](https://ona.com/)** - Building infrastructure for AI agents (formerly Gitpod).
 - **Open Source** - Maintaining OpenFGA, GitHub1s, and shipping agent infrastructure tools.
-- **Writing** - 40+ technical articles on AI infrastructure, security, and context engineering on [Dev.to](https://dev.to/siddhantkcode) and [Medium](https://medium.com/@siddhantkhare).
+- **Writing** - 40+ technical articles on AI infrastructure, security, and context engineering on [siddhantkhare.com/writing](https://siddhantkhare.com/writing).
 - **Speaking** - KubeCon India 2025: *Beyond Productivity: Scaling Cloud Dev Environments for Faster Feedback & Sustainable Engineering*. Available for conferences on AI agent security and authorization.
 - **Mentoring** - [Book a session on MentorCruise](https://mentorcruise.com/mentor/siddhantkhare/).
 
@@ -82,7 +82,7 @@
 - **KubeCon India 2025 Speaker** - *Beyond Productivity: Scaling Cloud Dev Environments*
 - **Former GitHub Intern**
 - **Maintainer** - [OpenFGA](https://github.com/openfga), [GitHub1s](https://github.com/conwnet/github1s), [Greenstand](https://github.com/Greenstand), [Indian Open Source Foundation](https://github.com/IndianOpenSourceFoundation)
-- **40+ technical articles** - Published on [Dev.to](https://dev.to/siddhantkcode) and [Medium](https://medium.com/@siddhantkhare), multiple posts with 100+ reactions
+- **40+ technical articles** - Published on [siddhantkhare.com/writing](https://siddhantkhare.com/writing), multiple posts with 100+ reactions
 - **Interviewed by [New York Times](https://www.nytimes.com/)** (Cade Metz) and **[NPR Here & Now](https://www.wbur.org/hereandnow)** on AI fatigue
 - **[Business Insider](https://www.businessinsider.com/ai-fatigue-burnout-software-engineer-essay-siddhant-khare-2026-2)** - Featured essay + [video segment](https://www.businessinsider.com/engineers-are-getting-ai-fatigue-and-you-could-be-next-2026-2)
 - **[Futurism](https://futurism.com/artificial-intelligence/ai-burnout-machine)** - *"AI Is a Burnout Machine"*
