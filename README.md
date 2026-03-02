@@ -96,6 +96,7 @@
 ## Latest Blog Posts
 
 <!--START_SECTION:feed-->
+* [Claude Code's broken permission model](https://siddhantkhare.com/writing/claude-code-permission-model-is-broken)
 * [You're tired because your AI has no feedback loop](https://siddhantkhare.com/writing/why-your-ai-agent-keeps-failing)
 * [AI fatigue is real and nobody talks about it](https://siddhantkhare.com/writing/ai-fatigue-is-real)
 * [Ona (formerly Gitpod) is re-launching its Open Source program](https://dev.to/siddhantkcode/ona-formerly-gitpod-is-re-launching-its-open-source-program-5d3c)
@@ -105,7 +106,6 @@
 * [Beyond finding: Remediating CVE-2025-55182 across hundreds of repositories with Ona Automations](https://dev.to/siddhantkcode/beyond-finding-remediating-cve-2025-55182-across-hundreds-of-repositories-with-ona-automations-1p3n)
 * [Securing Agentic AI: authorization patterns for autonomous systems](https://dev.to/siddhantkcode/securing-agentic-ai-authorization-patterns-for-autonomous-systems-3ajo)
 * [Context Engineering: The critical Infrastructure challenge in production LLM systems](https://dev.to/siddhantkcode/context-engineering-the-critical-infrastructure-challenge-in-production-llm-systems-4id0)
-* [AWS S3 Vectors at scale: Real performance numbers at 10 million Vectors](https://dev.to/siddhantkcode/aws-s3-vectors-at-scale-real-performance-numbers-at-10-million-vectors-2lno)
 <!--END_SECTION:feed-->
 
 ## Connect
