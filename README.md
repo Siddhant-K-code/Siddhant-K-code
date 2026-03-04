@@ -4,6 +4,12 @@
 
 > Building infrastructure for AI agents - context efficiency, least-privilege security, production-grade tooling.
 
+## 📖 The Agentic Engineering Guide
+
+I wrote a book: [**The Agentic Engineering Guide**](https://agents.siddhantkhare.com) — 10 parts, 33 chapters on the engineering decisions behind AI agent infrastructure. Context engineering, authorization, cost control, evaluation, adoption playbooks.
+
+Free to read online. [PDF & EPUB on Gumroad](https://siddhantkhar5.gumroad.com/l/agentic-engineering-guide). [Source on GitHub](https://github.com/Siddhant-K-code/agentic-engineering-guide).
+
 ## Current Projects
 
 ### Agent Infrastructure & Context Engineering
@@ -89,7 +95,7 @@
 
 - **Engineering @ [Ona](https://ona.com/)** - Building infrastructure for AI agents (formerly Gitpod).
 - **Open Source** - Maintaining OpenFGA, GitHub1s, and shipping agent infrastructure tools.
-- **Writing** - 40+ technical articles on AI infrastructure, security, and context engineering on [siddhantkhare.com/writing](https://siddhantkhare.com/writing).
+- **Writing** - [The Agentic Engineering Guide](https://agents.siddhantkhare.com) (book) + 40+ technical articles on AI infrastructure, security, and context engineering on [siddhantkhare.com/writing](https://siddhantkhare.com/writing).
 - **Speaking** - KubeCon India 2025: *Beyond Productivity: Scaling Cloud Dev Environments for Faster Feedback & Sustainable Engineering*. Available for conferences on AI agent security and authorization.
 - **Mentoring** - [Book a session on MentorCruise](https://mentorcruise.com/mentor/siddhantkhare/).
 
@@ -126,6 +132,7 @@
 - **KubeCon India 2025 Speaker** - *Beyond Productivity: Scaling Cloud Dev Environments*
 - **Former GitHub Intern**
 - **Maintainer** - [OpenFGA](https://github.com/openfga), [GitHub1s](https://github.com/conwnet/github1s), [Greenstand](https://github.com/Greenstand), [Indian Open Source Foundation](https://github.com/IndianOpenSourceFoundation)
+- **[The Agentic Engineering Guide](https://agents.siddhantkhare.com)** - 33-chapter open source book on AI agent infrastructure ([read online](https://agents.siddhantkhare.com) / [PDF & EPUB](https://siddhantkhar5.gumroad.com/l/agentic-engineering-guide))
 - **40+ technical articles** - Published on [siddhantkhare.com/writing](https://siddhantkhare.com/writing), multiple posts with 100+ reactions
 - **Interviewed by [New York Times](https://www.nytimes.com/)** (Cade Metz) and **[NPR Here & Now](https://www.wbur.org/hereandnow)** on AI fatigue
 - **[Business Insider](https://www.businessinsider.com/ai-fatigue-burnout-software-engineer-essay-siddhant-khare-2026-2)** - Featured essay + [video segment](https://www.businessinsider.com/engineers-are-getting-ai-fatigue-and-you-could-be-next-2026-2)
