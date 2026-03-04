@@ -6,7 +6,7 @@
 
 ## 📖 The Agentic Engineering Guide
 
-I wrote a book: [**The Agentic Engineering Guide**](https://agents.siddhantkhare.com) — 10 parts, 33 chapters on the engineering decisions behind AI agent infrastructure. Context engineering, authorization, cost control, evaluation, adoption playbooks.
+I wrote a book: [**The Agentic Engineering Guide**](https://agents.siddhantkhare.com) - 10 parts, 33 chapters on the engineering decisions behind AI agent infrastructure. Context engineering, authorization, cost control, evaluation, adoption playbooks.
 
 Free to read online. [PDF & EPUB on Gumroad](https://siddhantkhar5.gumroad.com/l/agentic-engineering-guide). [Source on GitHub](https://github.com/Siddhant-K-code/agentic-engineering-guide).
 
