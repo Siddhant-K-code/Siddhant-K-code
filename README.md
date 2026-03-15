@@ -13,8 +13,8 @@ Free to read online. [PDF & EPUB on Gumroad](https://siddhantkhar5.gumroad.com/l
 ## Current Projects
 
 ### Agent Infrastructure & Context Engineering
-- 🔍 **[agent-trace](https://github.com/Siddhant-K-code/agent-trace)** - strace for AI agents. Capture and replay every tool call, prompt, and response. OTLP export to Datadog, Honeycomb, New Relic, Splunk.
 - 🧬 **[Distill](https://github.com/Siddhant-K-code/distill)** - Deterministic context deduplication for LLMs. Clean context in ~12ms, zero LLM calls.
+- 🔍 **[agent-trace](https://github.com/Siddhant-K-code/agent-trace)** - `strace` for AI agents. Capture and replay every tool call, prompt, and response. OTLP export to Datadog, Honeycomb, New Relic, Splunk.
 - 🧪 **[ContextLab](https://github.com/Siddhant-K-code/ContextLab)** - Open-source LLM context engineering toolkit: analyze, compress, visualize.
 - 💾 **[TokenVM](https://github.com/Siddhant-K-code/tokenvm)** - High-performance runtime treating LLM KV cache as virtual memory with page-based eviction.
 - 📊 **[KV-Cache Profiler](https://github.com/Siddhant-K-code/kv-cache-profiler)** - Profile LLM GPU memory needs before deployment, not after.
