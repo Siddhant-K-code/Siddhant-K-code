@@ -14,6 +14,7 @@ Free to read online. [PDF & EPUB on Gumroad](https://siddhantkhar5.gumroad.com/l
 
 ### Agent Infrastructure & Context Engineering
 - 🧬 **[Distill](https://github.com/Siddhant-K-code/distill)** - Deterministic context deduplication for LLMs. Clean context in ~12ms, zero LLM calls.
+- 🔍 **[agent-trace](https://github.com/Siddhant-K-code/agent-trace)** - `strace` for AI agents. Capture and replay every tool call, prompt, and response. OTLP export to Datadog, Honeycomb, New Relic, Splunk.
 - 🧪 **[ContextLab](https://github.com/Siddhant-K-code/ContextLab)** - Open-source LLM context engineering toolkit: analyze, compress, visualize.
 - 💾 **[TokenVM](https://github.com/Siddhant-K-code/tokenvm)** - High-performance runtime treating LLM KV cache as virtual memory with page-based eviction.
 - 📊 **[KV-Cache Profiler](https://github.com/Siddhant-K-code/kv-cache-profiler)** - Profile LLM GPU memory needs before deployment, not after.
@@ -156,4 +157,4 @@ Free to read online. [PDF & EPUB on Gumroad](https://siddhantkhar5.gumroad.com/l
 Building at the intersection of LLM efficiency and agent security:
 1. **Context Efficiency & Reliability** - Deterministic algorithms for context deduplication and optimization ([Distill](https://github.com/Siddhant-K-code/distill), [ContextLab](https://github.com/Siddhant-K-code/contextlab), [TokenVM](https://github.com/Siddhant-K-code/tokenvm))
 2. **Agent Authorization & Audit Trails** - Google Zanzibar-style authorization for agent-tool interactions ([agentic-authz](https://github.com/Siddhant-K-code/agentic-authz), [OpenFGA](https://github.com/openfga))
-3. **Adversarial Robustness & Observability** - Detecting and mitigating attacks on agent tool-use pipelines ([Sentinel AI](https://github.com/Siddhant-K-code/sentinel-ai), [LLMTraceFX](https://github.com/Siddhant-K-code/LLMTraceFX))
+3. **Adversarial Robustness & Observability** - Detecting and mitigating attacks on agent tool-use pipelines ([Sentinel AI](https://github.com/Siddhant-K-code/sentinel-ai), [agent-trace](https://github.com/Siddhant-K-code/agent-trace), [LLMTraceFX](https://github.com/Siddhant-K-code/LLMTraceFX))
