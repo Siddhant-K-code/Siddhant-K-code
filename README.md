@@ -103,6 +103,7 @@ Free to read online. [PDF & EPUB on Gumroad](https://siddhantkhar5.gumroad.com/l
 ## Latest Blog Posts
 
 <!--START_SECTION:feed-->
+* [The ambition tax](https://siddhantkhare.com/writing/ambition-tax)
 * [The agent observability gap](https://siddhantkhare.com/writing/agent-observability-gap)
 * [Claude Code's broken permission model](https://siddhantkhare.com/writing/claude-code-permission-model-is-broken)
 * [You're tired because your AI has no feedback loop](https://siddhantkhare.com/writing/why-your-ai-agent-keeps-failing)
@@ -112,7 +113,6 @@ Free to read online. [PDF & EPUB on Gumroad](https://siddhantkhar5.gumroad.com/l
 * [2025 was the year everything changed](https://siddhantkhare.com/writing/2025-year-in-review)
 * [The Engineering guide to Context window efficiency](https://dev.to/siddhantkcode/the-engineering-guide-to-context-window-efficiency-202b)
 * [Beyond finding: Remediating CVE-2025-55182 across hundreds of repositories with Ona Automations](https://dev.to/siddhantkcode/beyond-finding-remediating-cve-2025-55182-across-hundreds-of-repositories-with-ona-automations-1p3n)
-* [Securing Agentic AI: authorization patterns for autonomous systems](https://dev.to/siddhantkcode/securing-agentic-ai-authorization-patterns-for-autonomous-systems-3ajo)
 <!--END_SECTION:feed-->
 
 ## Connect
