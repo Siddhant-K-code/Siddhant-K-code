@@ -103,6 +103,7 @@ Free to read online. [PDF & EPUB on Gumroad](https://siddhantkhar5.gumroad.com/l
 ## Latest Blog Posts
 
 <!--START_SECTION:feed-->
+* [The plumbing behind Claude Code](https://siddhantkhare.com/writing/the-plumbing-behind-claude-code)
 * [AI Agent stack you need Context, Auth, and Cognitive Debt](https://dev.to/siddhantkcode/ai-agent-stack-you-need-context-auth-and-cognitive-debt-3l03)
 * [The ambition tax](https://siddhantkhare.com/writing/ambition-tax)
 * [The agent observability gap](https://siddhantkhare.com/writing/agent-observability-gap)
@@ -112,7 +113,6 @@ Free to read online. [PDF & EPUB on Gumroad](https://siddhantkhar5.gumroad.com/l
 * [Ona (formerly Gitpod) is re-launching its Open Source program](https://dev.to/siddhantkcode/ona-formerly-gitpod-is-re-launching-its-open-source-program-5d3c)
 * [Containers aren’t a sandbox for AI agents](https://dev.to/siddhantkcode/containers-arent-a-sandbox-for-ai-agents-215o)
 * [2025 was the year everything changed](https://siddhantkhare.com/writing/2025-year-in-review)
-* [The Engineering guide to Context window efficiency](https://dev.to/siddhantkcode/the-engineering-guide-to-context-window-efficiency-202b)
 <!--END_SECTION:feed-->
 
 ## Connect
