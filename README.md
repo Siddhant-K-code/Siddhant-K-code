@@ -103,6 +103,7 @@ Free to read online. [PDF & EPUB on Gumroad](https://siddhantkhar5.gumroad.com/l
 ## Latest Blog Posts
 
 <!--START_SECTION:feed-->
+* [Why you stop caring mid-review](https://siddhantkhare.com/writing/why-you-stop-caring-mid-review)
 * [Tracing what agents do, not what they say](https://siddhantkhare.com/writing/tracing-what-agents-do)
 * [The plumbing behind Claude Code](https://siddhantkhare.com/writing/the-plumbing-behind-claude-code)
 * [AI Agent stack you need Context, Auth, and Cognitive Debt](https://dev.to/siddhantkcode/ai-agent-stack-you-need-context-auth-and-cognitive-debt-3l03)
@@ -112,7 +113,6 @@ Free to read online. [PDF & EPUB on Gumroad](https://siddhantkhar5.gumroad.com/l
 * [You're tired because your AI has no feedback loop](https://siddhantkhare.com/writing/why-your-ai-agent-keeps-failing)
 * [AI fatigue is real and nobody talks about it](https://siddhantkhare.com/writing/ai-fatigue-is-real)
 * [Ona (formerly Gitpod) is re-launching its Open Source program](https://dev.to/siddhantkcode/ona-formerly-gitpod-is-re-launching-its-open-source-program-5d3c)
-* [Containers aren’t a sandbox for AI agents](https://dev.to/siddhantkcode/containers-arent-a-sandbox-for-ai-agents-215o)
 <!--END_SECTION:feed-->
 
 ## Connect
