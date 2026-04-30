@@ -103,6 +103,8 @@ Free to read online. [PDF & EPUB on Gumroad](https://siddhantkhar5.gumroad.com/l
 ## Latest Blog Posts
 
 <!--START_SECTION:feed-->
+* [I built an AI agent that orders food for your entire team](https://siddhantkhare.com/writing/swiggy-party-agent)
+* [Attackers are now targeting your AI coding tool](https://siddhantkhare.com/writing/attackers-targeting-ai-coding-tools)
 * [The Vercel breach started at a tool nobody was watching](https://siddhantkhare.com/writing/vercel-breach-oauth-blast-radius)
 * [Why you stop caring mid-review](https://siddhantkhare.com/writing/why-you-stop-caring-mid-review)
 * [Tracing what agents do, not what they say](https://siddhantkhare.com/writing/tracing-what-agents-do)
@@ -111,8 +113,6 @@ Free to read online. [PDF & EPUB on Gumroad](https://siddhantkhar5.gumroad.com/l
 * [The ambition tax](https://siddhantkhare.com/writing/ambition-tax)
 * [The agent observability gap](https://siddhantkhare.com/writing/agent-observability-gap)
 * [Claude Code's broken permission model](https://siddhantkhare.com/writing/claude-code-permission-model-is-broken)
-* [You're tired because your AI has no feedback loop](https://siddhantkhare.com/writing/why-your-ai-agent-keeps-failing)
-* [AI fatigue is real and nobody talks about it](https://siddhantkhare.com/writing/ai-fatigue-is-real)
 <!--END_SECTION:feed-->
 
 ## Connect
