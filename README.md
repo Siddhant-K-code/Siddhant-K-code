@@ -103,6 +103,7 @@ Free to read online. [PDF & EPUB on Gumroad](https://siddhantkhar5.gumroad.com/l
 ## Latest Blog Posts
 
 <!--START_SECTION:feed-->
+* [Bangalore is not an upgrade](https://siddhantkhare.com/writing/bangalore-is-not-an-upgrade)
 * [I built an AI agent that orders food for your entire team](https://siddhantkhare.com/writing/swiggy-party-agent)
 * [Attackers are now targeting your AI coding tool](https://siddhantkhare.com/writing/attackers-targeting-ai-coding-tools)
 * [The Vercel breach started at a tool nobody was watching](https://siddhantkhare.com/writing/vercel-breach-oauth-blast-radius)
@@ -112,7 +113,6 @@ Free to read online. [PDF & EPUB on Gumroad](https://siddhantkhar5.gumroad.com/l
 * [AI Agent stack you need Context, Auth, and Cognitive Debt](https://dev.to/siddhantkcode/ai-agent-stack-you-need-context-auth-and-cognitive-debt-3l03)
 * [The ambition tax](https://siddhantkhare.com/writing/ambition-tax)
 * [The agent observability gap](https://siddhantkhare.com/writing/agent-observability-gap)
-* [Claude Code's broken permission model](https://siddhantkhare.com/writing/claude-code-permission-model-is-broken)
 <!--END_SECTION:feed-->
 
 ## Connect
