@@ -103,6 +103,7 @@ Free to read online. [PDF & EPUB on Gumroad](https://siddhantkhar5.gumroad.com/l
 ## Latest Blog Posts
 
 <!--START_SECTION:feed-->
+* [What's next for agent-trace](https://siddhantkhare.com/writing/agent-trace-whats-next)
 * [Bangalore is not an upgrade](https://siddhantkhare.com/writing/bangalore-is-not-an-upgrade)
 * [I built an AI agent that orders food for your entire team](https://siddhantkhare.com/writing/swiggy-party-agent)
 * [Attackers are now targeting your AI coding tool](https://siddhantkhare.com/writing/attackers-targeting-ai-coding-tools)
@@ -112,7 +113,6 @@ Free to read online. [PDF & EPUB on Gumroad](https://siddhantkhar5.gumroad.com/l
 * [The plumbing behind Claude Code](https://siddhantkhare.com/writing/the-plumbing-behind-claude-code)
 * [AI Agent stack you need Context, Auth, and Cognitive Debt](https://dev.to/siddhantkcode/ai-agent-stack-you-need-context-auth-and-cognitive-debt-3l03)
 * [The ambition tax](https://siddhantkhare.com/writing/ambition-tax)
-* [The agent observability gap](https://siddhantkhare.com/writing/agent-observability-gap)
 <!--END_SECTION:feed-->
 
 ## Connect
