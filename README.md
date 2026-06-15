@@ -103,6 +103,7 @@ Free to read online. [PDF & EPUB on Gumroad](https://siddhantkhar5.gumroad.com/l
 ## Latest Blog Posts
 
 <!--START_SECTION:feed-->
+* [My first company is joining OpenAI. I started there at 19.](https://siddhantkhare.com/writing/from-internship-to-ona-joining-openai)
 * [Build your own AI experimentation stack](https://siddhantkhare.com/writing/ai-experimentation-stack)
 * [What's next for agent-trace](https://siddhantkhare.com/writing/agent-trace-whats-next)
 * [Bangalore is not an upgrade](https://siddhantkhare.com/writing/bangalore-is-not-an-upgrade)
@@ -112,7 +113,6 @@ Free to read online. [PDF & EPUB on Gumroad](https://siddhantkhar5.gumroad.com/l
 * [Why you stop caring mid-review](https://siddhantkhare.com/writing/why-you-stop-caring-mid-review)
 * [Tracing what agents do, not what they say](https://siddhantkhare.com/writing/tracing-what-agents-do)
 * [The plumbing behind Claude Code](https://siddhantkhare.com/writing/the-plumbing-behind-claude-code)
-* [AI Agent stack you need Context, Auth, and Cognitive Debt](https://dev.to/siddhantkcode/ai-agent-stack-you-need-context-auth-and-cognitive-debt-3l03)
 <!--END_SECTION:feed-->
 
 ## Connect
