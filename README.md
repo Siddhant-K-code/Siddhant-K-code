@@ -21,6 +21,7 @@ Free to read online. [PDF & EPUB on Gumroad](https://siddhantkhar5.gumroad.com/l
 - 🔬 **[LLMTraceFX](https://github.com/Siddhant-K-code/LLMTraceFX)** - GPU-level LLM inference profiler with kernel timing and AI-powered bottleneck detection.
 - 🤖 **[Agentflow](https://github.com/Siddhant-K-code/agentflow)** - Kubernetes for AI agents - orchestration runtime, prompt ops, security layer, observability, and cost-aware scheduling.
 - 🌐 **[AI Agent Orchestrator](https://github.com/Siddhant-K-code/ai-agent-orchestrator)** - Multi-agent AI system on Cloudflare Workers + Containers.
+- 🚨 **[OnCall Agent](https://github.com/Siddhant-K-code/oncall-agent)** - AI-powered on-call triage agent. Pulls alerts, checks deploys, maps dependencies, reads runbooks, and ranks hypotheses by confidence. Built on OpenAI Agents SDK.
 - 🔢 **[LLM Parallelism Explorer](https://github.com/Siddhant-K-code/llm-parallelism-explorer-poc)** - Research tool for optimizing parallelism strategies in LLMs (MoE focus).
 - 💰 **[CloudArb](https://github.com/Siddhant-K-code/CloudArb)** - GPU arbitrage platform for AI compute optimization.
 
@@ -51,6 +52,9 @@ Free to read online. [PDF & EPUB on Gumroad](https://siddhantkhar5.gumroad.com/l
 - 📜 **[Patent Summarizer](https://github.com/Siddhant-K-code/patent-summarizer)** - Patent summarization using OpenAI.
 
 ### Applications
+- 🍔 **[Swiggy Party Agent](https://github.com/Siddhant-K-code/swiggy-party-agent)** - AI agent that orders food for your entire team.
+- 👁️ **[Gemma Vision](https://github.com/Siddhant-K-code/gemma-vision)** - Local image intelligence CLI powered by gemma4:12b via Ollama.
+- 🎬 **[Lipsync Check](https://github.com/Siddhant-K-code/lipsync-check)** - Detects audio-visual desync in video files using Gemma 4 via Ollama.
 - 🎵 **[Song Vector Explorer](https://github.com/Siddhant-K-code/song-vector-explorer)** - Explore song lyrics as interactive 3D vector spaces.
 - 🗺️ **[SageMap](https://github.com/Siddhant-K-code/SageMap)** - Interactive tool to map and evolve personal beliefs.
 - 🏥 **[Radiology Copilot](https://github.com/Siddhant-K-code/radiology-copilot)** - Gemini-powered multimodal radiology assistant.
