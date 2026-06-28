@@ -107,6 +107,7 @@ Free to read online. [PDF & EPUB on Gumroad](https://siddhantkhar5.gumroad.com/l
 ## Latest Blog Posts
 
 <!--START_SECTION:feed-->
+* [Your agent should not inherit your admin token](https://siddhantkhare.com/writing/your-agent-should-not-inherit-your-admin-token)
 * [My first company is joining OpenAI. I started there at 19.](https://siddhantkhare.com/writing/from-internship-to-ona-joining-openai)
 * [Build your own AI experimentation stack](https://siddhantkhare.com/writing/ai-experimentation-stack)
 * [What's next for agent-trace](https://siddhantkhare.com/writing/agent-trace-whats-next)
@@ -116,7 +117,6 @@ Free to read online. [PDF & EPUB on Gumroad](https://siddhantkhar5.gumroad.com/l
 * [The Vercel breach started at a tool nobody was watching](https://siddhantkhare.com/writing/vercel-breach-oauth-blast-radius)
 * [Why you stop caring mid-review](https://siddhantkhare.com/writing/why-you-stop-caring-mid-review)
 * [Tracing what agents do, not what they say](https://siddhantkhare.com/writing/tracing-what-agents-do)
-* [The plumbing behind Claude Code](https://siddhantkhare.com/writing/the-plumbing-behind-claude-code)
 <!--END_SECTION:feed-->
 
 ## Connect
