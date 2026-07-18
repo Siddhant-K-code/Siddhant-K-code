@@ -107,6 +107,7 @@ Free to read online. [PDF & EPUB on Gumroad](https://siddhantkhar5.gumroad.com/l
 ## Latest Blog Posts
 
 <!--START_SECTION:feed-->
+* [Retry is not a loop, its a data structure](https://siddhantkhare.com/writing/retry-is-not-a-loop)
 * [Your agent should not inherit your admin token](https://siddhantkhare.com/writing/your-agent-should-not-inherit-your-admin-token)
 * [My first company is joining OpenAI. I started there at 19.](https://siddhantkhare.com/writing/from-internship-to-ona-joining-openai)
 * [Build your own AI experimentation stack](https://siddhantkhare.com/writing/ai-experimentation-stack)
@@ -116,7 +117,6 @@ Free to read online. [PDF & EPUB on Gumroad](https://siddhantkhar5.gumroad.com/l
 * [Attackers are now targeting your AI coding tool](https://siddhantkhare.com/writing/attackers-targeting-ai-coding-tools)
 * [The Vercel breach started at a tool nobody was watching](https://siddhantkhare.com/writing/vercel-breach-oauth-blast-radius)
 * [Why you stop caring mid-review](https://siddhantkhare.com/writing/why-you-stop-caring-mid-review)
-* [Tracing what agents do, not what they say](https://siddhantkhare.com/writing/tracing-what-agents-do)
 <!--END_SECTION:feed-->
 
 ## Connect
