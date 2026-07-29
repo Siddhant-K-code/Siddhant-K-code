@@ -107,6 +107,7 @@ Free to read online. [PDF & EPUB on Gumroad](https://siddhantkhar5.gumroad.com/l
 ## Latest Blog Posts
 
 <!--START_SECTION:feed-->
+* [The review queue is the bottleneck](https://siddhantkhare.com/writing/the-review-queue-is-the-bottleneck)
 * [Retry is not a loop, its a data structure](https://siddhantkhare.com/writing/retry-is-not-a-loop)
 * [Your agent should not inherit your admin token](https://siddhantkhare.com/writing/your-agent-should-not-inherit-your-admin-token)
 * [My first company is joining OpenAI. I started there at 19.](https://siddhantkhare.com/writing/from-internship-to-ona-joining-openai)
@@ -116,7 +117,6 @@ Free to read online. [PDF & EPUB on Gumroad](https://siddhantkhar5.gumroad.com/l
 * [I built an AI agent that orders food for your entire team](https://siddhantkhare.com/writing/swiggy-party-agent)
 * [Attackers are now targeting your AI coding tool](https://siddhantkhare.com/writing/attackers-targeting-ai-coding-tools)
 * [The Vercel breach started at a tool nobody was watching](https://siddhantkhare.com/writing/vercel-breach-oauth-blast-radius)
-* [Why you stop caring mid-review](https://siddhantkhare.com/writing/why-you-stop-caring-mid-review)
 <!--END_SECTION:feed-->
 
 ## Connect
