@@ -1,6 +1,6 @@
 # Hi, I'm Siddhant Khare 👋
 
-📍 **India** | **Software Engineer at [Okta](https://openfga.dev/)** | 🛠️ **Former [Ona/Gitpod](https://ona.com/) engineer ([acquired by OpenAI](https://siddhantkhare.com/writing/from-internship-to-ona-joining-openai))** | 🔐 **[OpenFGA](https://openfga.dev) Core Maintainer** | 🎤 **International Speaker** | [**siddhantkhare.com**](https://siddhantkhare.com/)
+📍 **India** | **Senior Software Engineer at [Okta](https://openfga.dev/)** | 🛠️ **Former [Ona/Gitpod](https://ona.com/) engineer ([acquired by OpenAI](https://siddhantkhare.com/writing/from-internship-to-ona-joining-openai))** | 🔐 **[OpenFGA](https://openfga.dev) Core Maintainer** | 🎤 **International Speaker** | [**siddhantkhare.com**](https://siddhantkhare.com/)
 
 > Building infrastructure for AI agents - context efficiency, least-privilege security, production-grade tooling.
 
