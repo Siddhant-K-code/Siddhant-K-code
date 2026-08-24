@@ -107,6 +107,7 @@ Free to read online. [PDF & EPUB on Gumroad](https://siddhantkhar5.gumroad.com/l
 ## Latest Blog Posts
 
 <!--START_SECTION:feed-->
+* [A trace is not evidence if you don't know what it missed](https://siddhantkhare.com/writing/a-trace-is-not-evidence-if-you-dont-know-what-it-missed)
 * [Building an Internal Platform for AI Agents](https://siddhantkhare.com/writing/building-an-internal-platform-for-ai-agents)
 * [The review queue is the bottleneck](https://siddhantkhare.com/writing/the-review-queue-is-the-bottleneck)
 * [Retry is not a loop, its a data structure](https://siddhantkhare.com/writing/retry-is-not-a-loop)
@@ -116,7 +117,6 @@ Free to read online. [PDF & EPUB on Gumroad](https://siddhantkhar5.gumroad.com/l
 * [What's next for agent-trace](https://siddhantkhare.com/writing/agent-trace-whats-next)
 * [Bangalore is not an upgrade](https://siddhantkhare.com/writing/bangalore-is-not-an-upgrade)
 * [I built an AI agent that orders food for your entire team](https://siddhantkhare.com/writing/swiggy-party-agent)
-* [Attackers are now targeting your AI coding tool](https://siddhantkhare.com/writing/attackers-targeting-ai-coding-tools)
 <!--END_SECTION:feed-->
 
 ## Connect
