@@ -107,6 +107,8 @@ Free to read online. [PDF & EPUB on Gumroad](https://siddhantkhar5.gumroad.com/l
 ## Latest Blog Posts
 
 <!--START_SECTION:feed-->
+* [A Metal trace is not your workload until you attribute it by process](https://siddhantkhare.com/writing/apple-gpu-trace-attribution)
+* [Your LLM's time to first token might be measuring your HTTP client](https://siddhantkhare.com/writing/ttft-http-client)
 * [A trace is not evidence if you don't know what it missed](https://siddhantkhare.com/writing/a-trace-is-not-evidence-if-you-dont-know-what-it-missed)
 * [Building an Internal Platform for AI Agents](https://siddhantkhare.com/writing/building-an-internal-platform-for-ai-agents)
 * [The review queue is the bottleneck](https://siddhantkhare.com/writing/the-review-queue-is-the-bottleneck)
@@ -115,8 +117,6 @@ Free to read online. [PDF & EPUB on Gumroad](https://siddhantkhar5.gumroad.com/l
 * [My first company is joining OpenAI. I started there at 19.](https://siddhantkhare.com/writing/from-internship-to-ona-joining-openai)
 * [Build your own AI experimentation stack](https://siddhantkhare.com/writing/ai-experimentation-stack)
 * [What's next for agent-trace](https://siddhantkhare.com/writing/agent-trace-whats-next)
-* [Bangalore is not an upgrade](https://siddhantkhare.com/writing/bangalore-is-not-an-upgrade)
-* [I built an AI agent that orders food for your entire team](https://siddhantkhare.com/writing/swiggy-party-agent)
 <!--END_SECTION:feed-->
 
 ## Connect
