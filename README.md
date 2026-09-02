@@ -107,6 +107,7 @@ Free to read online. [PDF & EPUB on Gumroad](https://siddhantkhar5.gumroad.com/l
 ## Latest Blog Posts
 
 <!--START_SECTION:feed-->
+* [The weights fit. The inference workload didn't.](https://siddhantkhare.com/writing/llm-unified-memory-oom)
 * [A Metal trace is not your workload until you attribute it by process](https://siddhantkhare.com/writing/apple-gpu-trace-attribution)
 * [Your LLM's time to first token might be measuring your HTTP client](https://siddhantkhare.com/writing/ttft-http-client)
 * [A trace is not evidence if you don't know what it missed](https://siddhantkhare.com/writing/a-trace-is-not-evidence-if-you-dont-know-what-it-missed)
@@ -116,7 +117,6 @@ Free to read online. [PDF & EPUB on Gumroad](https://siddhantkhar5.gumroad.com/l
 * [Your agent should not inherit your admin token](https://siddhantkhare.com/writing/your-agent-should-not-inherit-your-admin-token)
 * [My first company is joining OpenAI. I started there at 19.](https://siddhantkhare.com/writing/from-internship-to-ona-joining-openai)
 * [Build your own AI experimentation stack](https://siddhantkhare.com/writing/ai-experimentation-stack)
-* [What's next for agent-trace](https://siddhantkhare.com/writing/agent-trace-whats-next)
 <!--END_SECTION:feed-->
 
 ## Connect
