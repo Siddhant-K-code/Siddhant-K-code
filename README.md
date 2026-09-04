@@ -107,6 +107,7 @@ Free to read online. [PDF & EPUB on Gumroad](https://siddhantkhar5.gumroad.com/l
 ## Latest Blog Posts
 
 <!--START_SECTION:feed-->
+* [A benchmark result without lineage is just a screenshot](https://siddhantkhare.com/writing/benchmark-evidence-lineage)
 * [The fastest passing system was not the cheapest one](https://siddhantkhare.com/writing/glm-latency-cost-tradeoff)
 * [Parsing 7,585 XML references to count 400 Metal dispatches](https://siddhantkhare.com/writing/xctrace-xml-references)
 * [The weights fit. The inference workload didn't.](https://siddhantkhare.com/writing/llm-unified-memory-oom)
@@ -116,7 +117,6 @@ Free to read online. [PDF & EPUB on Gumroad](https://siddhantkhar5.gumroad.com/l
 * [Building an Internal Platform for AI Agents](https://siddhantkhare.com/writing/building-an-internal-platform-for-ai-agents)
 * [The review queue is the bottleneck](https://siddhantkhare.com/writing/the-review-queue-is-the-bottleneck)
 * [Retry is not a loop, its a data structure](https://siddhantkhare.com/writing/retry-is-not-a-loop)
-* [Your agent should not inherit your admin token](https://siddhantkhare.com/writing/your-agent-should-not-inherit-your-admin-token)
 <!--END_SECTION:feed-->
 
 ## Connect
