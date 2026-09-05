@@ -107,6 +107,7 @@ Free to read online. [PDF & EPUB on Gumroad](https://siddhantkhar5.gumroad.com/l
 ## Latest Blog Posts
 
 <!--START_SECTION:feed-->
+* [The compiled run had a lower request-latency sum. I still could not claim break-even.](https://siddhantkhare.com/writing/vllm-compilation-break-even)
 * [A benchmark result without lineage is just a screenshot](https://siddhantkhare.com/writing/benchmark-evidence-lineage)
 * [The fastest passing system was not the cheapest one](https://siddhantkhare.com/writing/glm-latency-cost-tradeoff)
 * [Parsing 7,585 XML references to count 400 Metal dispatches](https://siddhantkhare.com/writing/xctrace-xml-references)
@@ -116,7 +117,6 @@ Free to read online. [PDF & EPUB on Gumroad](https://siddhantkhar5.gumroad.com/l
 * [A trace is not evidence if you don't know what it missed](https://siddhantkhare.com/writing/a-trace-is-not-evidence-if-you-dont-know-what-it-missed)
 * [Building an Internal Platform for AI Agents](https://siddhantkhare.com/writing/building-an-internal-platform-for-ai-agents)
 * [The review queue is the bottleneck](https://siddhantkhare.com/writing/the-review-queue-is-the-bottleneck)
-* [Retry is not a loop, its a data structure](https://siddhantkhare.com/writing/retry-is-not-a-loop)
 <!--END_SECTION:feed-->
 
 ## Connect
