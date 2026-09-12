@@ -10,6 +10,18 @@ I wrote a book: [**The Agentic Engineering Guide**](https://agents.siddhantkhare
 
 Free to read online. [PDF & EPUB on Gumroad](https://siddhantkhar5.gumroad.com/l/agentic-engineering-guide). [Source on GitHub](https://github.com/Siddhant-K-code/agentic-engineering-guide).
 
+## Published research
+
+#### [Understanding GPU-Level Bottlenecks in Large Language Model Inference](https://doi.org/10.1007/978-3-032-27448-9_18)
+
+Peer-reviewed conference paper · Springer · ICDEC 2025 proceedings · Published August 2026
+
+My first published research paper, based on [LLMTraceFX](https://github.com/Siddhant-K-code/LLMTraceFX), the open-source GPU inference profiler I built.
+
+I developed the concept and methodology, conducted and validated the study, and wrote the original draft.
+
+**Authors:** Shubhanshu Kushwaha, Mamata Samal, Siddhant Khare.
+
 ## Current Projects
 
 ### Agent Infrastructure & Context Engineering
