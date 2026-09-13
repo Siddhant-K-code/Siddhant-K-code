@@ -119,6 +119,7 @@ I developed the concept and methodology, conducted and validated the study, and 
 ## Latest Blog Posts
 
 <!--START_SECTION:feed-->
+* [A cache hit is not proof that you skipped the work](https://siddhantkhare.com/writing/kv-cache-truth-auditor)
 * [The compiled run had a lower request-latency sum. I still could not claim break-even.](https://siddhantkhare.com/writing/vllm-compilation-break-even)
 * [A benchmark result without lineage is just a screenshot](https://siddhantkhare.com/writing/benchmark-evidence-lineage)
 * [The fastest passing system was not the cheapest one](https://siddhantkhare.com/writing/glm-latency-cost-tradeoff)
@@ -128,7 +129,6 @@ I developed the concept and methodology, conducted and validated the study, and 
 * [Your LLM's time to first token might be measuring your HTTP client](https://siddhantkhare.com/writing/ttft-http-client)
 * [A trace is not evidence if you don't know what it missed](https://siddhantkhare.com/writing/a-trace-is-not-evidence-if-you-dont-know-what-it-missed)
 * [Building an Internal Platform for AI Agents](https://siddhantkhare.com/writing/building-an-internal-platform-for-ai-agents)
-* [The review queue is the bottleneck](https://siddhantkhare.com/writing/the-review-queue-is-the-bottleneck)
 <!--END_SECTION:feed-->
 
 ## Connect
