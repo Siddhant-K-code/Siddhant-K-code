@@ -119,6 +119,7 @@ I developed the concept and methodology, conducted and validated the study, and 
 ## Latest Blog Posts
 
 <!--START_SECTION:feed-->
+* [Reliability is not safety: Compiled context raised observed correctness and unsafe acceptance](https://siddhantkhare.com/writing/reliability-is-not-safety)
 * [Context should be a build artifact, not a prompt assembled at runtime.](https://siddhantkhare.com/writing/context-is-a-build-artifact)
 * [A cache hit is not proof that you skipped the work](https://siddhantkhare.com/writing/kv-cache-truth-auditor)
 * [The compiled run had a lower request-latency sum. I still could not claim break-even.](https://siddhantkhare.com/writing/vllm-compilation-break-even)
@@ -128,7 +129,6 @@ I developed the concept and methodology, conducted and validated the study, and 
 * [The weights fit. The inference workload didn't.](https://siddhantkhare.com/writing/llm-unified-memory-oom)
 * [A Metal trace is not your workload until you attribute it by process](https://siddhantkhare.com/writing/apple-gpu-trace-attribution)
 * [Your LLM's time to first token might be measuring your HTTP client](https://siddhantkhare.com/writing/ttft-http-client)
-* [A trace is not evidence if you don't know what it missed](https://siddhantkhare.com/writing/a-trace-is-not-evidence-if-you-dont-know-what-it-missed)
 <!--END_SECTION:feed-->
 
 ## Connect
