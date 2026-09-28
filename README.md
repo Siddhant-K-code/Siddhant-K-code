@@ -119,6 +119,7 @@ I developed the concept and methodology, conducted and validated the study, and 
 ## Latest Blog Posts
 
 <!--START_SECTION:feed-->
+* [Before GPU inference, prove the inputs](https://siddhantkhare.com/writing/gpu-inference-admission-gate)
 * [Reliability is not safety: Compiled context raised observed correctness and unsafe acceptance](https://siddhantkhare.com/writing/reliability-is-not-safety)
 * [Context should be a build artifact, not a prompt assembled at runtime.](https://siddhantkhare.com/writing/context-is-a-build-artifact)
 * [A cache hit is not proof that you skipped the work](https://siddhantkhare.com/writing/kv-cache-truth-auditor)
@@ -128,7 +129,6 @@ I developed the concept and methodology, conducted and validated the study, and 
 * [Parsing 7,585 XML references to count 400 Metal dispatches](https://siddhantkhare.com/writing/xctrace-xml-references)
 * [The weights fit. The inference workload didn't.](https://siddhantkhare.com/writing/llm-unified-memory-oom)
 * [A Metal trace is not your workload until you attribute it by process](https://siddhantkhare.com/writing/apple-gpu-trace-attribution)
-* [Your LLM's time to first token might be measuring your HTTP client](https://siddhantkhare.com/writing/ttft-http-client)
 <!--END_SECTION:feed-->
 
 ## Connect
