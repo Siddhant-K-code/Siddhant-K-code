@@ -119,6 +119,8 @@ I developed the concept and methodology, conducted and validated the study, and 
 ## Latest Blog Posts
 
 <!--START_SECTION:feed-->
+* [Repeatable output is not verified evidence](https://siddhantkhare.com/writing/repeatable-output-is-not-verified-evidence)
+* [Inspect the context before a security agent runs](https://siddhantkhare.com/writing/security-agent-frozen-evidence)
 * [The coordinates matched. The tensors did not.](https://siddhantkhare.com/writing/same-coordinates-different-tensors)
 * [Stop making the model write hashes](https://siddhantkhare.com/writing/stop-making-the-model-write-hashes)
 * [Before GPU inference, prove the inputs](https://siddhantkhare.com/writing/gpu-inference-admission-gate)
@@ -127,8 +129,6 @@ I developed the concept and methodology, conducted and validated the study, and 
 * [A cache hit is not proof that you skipped the work](https://siddhantkhare.com/writing/kv-cache-truth-auditor)
 * [The compiled run had a lower request-latency sum. I still could not claim break-even.](https://siddhantkhare.com/writing/vllm-compilation-break-even)
 * [A benchmark result without lineage is just a screenshot](https://siddhantkhare.com/writing/benchmark-evidence-lineage)
-* [The fastest passing system was not the cheapest one](https://siddhantkhare.com/writing/glm-latency-cost-tradeoff)
-* [Parsing 7,585 XML references to count 400 Metal dispatches](https://siddhantkhare.com/writing/xctrace-xml-references)
 <!--END_SECTION:feed-->
 
 ## Connect
