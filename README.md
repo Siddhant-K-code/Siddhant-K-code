@@ -119,6 +119,7 @@ I developed the concept and methodology, conducted and validated the study, and 
 ## Latest Blog Posts
 
 <!--START_SECTION:feed-->
+* [A clever memory pattern in Copilot’s harness](https://siddhantkhare.com/writing/why-my-coding-agent-runs-insert-statements)
 * [Repeatable output is not verified evidence](https://siddhantkhare.com/writing/repeatable-output-is-not-verified-evidence)
 * [Inspect the context before a security agent runs](https://siddhantkhare.com/writing/security-agent-frozen-evidence)
 * [The coordinates matched. The tensors did not.](https://siddhantkhare.com/writing/same-coordinates-different-tensors)
@@ -128,7 +129,6 @@ I developed the concept and methodology, conducted and validated the study, and 
 * [Context should be a build artifact, not a prompt assembled at runtime.](https://siddhantkhare.com/writing/context-is-a-build-artifact)
 * [A cache hit is not proof that you skipped the work](https://siddhantkhare.com/writing/kv-cache-truth-auditor)
 * [The compiled run had a lower request-latency sum. I still could not claim break-even.](https://siddhantkhare.com/writing/vllm-compilation-break-even)
-* [A benchmark result without lineage is just a screenshot](https://siddhantkhare.com/writing/benchmark-evidence-lineage)
 <!--END_SECTION:feed-->
 
 ## Connect
