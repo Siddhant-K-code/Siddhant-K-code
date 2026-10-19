@@ -119,6 +119,7 @@ I developed the concept and methodology, conducted and validated the study, and 
 ## Latest Blog Posts
 
 <!--START_SECTION:feed-->
+* [Your coding agent loses its cache while it waits for you](https://siddhantkhare.com/writing/agentic-inference-field-guide)
 * [A clever memory pattern in Copilot’s harness](https://siddhantkhare.com/writing/why-my-coding-agent-runs-insert-statements)
 * [Repeatable output is not verified evidence](https://siddhantkhare.com/writing/repeatable-output-is-not-verified-evidence)
 * [Inspect the context before a security agent runs](https://siddhantkhare.com/writing/security-agent-frozen-evidence)
@@ -128,7 +129,6 @@ I developed the concept and methodology, conducted and validated the study, and 
 * [Reliability is not safety: Compiled context raised observed correctness and unsafe acceptance](https://siddhantkhare.com/writing/reliability-is-not-safety)
 * [Context should be a build artifact, not a prompt assembled at runtime.](https://siddhantkhare.com/writing/context-is-a-build-artifact)
 * [A cache hit is not proof that you skipped the work](https://siddhantkhare.com/writing/kv-cache-truth-auditor)
-* [The compiled run had a lower request-latency sum. I still could not claim break-even.](https://siddhantkhare.com/writing/vllm-compilation-break-even)
 <!--END_SECTION:feed-->
 
 ## Connect
