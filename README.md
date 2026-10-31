@@ -119,6 +119,7 @@ I developed the concept and methodology, conducted and validated the study, and 
 ## Latest Blog Posts
 
 <!--START_SECTION:feed-->
+* [Leave your coding agent for 5 minutes and most of its cache is gone](https://siddhantkhare.com/writing/coding-agent-cache-five-minutes)
 * [Your coding agent loses its cache while it waits for you](https://siddhantkhare.com/writing/agentic-inference-field-guide)
 * [A clever memory pattern in Copilot’s harness](https://siddhantkhare.com/writing/why-my-coding-agent-runs-insert-statements)
 * [Repeatable output is not verified evidence](https://siddhantkhare.com/writing/repeatable-output-is-not-verified-evidence)
@@ -128,7 +129,6 @@ I developed the concept and methodology, conducted and validated the study, and 
 * [Before GPU inference, prove the inputs](https://siddhantkhare.com/writing/gpu-inference-admission-gate)
 * [Reliability is not safety: Compiled context raised observed correctness and unsafe acceptance](https://siddhantkhare.com/writing/reliability-is-not-safety)
 * [Context should be a build artifact, not a prompt assembled at runtime.](https://siddhantkhare.com/writing/context-is-a-build-artifact)
-* [A cache hit is not proof that you skipped the work](https://siddhantkhare.com/writing/kv-cache-truth-auditor)
 <!--END_SECTION:feed-->
 
 ## Connect
