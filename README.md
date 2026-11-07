@@ -119,6 +119,7 @@ I developed the concept and methodology, conducted and validated the study, and 
 ## Latest Blog Posts
 
 <!--START_SECTION:feed-->
+* [Your agent's clock is not the model's clock](https://siddhantkhare.com/writing/how-much-of-an-agent-run-is-model-work)
 * [The cluster scaled to zero before its first request](https://siddhantkhare.com/writing/cluster-scaled-to-zero-before-first-request)
 * [I asked Codex to pick ten photos from my trip](https://siddhantkhare.com/writing/memory-journal-trip)
 * [Leave your coding agent for 5 minutes and most of its cache is gone](https://siddhantkhare.com/writing/coding-agent-cache-five-minutes)
@@ -128,7 +129,6 @@ I developed the concept and methodology, conducted and validated the study, and 
 * [Inspect the context before a security agent runs](https://siddhantkhare.com/writing/security-agent-frozen-evidence)
 * [The coordinates matched. The tensors did not.](https://siddhantkhare.com/writing/same-coordinates-different-tensors)
 * [Stop making the model write hashes](https://siddhantkhare.com/writing/stop-making-the-model-write-hashes)
-* [Before GPU inference, prove the inputs](https://siddhantkhare.com/writing/gpu-inference-admission-gate)
 <!--END_SECTION:feed-->
 
 ## Connect
