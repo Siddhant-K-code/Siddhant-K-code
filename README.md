@@ -1,8 +1,16 @@
 # Hi, I'm Siddhant Khare 👋
 
-📍 **India** | **Senior Software Engineer at [Okta](https://openfga.dev/)** | 🛠️ **Former [Ona/Gitpod](https://ona.com/) engineer ([acquired by OpenAI](https://siddhantkhare.com/writing/from-internship-to-ona-joining-openai))** | 🔐 **[OpenFGA](https://openfga.dev) Core Maintainer** | 🎤 **International Speaker** | [**siddhantkhare.com**](https://siddhantkhare.com/)
+📍 **India** | **Senior Software Engineer on [Okta](https://www.okta.com/)'s Emerging Technology team** | 🛠️ **Former [Ona/Gitpod](https://ona.com/) engineer ([acquired by OpenAI](https://siddhantkhare.com/writing/from-internship-to-ona-joining-openai))** | 🔐 **[OpenFGA](https://openfga.dev) Core Maintainer** | 🎤 **International Speaker** | [**siddhantkhare.com**](https://siddhantkhare.com/)
 
-> Building infrastructure for AI agents - context efficiency, least-privilege security, production-grade tooling.
+> **The systems behind production AI agents**
+>
+> I build and study how coding agents run, what they can access, and how engineers verify their work.
+
+## Start here
+
+- **AI engineering** · [Building an Internal Platform for AI Agents](https://siddhantkhare.com/writing/building-an-internal-platform-for-ai-agents)
+- **Inference** · [Leave your coding agent for 5 minutes and most of its cache is gone](https://siddhantkhare.com/writing/coding-agent-cache-five-minutes)
+- **Agent security** · [Your agent should not inherit your admin token](https://siddhantkhare.com/writing/your-agent-should-not-inherit-your-admin-token)
 
 ## 📖 The Agentic Engineering Guide
 
@@ -22,11 +30,11 @@ I developed the concept and methodology, conducted and validated the study, and 
 
 **Authors:** Shubhanshu Kushwaha, Mamata Samal, Siddhant Khare.
 
-## Current Projects
+## Projects and experiments
 
 ### Agent Infrastructure & Context Engineering
 - 🧬 **[Distill](https://github.com/Siddhant-K-code/distill)** - Deterministic context deduplication for LLMs. Clean context in ~12ms, zero LLM calls.
-- 🔍 **[agent-trace](https://github.com/Siddhant-K-code/agent-trace)** - `strace` for AI agents. Capture and replay every tool call, prompt, and response. OTLP export to Datadog, Honeycomb, New Relic, Splunk.
+- 🔍 **[agent-trace](https://github.com/Siddhant-K-code/agent-trace)** - Prior work on capturing and replaying agent tool calls. Coverage depends on the capture adapter. [What traces can miss](https://siddhantkhare.com/writing/a-trace-is-not-evidence-if-you-dont-know-what-it-missed).
 - 🧪 **[ContextLab](https://github.com/Siddhant-K-code/ContextLab)** - Open-source LLM context engineering toolkit: analyze, compress, visualize.
 - 💾 **[TokenVM](https://github.com/Siddhant-K-code/tokenvm)** - High-performance runtime treating LLM KV cache as virtual memory with page-based eviction.
 - 📊 **[KV-Cache Profiler](https://github.com/Siddhant-K-code/kv-cache-profiler)** - Profile LLM GPU memory needs before deployment, not after.
@@ -38,7 +46,7 @@ I developed the concept and methodology, conducted and validated the study, and 
 - 💰 **[CloudArb](https://github.com/Siddhant-K-code/CloudArb)** - GPU arbitrage platform for AI compute optimization.
 
 ### Agent Security & Authorization
-- 🔐 **[agentic-authz](https://github.com/Siddhant-K-code/agentic-authz)** - OpenFGA + MCP authorization gateway for AI agents. Fine-grained access control at team, project, and tool levels.
+- 🔐 **[agentic-authz](https://github.com/Siddhant-K-code/agentic-authz)** - Earlier reference implementation for checking MCP tool access with OpenFGA.
 - 🔏 **[Agentic Authorization](https://github.com/Siddhant-K-code/agentic-authorization)** - Authorization patterns for autonomous AI agent systems using ReBAC with OpenFGA.
 - 🔗 **[A2AS Implementation](https://github.com/Siddhant-K-code/a2as-implementation-poc)** - Proof-of-concept of Agent-to-Agent Security framework.
 - 🛡️ **[Sentinel AI](https://github.com/Siddhant-K-code/sentinel-ai)** - Hermetic CLI for security scanning and dead-code detection with LLM-powered triage.
@@ -110,9 +118,8 @@ I developed the concept and methodology, conducted and validated the study, and 
 
 ## What I'm Doing
 
-- **Engineering @ [Ona](https://ona.com/)** - Building infrastructure for AI agents (formerly Gitpod).
 - **Open Source** - Maintaining OpenFGA, GitHub1s, and shipping agent infrastructure tools.
-- **Writing** - [The Agentic Engineering Guide](https://agents.siddhantkhare.com) (book) + 40+ technical articles on AI infrastructure, security, and context engineering on [siddhantkhare.com/writing](https://siddhantkhare.com/writing).
+- **Writing** · [The Agentic Engineering Guide](https://agents.siddhantkhare.com) and field reports on AI engineering, inference, and agent security. [Writing archive](https://siddhantkhare.com/writing)
 - **Speaking** - KubeCon India 2025: *Beyond Productivity: Scaling Cloud Dev Environments for Faster Feedback & Sustainable Engineering*. Available for conferences on AI agent security and authorization.
 - **Mentoring** - [Book a session on MentorCruise](https://mentorcruise.com/mentor/siddhantkhare/).
 
@@ -150,7 +157,6 @@ I developed the concept and methodology, conducted and validated the study, and 
 - **Former GitHub Intern**
 - **Maintainer** - [OpenFGA](https://github.com/openfga), [GitHub1s](https://github.com/conwnet/github1s), [Greenstand](https://github.com/Greenstand), [Indian Open Source Foundation](https://github.com/IndianOpenSourceFoundation)
 - **[The Agentic Engineering Guide](https://agents.siddhantkhare.com)** - 33-chapter open source book on AI agent infrastructure ([read online](https://agents.siddhantkhare.com) / [PDF & EPUB](https://siddhantkhar5.gumroad.com/l/agentic-engineering-guide))
-- **40+ technical articles** - Published on [siddhantkhare.com/writing](https://siddhantkhare.com/writing), multiple posts with 100+ reactions
 - **Interviewed by [New York Times](https://www.nytimes.com/)** (Cade Metz) and **[NPR Here & Now](https://www.wbur.org/hereandnow)** on AI fatigue
 - **[Business Insider](https://www.businessinsider.com/ai-fatigue-burnout-software-engineer-essay-siddhant-khare-2026-2)** - Featured essay + [video segment](https://www.businessinsider.com/engineers-are-getting-ai-fatigue-and-you-could-be-next-2026-2)
 - **[Futurism](https://futurism.com/artificial-intelligence/ai-burnout-machine)** - *"AI Is a Burnout Machine"*
