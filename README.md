@@ -2,9 +2,9 @@
 
 📍 **India** | **Senior Software Engineer on [Okta](https://www.okta.com/)'s Emerging Technology team** | 🛠️ **Former [Ona/Gitpod](https://ona.com/) engineer ([acquired by OpenAI](https://siddhantkhare.com/writing/from-internship-to-ona-joining-openai))** | 🔐 **[OpenFGA](https://openfga.dev) Core Maintainer** | 🎤 **International Speaker** | [**siddhantkhare.com**](https://siddhantkhare.com/)
 
-> **The systems behind production AI agents**
+> **I build software for AI agents and the teams that run them.**
 >
-> I build and study how coding agents run, what they can access, and how engineers verify their work.
+> I ship developer tools and products, and publish research on inference performance, agent security, and how engineers verify agent work.
 
 ## Start here
 
