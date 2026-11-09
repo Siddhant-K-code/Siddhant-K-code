@@ -126,6 +126,7 @@ I developed the concept and methodology, conducted and validated the study, and 
 ## Latest Blog Posts
 
 <!--START_SECTION:feed-->
+* [Can a flaky test make a coding agent undo a good fix?](https://siddhantkhare.com/writing/the-test-lied-build-log-1)
 * [Your agent's clock is not the model's clock](https://siddhantkhare.com/writing/how-much-of-an-agent-run-is-model-work)
 * [The cluster scaled to zero before its first request](https://siddhantkhare.com/writing/cluster-scaled-to-zero-before-first-request)
 * [I asked Codex to pick ten photos from my trip](https://siddhantkhare.com/writing/memory-journal-trip)
@@ -135,7 +136,6 @@ I developed the concept and methodology, conducted and validated the study, and 
 * [Repeatable output is not verified evidence](https://siddhantkhare.com/writing/repeatable-output-is-not-verified-evidence)
 * [Inspect the context before a security agent runs](https://siddhantkhare.com/writing/security-agent-frozen-evidence)
 * [The coordinates matched. The tensors did not.](https://siddhantkhare.com/writing/same-coordinates-different-tensors)
-* [Stop making the model write hashes](https://siddhantkhare.com/writing/stop-making-the-model-write-hashes)
 <!--END_SECTION:feed-->
 
 ## Connect
