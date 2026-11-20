@@ -126,6 +126,7 @@ I developed the concept and methodology, conducted and validated the study, and 
 ## Latest Blog Posts
 
 <!--START_SECTION:feed-->
+* [What agent pull requests carry for their reviewer](https://siddhantkhare.com/writing/what-agent-pull-requests-carry-for-reviewers)
 * [A skill that never loads is not a broken skill](https://siddhantkhare.com/writing/a-skill-that-never-loads-is-not-broken)
 * [Can a flaky test make a coding agent undo a good fix?](https://siddhantkhare.com/writing/the-test-lied-build-log-1)
 * [Your agent's clock is not the model's clock](https://siddhantkhare.com/writing/how-much-of-an-agent-run-is-model-work)
@@ -135,7 +136,6 @@ I developed the concept and methodology, conducted and validated the study, and 
 * [Your coding agent loses its cache while it waits for you](https://siddhantkhare.com/writing/agentic-inference-field-guide)
 * [A clever memory pattern in Copilot’s harness](https://siddhantkhare.com/writing/why-my-coding-agent-runs-insert-statements)
 * [Repeatable output is not verified evidence](https://siddhantkhare.com/writing/repeatable-output-is-not-verified-evidence)
-* [Inspect the context before a security agent runs](https://siddhantkhare.com/writing/security-agent-frozen-evidence)
 <!--END_SECTION:feed-->
 
 ## Connect
